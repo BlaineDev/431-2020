@@ -52,7 +52,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Some of you (about 12 project groups in all) will instead meet with Dr. Love via Zoom to discuss Project B either on 2020-12-09, 12-10 or 12-11.
     - You'll know which oral presentation (recording or meeting) you'll need to do by 2020-12-01, when you get the questions.
 9. If you want to request a regrade on one of the Labs, you need to fill out the [Lab Regrade Request Form](http://bit.ly/431-2020-lab-regrade-requests) by noon on 2020-12-10, too.
-10. Quiz 2 will be made available to you on Friday 2020-12-04, the day after our last class. It was originally supposed to be due on 2020-12-08, but I've now moved that deadline back to Friday 2020-12-11 at noon.
+10. Quiz 2 will be made available to you on Friday 2020-12-04, the day after our last class. It was originally supposed to be due on 2020-12-08, but I've now moved that deadline back to Monday 2020-12-14 at noon.
 
 Note that the end of the University's Final Exam period is 2020-12-16, but all materials for this class must be in to Dr. Love by the deadlines above.
 
