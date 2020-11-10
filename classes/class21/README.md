@@ -22,7 +22,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 3. The [ggplot2 book](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen is ramping up its third edition. If you're looking for a cookbook, though, I'd recommend the [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang.
 4. [Explore your activity on Google with R](https://towardsdatascience.com/explore-your-activity-on-google-with-r-how-to-analyze-and-visualize-your-search-history-1fb74e5fb2b6) is an interesting piece posted 2020-11-06 by Saul Beuntello at [Towards Data Science](https://towardsdatascience.com/). 
 
-## What Are the Remaining Deliverables This Semester?
+## There are Ten Remaining Deliverables This Semester
 
 ### There are four classes (including today) and four deliverables before Thanksgiving Break (prior to 2020-11-20)
 
@@ -39,7 +39,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - complete some very basic summaries in R (really, just counts of how many "complete" cases you have)
     - fill out the form at http://bit.ly/431-projectB-data-plan ([the questions on the form](https://thomaselove.github.io/431-2020-projectB/your5.html) are available for you to review so you can prepare.)
 
-### After Thanksgiving Break, we have two classes and five deliverables.
+### After Thanksgiving Break, we have two classes and six deliverables.
 
 5. Watch the five extra videos associated with Class 20, that you'll find in the **Class 20 Extra Videos** folder in our Shared Google Drive, before we return from Thanksgiving Break on 2020-11-30. Somehow, I'll know if you have done this. Hint, hint.
 6. [Lab 08](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md) is due at 9 PM on Monday 2020-11-30. 
@@ -51,7 +51,10 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Most of you will submit a video recording of yourself talking about your project in response to questions Dr. Love will provide on 2020-12-01. 
     - Some of you (about 12 project groups in all) will instead meet with Dr. Love via Zoom to discuss Project B either on 2020-12-09, 12-10 or 12-11.
     - You'll know which oral presentation (recording or meeting) you'll need to do by 2020-12-01, when you get the questions.
-9. Quiz 2 will be made available to you by 5 PM on Friday 2020-12-04, the day after our last class. It was originally supposed to be due on 2020-12-08, but I've now moved that deadline back to Friday 2020-12-11 at noon.
+9. If you want to request a regrade on one of the Labs, you need to fill out the [Lab Regrade Request Form](http://bit.ly/431-2020-lab-regrade-requests) by noon on 2020-12-10, too.
+10. Quiz 2 will be made available to you on Friday 2020-12-04, the day after our last class. It was originally supposed to be due on 2020-12-08, but I've now moved that deadline back to Friday 2020-12-11 at noon.
+
+Note that the end of the University's Final Exam period is 2020-12-16, but all materials for this class must be in to Dr. Love by the deadlines above.
 
 # One Last Thing
 
