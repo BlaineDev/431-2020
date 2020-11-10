@@ -45,7 +45,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 6. [Lab 08](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md) is due at 9 PM on Monday 2020-11-30. 
     - Remember that your lowest two lab grades this semester are ignored, so you can skip two if you did well on the others, although Labs 7 and 8 are an excellent way to build up skills for Quiz 2 and Project B.
 7. There will be a Minute Paper after Class 25 due 2020-12-02.
-8. [Project B] is due 2020-12-10 at Noon.
+8. [Project B](https://thomaselove.github.io/431-2020-projectB/) materials are due 2020-12-10 at Noon.
     - All of you will be submitting your (group's) Study 1 Report (Rmd and HTML) and Study 2 Report (Rmd and HTML).
     - All of you will submit a self-evaluation Google Form that Dr. Love will make available on 2020-12-01.
     - Most of you will submit a video recording of yourself talking about your project in response to questions Dr. Love will provide on 2020-12-01. 
