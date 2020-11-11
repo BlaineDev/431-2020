@@ -12,7 +12,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Announcements
 
-1. I changed the Lab 8 instructions to use `slice_sample()` rather than another approach, so that what you do in Lab 8 will be a better match to what I am looking for you to do in Project B (and in general.)
+1. I changed the [Lab 8 instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08/lab08.md) to use `slice_sample()` to select the training sample in the leadup to Question 4, so that what you do in Lab 8 will be a better match to what I am looking for you to do in Project B (and in general.)
 2. Data for Study 1 in Project B is forthcoming. **More to come.**
 
 ## What Should I be working on?
