@@ -12,4 +12,6 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Announcements
 
-1. More to come.
+1. I changed the Lab 8 instructions to use `slice_sample()` rather than another approach, so that what you do in Lab 8 will be a better match to what I am looking for you to do in Project B (and in general.)
+2. Data for Study 1 in Project B is forthcoming. **More to come.**
+
