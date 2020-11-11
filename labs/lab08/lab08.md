@@ -1,6 +1,6 @@
 Lab 08
 ================
-Last Edited 2020-10-25 23:35:10
+Last Edited 2020-11-11 10:54:28
 
 ## General Instructions
 
@@ -133,7 +133,7 @@ what we’ll do in the Answer Sketch.
 
 ``` r
 set.seed(2020431)
-plas_train <- plasma8 %>% sample_n(240)
+plas_train <- plasma8 %>% slice_sample(n = 240)
 plas_test <- anti_join(plasma8, plas_train, 
                       by = "subj_ID")
 ```

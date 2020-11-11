@@ -74,11 +74,12 @@ library(tidyverse)
 plasma8 <- readRDS("data/plasma8.Rds")
 ```
 
+
 Then use the following code to select a training sample from the data set (to be used in questions 4-7) and a test sample (to be used in question 8). Use `2020431` as your seed as we have done here - that is what we'll do in the Answer Sketch.
 
 ```{r}
 set.seed(2020431)
-plas_train <- plasma8 %>% sample_n(240)
+plas_train <- plasma8 %>% slice_sample(n = 240)
 plas_test <- anti_join(plasma8, plas_train, 
                       by = "subj_ID")
 ```
