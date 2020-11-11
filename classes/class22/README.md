@@ -15,3 +15,11 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 1. I changed the Lab 8 instructions to use `slice_sample()` rather than another approach, so that what you do in Lab 8 will be a better match to what I am looking for you to do in Project B (and in general.)
 2. Data for Study 1 in Project B is forthcoming. **More to come.**
 
+## What Should I be working on?
+
+1. Once the Class Survey is complete and Dr. Love makes the data available for [Study 1 in Project B](https://thomaselove.github.io/431-2020-projectB/survey1.html), you should be able to complete Study 1 in its entirety.
+2. [Lab 07](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md) is due at 9 PM on Monday 2020-11-16. 
+    - Remember that your lowest two lab grades this semester are ignored, so you can skip two if you did well on the others, although Labs 7 and 8 are an excellent way to build up skills for Quiz 2 and Project B.
+3. The Project B [Study 2 Data Plan](https://thomaselove.github.io/431-2020-projectB/your5.html) is due at noon on Thursday 2020-11-19.
+4. Look at the [Calendar](https://thomaselove.github.io/431/calendar.html) (also summarized in the [Class 21 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21#there-are-ten-remaining-deliverables-this-semester)) for remaining deliverables and deadlines.
+
