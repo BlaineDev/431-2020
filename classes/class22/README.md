@@ -23,7 +23,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 As I hope you know by now, Project B involves two studies.
 
 In Study 1, each project team will work with the same data, from the Class Survey of students in 2019 and 2020, and I [provided those data in full to you](https://thomaselove.github.io/431-2020-projectB/survey3.html), late last night, and adjusted the Study 1 instructions on getting the data accordingly.
-    - You now have everything you need to accomplish all of Study 1, including a Demonstration project.
+
+- You now have everything you need to accomplish all of Study 1, including a Demonstration project.
 
 In Study 2, you are [responsible for selecting your data source](https://thomaselove.github.io/431-2020-projectB/your1.html), and everyone as a result could be working with different data. You have all of the information I plan to give you to let you obtain data for Study 2. Fundamentally, I have suggested two options for your data for this Study.
 
