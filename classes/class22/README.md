@@ -25,7 +25,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 2. [Lab 07](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md) is due at 9 PM on Monday 2020-11-16. 
     - Remember that your lowest two lab grades this semester are ignored, so you can skip two if you did well on the others, although Labs 7 and 8 are an excellent way to build up skills for Quiz 2 and Project B.
 3. The Project B [Study 2 Data Plan](https://thomaselove.github.io/431-2020-projectB/your5.html) is due at noon on Thursday 2020-11-19.
-4. Look at the [Calendar](https://thomaselove.github.io/431/calendar.html) (also summarized in the [Class 21 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21#there-are-ten-remaining-deliverables-this-semester)) for remaining deliverables and deadlines.
+4. Watch the [extra videos associated with Class 20](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class20#the-extra-materials-for-class-20-are-provided-below) before the end of Thanksgiving Break. I'll know if you did, and they will help with Project B Study 1. Hint, hint.
+5. Look at the [Calendar](https://thomaselove.github.io/431/calendar.html) (also summarized in the [Class 21 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21#there-are-ten-remaining-deliverables-this-semester)) for remaining deliverables and deadlines.
 
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/images/senn.PNG)
 
