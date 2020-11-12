@@ -16,12 +16,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## Announcements
 
 1. I changed the [Lab 8 instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08/lab08.md) to use `slice_sample()` to select the training sample in the leadup to Question 4, so that what you do in Lab 8 will be a better match to what I am looking for you to do in Project B (and in general.)
-2. Data for Study 1 in Project B is forthcoming. **More to come.**
-3. I'll give you an update on Grades for Project A.
+2. Data for Study 1 in Project B is [now available for both 2019 and 2020](https://thomaselove.github.io/431-2020-projectB/survey3.html), and the Study 1 instructions now reflect the change. [Go here](https://thomaselove.github.io/431-2020-projectB/survey3.html) for information on obtaining the data. 
+3. In class, I'll give you an update on Grades for Project A.
 
 ## What Should I be working on?
 
-1. Once the Class Survey is complete and Dr. Love makes the data available for [Study 1 in Project B](https://thomaselove.github.io/431-2020-projectB/survey1.html), you should be able to complete Study 1 in its entirety.
+1. Now that the Class Survey is complete and Dr. Love has made the 2019 and 2020 data available for [Study 1 in Project B](https://thomaselove.github.io/431-2020-projectB/survey1.html), you have everything you'll need to complete Study 1 for Project B.
 2. [Lab 07](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md) is due at 9 PM on Monday 2020-11-16. 
     - Remember that your lowest two lab grades this semester are ignored, so you can skip two if you did well on the others, although Labs 7 and 8 are an excellent way to build up skills for Quiz 2 and Project B.
 3. The Project B [Study 2 Data Plan](https://thomaselove.github.io/431-2020-projectB/your5.html) is due at noon on Thursday 2020-11-19.
