@@ -108,7 +108,7 @@ If we treat our sample size and study design as fixed strategies, then there is 
 Suppose we are testing a new treatment for some condition.
 
 - A Type I error means we conclude this treatment is helpful, when it actually isn't.
-- A Type II error means we conclude this treament is not helpful, when it actually is.
+- A Type II error means we conclude this treatment is not helpful, when it actually is.
 
 ## Early Work: Power and Sample Size
 
@@ -364,7 +364,7 @@ and does our answer change depending on whether we start our work with the compl
 
 # Split the data into a model development (training) sample of about 70-80% of the observations, and a  model test (holdout) sample, containing the remaining observations.
 
-## Partitioning the 428 Complete Cases
+## Partitioning the 412 Complete Cases
 
 - We'll select a random sample (without replacement) of 70% of the data (70-80% is customary) for model training. 
 - We'll hold out the remaining 30% for model testing, using `anti_join()` to identify all `dm1_cc` subjects not in `dm1_cc_train`.
@@ -517,12 +517,14 @@ p1 + p2 - p3 +
                            " adults with diabetes"))
 ```
 
+# This is where we stopped after Class 22. We'll restart here in Class 23.
+
 ## Scatterplot Matrix (code on next slide)
 
 ```{r, echo = FALSE}
 dm1_cc_train %>% 
   mutate(inv_a1c = 1/a1c) %>%
-  select(inv_a1c, a1c_old, age, income) %>%
+  select(a1c_old, age, income, inv_a1c) %>%
   ggpairs(., 
     title = "Scatterplots: Model Development Sample",
     lower = list(combo = wrap("facethist", bins = 10)))
@@ -533,7 +535,7 @@ dm1_cc_train %>%
 ```{r, eval = FALSE}
 dm1_cc_train %>% 
   mutate(inv_a1c = 1/a1c) %>%
-  select(inv_a1c, a1c_old, age, income) %>%
+  select(a1c_old, age, income, inv_a1c) %>%
   ggpairs(., 
     title = "Scatterplots: Model Development Sample",
     lower = list(combo = wrap("facethist", bins = 10)))
@@ -541,8 +543,8 @@ dm1_cc_train %>%
 
 Note that `ggpairs` comes from the `GGally` package.
 
-- If you have more than 4-5 predictors, it's usually necessary to split this up into two or more scatterplot matrices.
-- I'd always put the outcome first in my selection here, so that things turn up on 
+- If you have more than 4-5 predictors, it's usually necessary to split this up into two or more scatterplot matrices, each of which should include the outcome.
+- I'd always put the outcome last in my selection here. That way, the bottom row will show the most important scatterplots, with the outcome on the Y axis, and each predictor, in turn on the X.
 
 ## Three Regression Models We'll Fit
 
