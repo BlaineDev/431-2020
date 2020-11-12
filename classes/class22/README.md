@@ -9,11 +9,15 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## Today's Slides
 
 - Class 22 slides will be available in [PDF format](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/431_class-22-slides_2020.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/431_class-22-slides_2020.Rmd).
+    - Actually, the slides posted here are longer than usual. They include materials for Classes 22, 23 and 24, so you'll find them posted to those classes as well, as we go along. 
+    - The only changes (barring me finding mistakes) I intend are that I will add a slide each day to indicate where we stopped. 
+    - Over these next three classes, I will discuss everything I am hoping you will use in Project B Study 2 that we have not yet covered, so that you'll be ready to do Study 2 a week from now, once I've signed off on your Study 2 Data Plan.
 
 ## Announcements
 
 1. I changed the [Lab 8 instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08/lab08.md) to use `slice_sample()` to select the training sample in the leadup to Question 4, so that what you do in Lab 8 will be a better match to what I am looking for you to do in Project B (and in general.)
 2. Data for Study 1 in Project B is forthcoming. **More to come.**
+3. I'll give you an update on Grades for Project A.
 
 ## What Should I be working on?
 
