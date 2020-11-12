@@ -10,7 +10,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 - Class 22 slides are now available in [PDF format](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/431_class-22-slides_2020.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/431_class-22-slides_2020.Rmd).
     - Actually, the slides posted here are longer than usual. They include materials for Classes 22, 23 and 24, so you'll find them posted to those classes as well, as we go along. 
-    - The only changes (barring me finding mistakes) I intend are that I will add a slide each day to indicate where we stopped. 
+    - The only changes (other than correcting mistakes) I intend to make are adding a slide to indicate where we stopped at the end of class.
     - Over these next three classes, I will discuss everything I am hoping you will use in Project B Study 2 that we have not yet covered, so that you'll be ready to do Study 2 a week from now, once I've signed off on your Study 2 Data Plan.
 
 ## Announcements
