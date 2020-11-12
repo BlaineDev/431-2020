@@ -27,7 +27,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 3. The Project B [Study 2 Data Plan](https://thomaselove.github.io/431-2020-projectB/your5.html) is due at noon on Thursday 2020-11-19.
 4. Look at the [Calendar](https://thomaselove.github.io/431/calendar.html) (also summarized in the [Class 21 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21#there-are-ten-remaining-deliverables-this-semester)) for remaining deliverables and deadlines.
 
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/images/senn.png)
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class22/images/senn.PNG)
 
 # One Last Thing
 
