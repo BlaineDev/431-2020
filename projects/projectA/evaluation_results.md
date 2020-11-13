@@ -1,6 +1,12 @@
 # Evaluation of Project A
 
-Thank you all for your work on the project. An email from me with the subject line **431 Project A Results** should appear in your preferred email by 5 PM on 2020-11-13. Please read the comments as coming from multiple people (including not just myself but also the TAs) and I hope you will forgive us any typographical or syntax errors, as I didn't find the time to closely edit all 70 sets of comments. As I wrote in that email, we hope that this was a useful exercise and that project B will be even more successful.
+Thank you all for your work on the project. 
+
+An email from me with the subject line **431 Project A Results** should appear in your preferred email by 5 PM on 2020-11-13. 
+
+Please read the comments in that email as coming from multiple people (including not just myself but also the TAs) and I hope you will forgive us any typographical or syntax errors, as I didn't find the time to closely edit all 70 sets of comments. 
+
+As I wrote in that email, we hope that this was a useful exercise and that project B will be even more successful.
 
 ## Breakdown of Scores
 
