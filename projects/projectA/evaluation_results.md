@@ -3,7 +3,7 @@
 Unedited results from two questions asked in the self-evaluation follow, if you're interested to see what people (said they) learned.
 
 1. [What was the key finding of your study?](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectA/evaluation_results.md#what-was-the-key-finding-of-your-study)
-2. What is the most important thing that you know now that you wished you'd known when you began Project A?
+2. [What is the most important thing that you know now that you wished you'd known when you began Project A?](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectA/evaluation_results.md#what-is-the-most-important-thing-that-you-know-now-that-you-wished-youd-known-when-you-began-project-a)
 
 ### What was the key finding of your study?
 
