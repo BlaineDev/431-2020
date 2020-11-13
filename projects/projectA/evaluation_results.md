@@ -1,24 +1,35 @@
 # Evaluation of Project A
 
-Thank you all for your work on the project. An email from me with the subject line **431 Project A Results** should appear in your preferred email by 5 PM on 2020-11-13. Please read the comments as coming from multiple people (including not just myself but also the TAs) and I hope you will forgive us any typographical or syntax errors, as I didn't find the time to closely edit all 70 sets of comments.
+Thank you all for your work on the project. An email from me with the subject line **431 Project A Results** should appear in your preferred email by 5 PM on 2020-11-13. Please read the comments as coming from multiple people (including not just myself but also the TAs) and I hope you will forgive us any typographical or syntax errors, as I didn't find the time to closely edit all 70 sets of comments. As I wrote in that email, we hope that this was a useful exercise and that project B will be even more successful.
+
+## Breakdown of Scores
+
+Remember that in this course, 
 
 - Grades of 85 and higher at the end of the semester convert to some form of A.
 - Grades of 70 to 84.9 at the end of the semester convert to some form of B.
 
-## Breakdown of Scores
+Most students scored at least a B on Project A. Those that did not skipped an important step in the process.
 
-- Most students scored at least a B. Those that did not skipped an important step in the process.
 - The median grade on the Proposal (out of 25 points) was 22.5, and the maximum score achieved was 25
 - The median grade on the Report (out of 40 points) was 34, and the maximum score achieved was 39
 - The median grade on the Video (out of 25 points) was 20, and the maximum score achieved was 24.5
 - The median grade on the Self-Evaluation (out of 10 points) was 9, and the maximum score achieved was 9.5
 - No penalties were applied for lateness on the final report/video/self-evaluation.
 
+If you have questions about your grade, please email Dr. Love directly.
+
 ## Sharing a Video
 
 I plan to share just one of the video presentations, in an effort not to overwhelm you, and to encourage you all to watch it. When I have permission from the student involved, I will post it here. 
 
 While the presentation isn't perfect, it does show what I believe to be an excellent result within the 3 minute time limit for an individual presentation, which is focused nicely on the things I thought were most important in their analysis. It also made good use of technology that should be available to you all, as opposed to some of the others that used very polished editing strategies. I'll note that there were many solid presentations, and some that were truly excellent, in addition to the one that I plan to share.
+
+## Working with a Partner
+
+Many of the partnerships worked well, although some did not, at least according to the self-evaluation and what I could tell from the videos.  If you worked with a partner, your grades on the proposal and report will be identical, but your grades on the video and self-evaluation will not (or at least won't necessarily) be the same.
+
+- You should have received an email from me in the morning on 2020-11-13 indicating whether you are welcome to work alone or with a partner on Project B (that's the situation for most people) or whether you need to work alone. Let me know if you are unclear on your status.
 
 ## Comments in the Self-Evaluations
 
