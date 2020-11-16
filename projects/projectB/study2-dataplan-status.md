@@ -21,8 +21,8 @@ Team Member(s) | Outcome | Key Predictor | *n*
 Leila Hojat | Waist Circumference | Sugar Consumption | 5229
 Ali Klein | Total Cholesterol | Sleep Duration | 873
 Joe Magoline | Body Mass Index | Sugar Consumption | 6754
-Kiara White & Lin Zhu | Systolic BP | Diastolic BP | 8704
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
+Kiara White & Lin Zhu | Systolic BP | Diastolic BP | 8704
 
 ### Abbreviations
 
