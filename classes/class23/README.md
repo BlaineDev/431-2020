@@ -14,7 +14,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## Announcements
 
 1. The Lab 07 sketch and rubric **will be posted** on Tuesday 2020-11-17 by noon.
-2. Grades on Lab 06 **should be available** by Tuesday 2020-11-17 at class time.
+2. Grades on Lab 06 are [now posted](http://bit.ly/431-2020-grades) in the usual place. 
+    - Here's a [reminder regarding Regrade Requests](https://github.com/THOMASELOVE/431-2020/tree/master/labs#grading-errors-and-regrade-requests).
+    - Here's a [reminder about our policy on late Lab assignments](https://github.com/THOMASELOVE/431-2020/tree/master/labs#late-work).
 3. Project A Results
     - Grades and feedback on Project A were emailed on Friday 2020-11-13. If you didn't get your results, please contact Dr. Love. For Project B, you will get much, much, much less feedback - not much more than your overall grade, really.
     - I also sent email 2020-11-13 indicating whether you are welcome to work alone or with a partner on Project B (most people) or whether you need to work alone. Let Dr. Love know if you are unclear on your status.
