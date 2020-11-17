@@ -70,7 +70,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 5. Project B Study 1 (which you can do now) and Study 2 reports and other materials are due 2020-12-10 at noon.
     - You can do some of Study 2 now, and you'll be able to do all of it after (1) I've approved [your Study 2 Data Plan](https://thomaselove.github.io/431-2020-projectB/your5.html) **and** (2) we've completed Class 24.
 
-## Subscriptions, anyone?
+## One Last Thing
 
 You may be interested in subscribing to:
 
@@ -78,4 +78,4 @@ You may be interested in subscribing to:
 - [Morning Distribution](https://fivethirtyeight.com/newsletter/morning/), a daily newsletter from FiveThirtyEight.
 - [Pod of Asclepius](https://www.podofasclepius.com/mail-list) Mailing List for updates on the [Philosophy of Data Science series](https://www.youtube.com/watch?v=yeHEfHN39Cc).
 
-## One Last Thing
+
