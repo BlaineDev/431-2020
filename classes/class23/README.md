@@ -4,7 +4,9 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | zoom information | for downloads
 
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class23/images/senn_personal.PNG)
+## from XKCD: [Probability Comparisons](https://xkcd.com/2379/)
+
+![](https://imgs.xkcd.com/comics/probability_comparisons.png)
 
 ## Today's Slides
 
@@ -76,7 +78,4 @@ You may be interested in subscribing to:
 - [Morning Distribution](https://fivethirtyeight.com/newsletter/morning/), a daily newsletter from FiveThirtyEight.
 - [Pod of Asclepius](https://www.podofasclepius.com/mail-list) Mailing List for updates on the [Philosophy of Data Science series](https://www.youtube.com/watch?v=yeHEfHN39Cc).
 
-## One Last Thing, from XKCD: [Probability Comparisons](https://xkcd.com/2379/)
-
-![](https://imgs.xkcd.com/comics/probability_comparisons.png)
-
+## One Last Thing
