@@ -10,4 +10,7 @@ The [Project B instructions are posted to their own website](https://thomaselove
 
 ## Study 2 Demonstration Project
 
-Some materials for the Project B Study 2 demonstration project will be found in this repository when they become available.
+- Details on the Demonstration Project for Study 2 are [found here](https://thomaselove.github.io/431-2020-projectB/your7.html).
+- The [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/431-projectB-study2-demo.Rmd) and [HTML documents](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/431-projectB-study2-demo.html) for the Project B Study 2 demonstration project can be found in this repository.
+- You can view the HTML directly at https://rpubs.com/TELOVE/projB-study2-demo.
+
