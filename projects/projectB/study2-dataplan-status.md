@@ -13,11 +13,13 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 Team Member(s) | Data Source | Outcome | Key Predictor | *n*
 ------------- | ------------- | --------------------- |  ------------------ | ----:
 Long Vu | [NHAMCS 2017](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm) | ED Wait Time | Payer Type | 10000
+Davis Weaver | [1.88 million US Wildfires](https://www.kaggle.com/rtatman/188-million-us-wildfires) | Fire Size (acres) | Year | 10000
 
 ### Teams/Individuals using NHANES 2017-18 Data
 
 Team Member(s) | Outcome | Key Predictor | *n*
 ------------- | ------------- | ------------- | ----:
+Oindrila De | Systolid BP (1st) | Sleep Duration | 4251
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
 Leila Hojat | Waist Circumference | Sugar Consumption | 5229
 Ali Klein | Total Cholesterol | Sleep Duration | 873
