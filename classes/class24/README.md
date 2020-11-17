@@ -4,7 +4,9 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | zoom information | for downloads
 
-**Quote to come.**
+## XKCD on [Prediction](https://xkcd.com/2370/)
+
+![](https://imgs.xkcd.com/comics/prediction.png)
 
 ## Today's Slides
 
