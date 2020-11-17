@@ -26,6 +26,7 @@ library(rmarkdown)
 library(GGally)
 library(patchwork)
 library(car)
+library(equatiomatic)
 library(janitor)
 library(magrittr)
 library(mosaic)
@@ -512,9 +513,12 @@ I wanted to get at least two significant figures in my coefficient and standard 
 
 ## Describing the Equation
 
-Our model is 6.92 + 0.37 sqrt(sbp1) + 0.0048 age + 0.0029 bmi1 + 0.052 diabetes - 0.119 tobaccoquit + 0.014 tobaccocurrent.
+We could use the `equatiomatic` package to present the model. Note the use of **results = 'asis'** in the chunk setup in order to get the results to show up in my HTML. Be sure to use enough digits so that you have at least a couple of significant figures in each coefficient, please.
 
-You are welcome to use the `equatiomatic` package to print this equation more nicely if you can get it working. Be sure to use enough digits so that you have at least a couple of significant figures in each coefficient, please.
+```{r, results = 'asis'}
+extract_eq(model_big, use_coefs = TRUE, coef_digits = 4,
+           terms_per_line = 3, wrap = TRUE, ital_vars = TRUE)
+```
 
 This model implies for the key predictor that:
 
@@ -548,12 +552,6 @@ model_small <- lm(sqrt(sbp2) ~ sqrt(sbp1) + age + tobacco, data = hbp_training)
 summary(model_small)
 ```
 
-## Small Model Regression Equation
-
-Our equation in the small model is
-
-sqrt(sbp2) = 7.06 + 0.37 sqrt(sbp1) + 0.0041 age - 0.12 tobaccoquit - 0.0041 tobaccocurrent
-
 ## Effect Sizes: Coefficient Estimates
 
 Here, we need to specify the size, magnitude and meaning of all coefficients, and identify appropriate conclusions regarding effect sizes with 90% confidence intervals.
@@ -562,6 +560,13 @@ Here, we need to specify the size, magnitude and meaning of all coefficients, an
 tidy(model_small, conf.int = TRUE, conf.level = 0.90) %>% 
   select(term, estimate, std.error, conf.low, conf.high, p.value) %>% 
   kable(dig = 4)
+```
+
+## Small Model Regression Equation
+
+```{r, results = 'asis'}
+extract_eq(model_small, use_coefs = TRUE, coef_digits = 4,
+           terms_per_line = 3, wrap = TRUE, ital_vars = TRUE)
 ```
 
 I'll skip the necessary English sentences here in the demo that explain the meaning of the estimates in our model. 
