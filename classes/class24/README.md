@@ -16,7 +16,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 1. Results of Minute Paper after Class 23 **to come**.
 2. Status report on Project B Study 2 Data Plans (due today at noon) [can be found here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/study2-dataplan-status.md).
-3. No class next week. TA office hours will be held through Friday 2020-11-20 and then not again until Saturday 2020-11-28. Dr. Love will address Piazza questions and emails on Monday 2020-11-23, but will be unavailable until Sunday 2020-11-29 after that.
+3. No class next week. 
+    - TA office hours will be held through Friday 2020-11-20 and then not again until Saturday 2020-11-28. 
+    - Dr. Love will address Piazza questions and emails on Monday 2020-11-23 and then not again until Monday 2020-11-30.
 
 ## What Should I Be Working On?
 
