@@ -18,12 +18,14 @@ Long Vu | [NHAMCS 2017](https://www.cdc.gov/nchs/ahcd/datasets_documentation_rel
 
 Team Member(s) | Outcome | Key Predictor | *n*
 ------------- | ------------- | ------------- | ----:
+Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
 Leila Hojat | Waist Circumference | Sugar Consumption | 5229
 Ali Klein | Total Cholesterol | Sleep Duration | 873
 Jeff Kovach | Pulse Rate | Sedentary Activity | 4936
 Joe Magoline | Body Mass Index | Sugar Consumption | 6754
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
-Kiara White & Lin Zhu | Systolic BP | Diastolic BP | 8704
+Kiara White & Lin Zhu | Systolic BP (1st) | Diastolic BP | 8704
+Patrick Wu | Pulse Rate | Sodium Intake | 6143
 
 ### Abbreviations
 
