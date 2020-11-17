@@ -38,8 +38,11 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Dr. Love will provide further details on the oral presentations for Project B on December 1.
     - Some of you will be required to present more extensively, via a 15-20 minute Zoom call, while the rest will present via a pre-recorded video with a strict (and short) time limit answering questions I will pose on December 1.
     - If you are required to give a Zoom presentation, the available times will be on December 9, 10 and 11, and I will do what I can to accommodate your preferences and schedules.
-6. Need to pull the coefficients from a regression equation out of an R model to present the equation? Davis Weaver was good enough to suggest the [equatiomatic package](https://github.com/datalorax/equatiomatic). 
-7. This Friday 2020-11-20 from 10 AM to 1 PM is the Virtual Public Health Innovations Conference sponored by the MPH program at CWRU, and open to all. [This pdf flyer](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class23/Fall%202020%20Innovations%20full%20agenda.pdf) has all of the information.
+7. The [Study 2 Demonstration Project](https://thomaselove.github.io/431-2020-projectB/your7.html) is now available as part of the Project B instructions.
+    - You can view the [HTML version of the Study 2 Demo Project here](https://rpubs.com/TELOVE/projB-study2-demo).
+    - Some minor revisions have been posted to the Project B Instructions, in the [Study 1 demo project](https://thomaselove.github.io/431-2020-projectB/your6.html), and for the report specifications for [Study 1](https://thomaselove.github.io/431-2020-projectB/survey5.html) and [Study 2](https://thomaselove.github.io/431-2020-projectB/your6.html).
+8. Need to pull the coefficients from a regression equation out of an R model to present the equation? Davis Weaver was good enough to suggest the [equatiomatic package](https://github.com/datalorax/equatiomatic). 
+9. This Friday 2020-11-20 from 10 AM to 1 PM is the Virtual Public Health Innovations Conference sponored by the MPH program at CWRU, and open to all. [This pdf flyer](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class23/Fall%202020%20Innovations%20full%20agenda.pdf) has all of the information.
     - Several folks affiliated with this course are part of the virtual poster session, and there are some very interesting talks planned, including opening remarks from Daniel Tisch and Peter Zimmerman on "Explaining the current state of COVID-19: Preparing to Answer your relatives' burning questions around the Thanksgiving Dinner Table." 
 
 ## What Should I Be Working On?
