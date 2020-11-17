@@ -1,0 +1,302 @@
+---
+title: "Answer Sketch and Rubric for Lab 07"
+author: "431 Staff and Professor Love"
+date: "Last Edited `r Sys.time()`"
+output:
+  pdf_document:
+    number_sections: TRUE
+---
+
+# Setup {-}
+
+Here's the complete R setup we used to build this answer sketch. Note that you'd need to first install the equatiomatic package in order to load it.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment=NA)
+options(width = 60)
+
+library(equatiomatic)
+library(janitor) 
+library(magrittr)
+library(broom) 
+library(patchwork)
+library(tidyverse)
+## make sure these packages are installed in R
+
+options(dplyr.summarise.inform = FALSE)
+theme_set(theme_bw())
+```
+
+## Data Load {-}
+
+```{r, message = FALSE}
+data_url_a <- 
+  "https://raw.githubusercontent.com/THOMASELOVE/431-2020/master/labs/lab07/data/lab07a.csv"
+
+lab07a <- read_csv(data_url_a)
+
+data_url_b <- 
+  "https://raw.githubusercontent.com/THOMASELOVE/431-2020/master/labs/lab07/data/lab07b.csv"
+
+lab07b <- read_csv(data_url_b)
+
+```
+
+# Question 1 (10 points)
+
+> Find an example of a visualization designed to support a comparison of at least two population means or medians using either paired or independent samples in a published work (online or not) for which you can find the complete sourcing information, and which was built no earlier than January 1, 2016. You want to pick a visualization that you think you can improve, either because it's not designed well, or because it's misleading with regard to the comparison it's designed to support.
+
+> Provide the complete reference and a copy of the image itself (including any captions or titles) and surrounding material for the visualization.
+
+Here is the Question 1 rubric.
+
+- Award 5 points for providing a visualization comparing at least two population means/medians (can be paired or independent samples).  
+- Award 3 points for providing a copy of the image.  
+- Award 2 points for a complete reference to the work that contained the visualization.  
+
+# Question 2 (15 points)
+
+> Provide your best suggestion as to how either the visualization or the comparison that you found in Question 1 might be improved, and explain why your change (or changes) would be an improvement.
+
+Here is the Question 2 rubric.
+
+- Award 4 points if a reasonable suggestion to improve the visualization is provided.  
+- Award another 4 points if the suggestion was properly justified.  
+- The entire response must be written in complete English sentences and use proper grammar.  
+- Award up to 2 more points if the student did a particularly good job  
+
+# Question 3 (10 points)
+
+The same data appear in the `lab07a.csv` and the `lab07b.csv` files, [available to you here](https://github.com/THOMASELOVE/431-2020/tree/master/labs/lab07/data). What is the difference between the two files, and which of the two files is more useful for fitting an ANOVA to compare the PDS means across the three groups of study participants? Why?
+
+## Answer for Question 3
+
+The answer is the `lab07a` version is the appropriate one to use.
+
+- Our outcome variable in our ANOVA is the PDS, which must be calculated from the chronological and subjective age for each study participant.
+- Our exposure groups are the `group` (A, B, or C).
+
+So we are comparing three indpendent samples (group A, B and C) but in order to calculate our outcome for each subject, we need to combine the chronological and felt age values.
+
+What we're doing here is not a paired samples analysis comparing chronological age to felt age, as some people  suggested in doing the work on Piazza. Instead, what we're doing is an independent samples analysis across the three groups on PDS. But we do need to work with the age data formatted in a wider way (as we'll see: this is `lab07a`) in order to calculate that PDS value. Once we've created the PDS value within `lab07a` we will be ready to go.
+
+So, the two data sets describe the same 1041 subjects, but each subject has two rows in `lab07b` but only one in `lab07a`. We can show this by counting the number of rows and the number of unique (distinct) subject identifiers in each set.
+
+```{r}
+lab07a %$% n_distinct(subject)
+lab07a %>% nrow()
+
+lab07b %$% n_distinct(subject)
+lab07b %>% nrow()
+```
+
+Looking at the first few observations in the two data sets, what do we find?
+
+```{r}
+lab07a %>% head()
+
+lab07b %>% head()
+```
+
+- `lab07a` presents the age information in a wider format with one row per subject
+- `lab07b` presents the age information in a longer format with two rows per subject
+
+The `subject`, `category` and `active` variables just go along for the ride.
+
+`lab07a` is the one we want, because it allows us to compute our outcome (which is the PDS, and which is a function of a subject's chronological age and felt age).
+
+Once we've computed the outcome, then the remaining `lab07a` presentation will be appropriate for fitting a linear model to the subjects (with one row per subject.) 
+
+## Grading Question 3
+
+- 5 points for correctly identifying the need to use `lab07a`
+- 5 more points for correctly identifying the reason (in order to calculate the outcome).
+
+We expect a common problem, which might be expressed in two ways, either of which would lose you 2-3 points.
+
+- Stating that the data for the ANOVA come from matched samples isn't correct. The outcome is a function of two characteristics (chronological age and felt age) of each subject, and the only way to calculate the outcome is to use `lab07a`, but the actual comparison we're doing is of independent samples (group A vs. group B vs. group C.)
+- After we calculate PDS in `lab07a` the data on PDS and category (group) are in fact presented using a "long" presentation, right? We have one row per subject, with a column of outcomes (PDS) and a column indicating the groups. So describing `lab07a` as wider is fine, but the result is not actually wide, it is long. 
+
+# Question 4 (10 points)
+
+> Calculate and compare the sample PDS means across the three groups, and specify the rank order (highest to lowest) of the sampled PDS means.
+
+```{r}
+lab07a <- lab07a %>%
+  mutate(PDS = (subj_age - age)/age)
+
+lab07a %>% group_by(category) %>%
+  summarise(mean_PDS = mean(PDS)) %>%
+  arrange(desc(mean_PDS))
+```
+
+Group B has the largest sample mean (0.0045), then C (0.0043), then A (0.0017).
+
+## Grading Question 4
+
+- Award 6 points for correctly calculating the sample PDS means in the 3 groups.
+- Award 4 points for correctly stating the rank order of the sample PDS means in each of the three groups. Note the R output does not need to be arranged, as long as the correct order is specified in an English sentence.
+
+# Question 5 (15 points)
+
+> Produce a graphical summary to compare the three groups that allows you to assess the Normality and Equal Variances assumptions of an ANOVA to compare the PDS means across the three groups. What conclusion do you draw about ANOVA assumptions in this setting?
+
+One good option was a boxplot, perhaps with violins.
+
+```{r}
+ggplot(lab07a, aes(x = category, y = PDS, fill = category)) +
+  geom_violin(aes(color = category), alpha = 0.5) +
+  geom_boxplot(width = 0.3, notch = TRUE, alpha = 0.75) +
+  theme_bw() +
+  coord_flip() +
+  guides(fill = FALSE, col = FALSE) +
+  labs(title = "Comparing PDS scores by Group",
+       y = "PDS Score", x = "")
+```
+
+Another reasonable option would be a set of faceted histograms, perhaps next to some Normal Q-Q plots.
+
+```{r}
+res <- mosaic::favstats(PDS ~ category, data = lab07a)
+
+p1 <- ggplot(lab07a, aes(x = PDS, fill = category)) +
+  geom_histogram(binwidth = 0.025, col = "white") +
+  guides(fill = FALSE) +
+  theme_bw() +
+  facet_grid(category ~ .) +
+  labs(x = "Observed PDS values", y = "# of subjects")
+
+p2 <- ggplot(lab07a, aes(sample = PDS, color = category)) +
+  geom_qq() + geom_qq_line(col = "black") +
+  guides(color = FALSE) +
+  theme_bw() +
+  facet_grid(category ~ .) +
+  labs(y = "Observed PDS values")
+
+p1 + p2 + 
+  plot_layout(widths = c(7, 3)) +
+  plot_annotation(title = "Histograms and Normal Q-Q plots comparing PDS by Group")
+```
+
+Here is a numerical summary, as well.
+
+```{r}
+mosaic::favstats(PDS ~ category, data = lab07a)
+```
+
+Main conclusions: No apparent problems with the Normality assumption. Some indication of larger spread in Group B than the other two groups, and Group B also has a somewhat smaller sample size than the other groups. ANOVA is pretty robust to problems with the equal variances assumption, so we are probably OK.
+
+## Grading Question 5
+
+- Award 8 points for a visualization that can reasonably assess the variance and normality of each group's distribution of PDS scores.
+- Award another 7 points for a thorough and accurate discussion of conclusions drawn from the visualization. 
+
+The student should mention the distributions follow a normal distribution fairly well and that the variances appear to be similar (although Group B's population variance could be a bit larger). The student should conclude that an ANOVA model is appropriate here.
+
+# Question 6 (10 points)
+
+> Now do the actual comparison of the PDS means of the three groups (A, B and C) using an analysis of variance. What conclusion do you draw, using a **90%** confidence level?
+
+```{r}
+summary(aov(PDS ~ category, data = lab07a))
+```
+
+The ANOVA F test finds no statistically detectable differences between group means, as the *p* value far exceeds the required significance level of $\alpha = 0.10$. 
+
+$$
+\eta^2 = \frac{SS(category)}{SS(Total)} = \frac{0.0017}{0.0017 + 2.8577} = 0.00059
+$$
+
+The group (category) accounts for about 0.06% of the variation in the PDS values. 
+
+## Grading Question 6
+
+- Award 5 points for correctly fitting and reporting the results of the ANOVA, using either the approach above or an `anova(lm(PDS ~ category, data = lab07a))` approach.
+- Award an additional 5 points for correctly interpreting the ANOVA results at a 90% confidence level.
+- It was not necessary, but would be appropriate, to mention that The group (category) accounts for about 0.06% of the variation in the PDS values.
+
+# Question 7 (15 points)
+
+> This is a pre-planned comparison, but the sample sizes differ across the groups being compared. Obtain the results from a Tukey HSD method and then a Bonferroni approach for pairwise comparisons of the population PDS means, in each case again using a 90\% confidence level[^2]. Do your conclusions differ using these two approaches? 
+
+Given the results from the ANOVA F test, neither of these results should show statistically detectable differences, and as we'll see, neither one does.
+
+## Tukey HSD Approach
+
+```{r}
+lab07a %$% TukeyHSD(aov(PDS ~ category), conf.level = 0.90)
+```
+
+The confidence intervals each easily cover zero, as we can also see from the plot, below.
+
+```{r}
+mar.default <- c(5,6,4,2) + 0.1 # save default plotting margins
+
+par(mar = mar.default + c(0, 6, 0, 0)) 
+lab07a %$% plot(TukeyHSD(aov(PDS ~ category), 
+                            conf.level = 0.90), las = 1)
+
+par(mar = mar.default) # return to normal plotting margins
+```
+
+
+## Bonferroni Approach
+
+```{r}
+lab07a %$% pairwise.t.test(PDS, category, 
+                              p.adjust = "bonferroni")
+```
+
+## Grading Question 7
+
+- Award 7 points for correctly running and reporting the results from the Tukey HSD test at a 90% confidence level.
+- Award another 5 points for correctly running and reporting the results from the Bonferroni adjustment.
+- Award 3 points for noting the conclusions drawn between the group means do not differ between the two methods (Tukey HSD or Bonferroni adjustment)
+
+
+# Question 8 (15 points)
+
+> Specify the linear model regression equation used to predict our PDS outcome on the basis of group membership, but now also adjusting for whether or not the subject is active. What fraction of the variation in PDS levels is explained by this model? How much more of that variation is explained than by the model including group membership alone? How do you know?
+
+Here is a good choice of model...
+
+```{r}
+m_8a <- lm(PDS ~ category + active, data = lab07a)
+
+summary(m_8a)
+```
+
+This model accounts for 1.89% of the variation in `PDS`, according to the R^2^ value.
+
+We can also get the `equatiomatic` package to write out the model for us. Note in the R Markdown file the use of **results = 'asis'** in the chunk to get the result to display. This approach works for PDF or HTML.
+
+```{r, results = 'asis'}
+extract_eq(m_8a, use_coefs = TRUE, coef_digits = 4,
+           terms_per_line = 3, wrap = TRUE, ital_vars = TRUE)
+```
+
+
+We can compare this to the model without the `active` information, as follows:
+
+```{r}
+m_8 <- lm(PDS ~ category, data = lab07a)
+
+summary(m_8)
+```
+
+Of course, the multiple R^2^ for Model `m_8` is just the $\eta^2$ from our ANOVA comparison back in Question 6. Again, we see that model accounts for less than 0.06% of the variation in PDS.
+
+We can also get the `equatiomatic` package to write out the smaller model for us.
+
+```{r, results = 'asis'}
+extract_eq(m_8, use_coefs = TRUE, coef_digits = 4,
+           wrap = TRUE, ital_vars = TRUE)
+```
+
+So the additional impact of `active` (even after Group is already in the model) is substantially larger than the impact of Group alone, even though Model `m_8a` isn't strong, either.
+
+## Grading Question 8
+
+- Award 5 points for correctly building a linear regression model that predicts PDS scores based on group membership and active status.
+- Award 5 points for correctly noting that the model accounts for roughly 1.89% of the variation in PDS scores (according to the R^2 value).
+- Award another 5 points for correctly calculating how much more variation (roughly 1.83 percentage points) is explained when using a model containing information on both group membership and active status, as opposed to a model only including group membership status. The variance explained by the model containing information only on group status can be calculated via a second linear model or through the eta-squared statistic in the ANOVA.
