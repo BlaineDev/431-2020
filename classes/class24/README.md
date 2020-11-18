@@ -34,7 +34,11 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## One Last Thing
 
-To come.
+There was a very important piece published this week that I expect you all might benefit from reading.
+
+- It's called [Five rules for evidence communication](https://www.nature.com/articles/d41586-020-03189-1) by Michael Blastland, Alexandra L.J. Freeman, Sander van der Linden, Theresa M. Marteau and *David Spiegelhalter* and it's a comment published in *Nature* 2020-11-19. 
+    - Here's a [PDF of the main comment](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class24/pdf/nature_five_rules_for_evidence_communication_2020.pdf) (3 pages).
+    - Here's a [PDF of the supplemental information](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class24/pdf/nature_supplemental_information_2020.pdf) which details the arguments further (10 pages).
 
 ## COVID Vaccine Trial Protocols (if you're interested)
 
