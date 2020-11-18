@@ -18,10 +18,13 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 2. Status report on Project B Study 2 Data Plans (due today at noon) [can be found here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/study2-dataplan-status.md).
 3. I've updated [the R Packages list](https://thomaselove.github.io/431/r_packages.html) to include `equatiomatic`. If you include `equatiomatic` in your loaded packages, it will generate a warning if you haven't upgraded to R version 4.0.3. Feel free to use `warning = FALSE` to suppress that warning if you're still using R 4.0.2. (Yes, this means you can use `warning = FALSE` to fix this in loading packages for your Project B.)
 4. Regarding NHANES for Study 2 in Project B, I made a [short video](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/README.md#video-to-help-you-deal-with-some-common-nhanes-issues) where I pulled some data from NHANES 2017-18, merged it, and then changed  values like "Refused" or "Don't Know" in a variable to missing values. The video is now linked in [the Project B instructions](https://thomaselove.github.io/431-2020-projectB/your7.html), too.
-5. No class next week. 
+5. [Data is Plural](https://tinyletter.com/data-is-plural) is a nice (and free) weekly newsletter of useful/curious data sets curated by Jeremy Singer-Vine. You might be interested in taking a look.
+6. [The Daily](https://thedaily.case.edu/tell-us-what-youre-thankful-for-this-year/) is interested to hear from you about what you're thankful for this year. 
+    - I'm thankful for your patience with me, and especially thankful for the **incredible** support we've all received from our teaching assistants.
+7. No class next week. 
     - TA office hours will be held through Friday 2020-11-20 and then not again until Saturday 2020-11-28. 
     - Dr. Love will address Piazza questions and emails on Monday 2020-11-23 and then not again regularly (although he'll check in when he can) until Monday 2020-11-30.
-6. Our next class is Tuesday 2020-12-01. All business regarding 431 will be concluded on 2020-12-14. 
+8. Our next class is Tuesday 2020-12-01. All business regarding 431 will be concluded on 2020-12-14. 
     - Dr. Love will be out of the office from 2020-12-15 through 2021-01-03, and will be less responsive in January to email than usual. 
     - 432 begins at the start of February, and all students successfully completing 431 with a grade of A or B will be cheerfully welcomed to 432.
 
