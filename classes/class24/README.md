@@ -21,7 +21,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 5. No class next week. 
     - TA office hours will be held through Friday 2020-11-20 and then not again until Saturday 2020-11-28. 
     - Dr. Love will address Piazza questions and emails on Monday 2020-11-23 and then not again regularly (although he'll check in when he can) until Monday 2020-11-30.
-6. All business regarding 431 will need to be resolved no later than 2020-12-14, as Dr. Love will be out of the office from 2020-12-15 through 2021-01-03, and will be less responsive in January to email than usual. 432 begins at the start of February, and all students successfully completing 431 with a grade of A or B will be cheerfully welcomed to 432.
+6. Our next class is Tuesday 2020-12-01. All business regarding 431 will be concluded on 2020-12-14. 
+    - Dr. Love will be out of the office from 2020-12-15 through 2021-01-03, and will be less responsive in January to email than usual. 
+    - 432 begins at the start of February, and all students successfully completing 431 with a grade of A or B will be cheerfully welcomed to 432.
 
 ## What Should I Be Working On?
 
