@@ -51,3 +51,6 @@ There was a very important piece published this week that I expect you all might
 - [Pfizer protocol is here](https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf) (PDF).
 - [Moderna protocol is here](https://www.modernatx.com/sites/default/files/mRNA-1273-P301-Protocol.pdf) (PDF).
 
+from STAT News: [Pfizer and BioNTech to submit Covid-19 vaccine data to FDA as full results show 95% efficacy](https://www.statnews.com/2020/11/18/pfizer-biontech-covid19-vaccine-fda-data) by Damian Garde and Matthew Herper, 2020-11-18.
+
+> Of the 170 cases of Covid-19 that were recorded from the trial, 162 were in the placebo arm, while the rest were among those who got two doses of the Covid-19 vaccine. Ten of the infections overall were severe — nine of which were in the placebo group.
