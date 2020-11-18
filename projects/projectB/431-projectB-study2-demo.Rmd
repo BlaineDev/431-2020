@@ -19,7 +19,7 @@ These are simulated data from a study of high blood pressure in 999 African-Amer
 
 ## Initial Setup and Package Loads in R 
 
-```{r initial_setup, message = FALSE}
+```{r initial_setup, message = FALSE, warning = FALSE}
 library(knitr)
 library(rmdformats)
 library(rmarkdown)
@@ -51,7 +51,7 @@ Here, we load the data using `read_csv` and then convert all `character` variabl
 
 ```{r data_load, message = FALSE}
 hbp_study <- read_csv("data/hbp_study.csv") %>%
-  mutate(across(is.character, as.factor)) %>%
+  mutate(across(where(is.character), as.factor)) %>%
   mutate(subj_id = as.character(subj_id))
 ```
 
