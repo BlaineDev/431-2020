@@ -21,8 +21,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Some binary variables are coded 1 and 2. Fix that in your work, ideally by using the real names and treating the variable as a factor, or by converting the 1-2 to a proper 1-0 indicator variable.
         - Use the formula **NEWVAR = 2 - OLDVAR** to turn OLDVAR: 1 = Yes, 2 = No into NEWVAR: 1 = Yes, 0 = No.
         - If you have OLDVAR: 1 = No, 2 = Yes, create a NEWVAR with 1 = Yes, 0 = No using **NEWVAR = OLDVAR - 1**.
-    - I would treat the `RIAGENDR` variable as describing biological SEX and thus change the name appropriately to sex, rather than gender.
-    - The family income ratio `INDFMPIR` is appealing, but problematic, because it is a ratio of income to the poverty level and so many people in the data are listed with the ceiling value of the measurement (5, because everyone with a value greater than 5 is listed as 5.) Figure out what you should do with that.
+    - I would treat the `RIAGENDR` variable as describing biological sex and would rename it as I created a factor.
+    - The family income ratio `INDFMPIR` is appealing and quantitative, but it has a pronounced ceiling effect. It is the ratio of income to the poverty level, but is capped at 5. How should you think about that? 
+        - A similar issue applies to several other variables, including age (in adults) which are capped at 80.
     - When working with the education `DMDEDUC2` variable or others with many ordered categories, you'll want to collapse some in a sensible way.
 5. Advice that applies to everyone's Study 2, even if you're not using NHANES include:
     - You cannot use the same variable (or any form of the same underlying variable) as both an outcome and a predictor.
