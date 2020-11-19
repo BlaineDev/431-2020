@@ -30,6 +30,7 @@ Team Member(s) | Outcome | Key Predictor | *n*
 Emily Conlan | Body Mass Index | Sedentary Activity | 5388
 Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
+Anniya Gu | Body Mass Index | Meals Not Made at Home | 5129
 Clara Harb | Total Cholesterol | Family Income Ratio | 3930
 Leila Hojat | Waist Circumference | Sugar Consumption | 5229
 Aya Jishi | Pelvis Bone Mineral Density | Vitamin D Consumption | 874
