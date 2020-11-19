@@ -6,6 +6,7 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 
 - Callie Ogland-Hand
 - Katrina Prantzalos
+- Deja Rose
 - Lindsay Ross
 - Kiara White
 
@@ -59,6 +60,7 @@ Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
 Surbhi Sona | Total Body Fat | Insulin | 1279
+Ping Wang | Animal Fluency (Cognitive Function) | Vitamin B12 level | 1582
 Kristi Westphaln | BMI (in kids) | Caregiver's Education | 2535
 Kaan Yorgancioglu | Pulse Rate | Self-reported weight | 4781
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
