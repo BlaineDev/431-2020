@@ -4,11 +4,9 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 
 ## Revise and Resubmit
 
-- Jennifer Nguyen
 - Callie Ogland-Hand
 - Katrina Prantzalos
 - Lindsay Ross
-- Surbhi Sona
 - Kiara White
 
 ## Approved Study 2 Data Plans
@@ -42,6 +40,7 @@ Investigator | Outcome | Key Predictor | *n*
 Emily Conlan | Body Mass Index | Sedentary Activity | 5388
 Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
+Akif Gormez | Total Cholesterol | Body Mass Index | 5427
 Anniya Gu | Body Mass Index | Meals Not Made at Home | 5129
 Clara Harb | Total Cholesterol | Family Income Ratio | 3930
 Jane Hinkle | Body Mass Index | Waist Circumference | 5670
@@ -55,9 +54,11 @@ Marie Michenkova | Systolic BP (3rd) | Creatinine/Albumin Ratio | 5409
 Jill Miracle | Liver Stiffness (via Ultrasound) | Body Mass Index | 3842
 Grace Nalukwago | Pulse Rate | Sodium Intake | 4526
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
+Jennifer Nguyen | Total Cholesterol | Body Mass Index | 3986
 Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
+Surbhi Sona | Total Body Fat | Insulin | 1279
 Kristi Westphaln | BMI (in kids) | Caregiver's Education | 2535
 Kaan Yorgancioglu | Pulse Rate | Self-reported weight | 4781
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
