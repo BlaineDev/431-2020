@@ -6,7 +6,7 @@ As of 12:10 PM, I was up to date, and 55 of 70 students had an approved project.
 
 ## People Without an Approved Plan
 
-### Dr. Love is awaiting your revision
+### Dr. Love is awaiting your revision which he very much hopes will be in by 9 PM tonight.
 
 - Asma Almijlad
 - Arsh Kochar
@@ -18,7 +18,7 @@ As of 12:10 PM, I was up to date, and 55 of 70 students had an approved project.
 - Dipak Upadhyaya
 - Wail Yar
 
-### Dr. Love is awaiting your initial submission
+### Dr. Love is awaiting your initial submission which he very much hopes will be in as soon as possible.
 
 - Caitlyn Grubbs
 - Arshiya Mariam
