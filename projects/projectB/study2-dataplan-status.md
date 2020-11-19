@@ -25,14 +25,18 @@ Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
 Clara Harb | Total Cholesterol | Family Income Ratio | 3930
 Leila Hojat | Waist Circumference | Sugar Consumption | 5229
+Aya Jishi | Pelvis Bone Mineral Density | Vitamin D Consumption | 874
+Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
 Ali Klein | Total Cholesterol | Sleep Duration | 873
 Jeff Kovach | Pulse Rate | Sedentary Activity | 4936
+Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
 Joe Magoline | Body Mass Index | Sugar Consumption | 6754
 Marie Michenkova | Systolic BP (3rd) | Creatinine/Albumin Ratio | 5409
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Kiara White | Systolic BP (1st) | Diastolic BP | 8704
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
+Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
 Lin Zhu | Systolic BP (1st) | Diastolic BP | 8704
 
 ## Revise and Resubmit
