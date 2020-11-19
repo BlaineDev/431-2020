@@ -2,7 +2,7 @@
 
 To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. All plans are due Thursday 2020-11-19 at Noon.
 
-As of 11:20 AM, I was up to date, and 46 of 70 students had an approved project.
+As of 12:10 PM, I was up to date, and 55 of 70 students had an approved project.
 
 ## People Without an Approved Plan
 
@@ -10,21 +10,18 @@ As of 11:20 AM, I was up to date, and 46 of 70 students had an approved project.
 
 - Asma Almijlad
 - Arsh Kochar
-- Lindsay Petrenchik
+- Aman Pande
 - Joe Powell
 - Katrina Prantzalos
-- Deja Rose
 - Lindsay Ross
 - Zoe Sekyonda
 - Dipak Upadhyaya
-- Kiara White
 - Wail Yar
 
 ### Dr. Love is awaiting your initial submission
 
 - Caitlyn Grubbs
 - Arshiya Mariam
-- Aman Pande
 - Monika Strah
 - T'yasah Walser
 - Nysia Wise
@@ -53,6 +50,7 @@ Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home
 Danny Lam & Derrick Liu | Systolic BP (2nd) | Uric Acid | 4647
 Rebecca Manning & Emma Wallens | Systolic BP (1st) | Educational Attainment | 2815
 Tre Martyn & Josh Saef | High-sensitivity C-reactive Protein | Sleep Duration | 2891
+Grace Nalukwago & Kiara White | Pulse Rate | Sodium Intake | 4526
 Maggie Rybak & Mia Wang | High-sensitivity C-reactive Protein | Sleepiness Frequency | 1143
 Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
 
@@ -78,12 +76,13 @@ Joe Magoline | Body Mass Index | Sugar Consumption | 6754
 Nilanjana Majumdar | Total Cholesterol | Sugar Consumption | 3526
 Marie Michenkova | Systolic BP (3rd) | Creatinine/Albumin Ratio | 5409
 Jill Miracle | Liver Stiffness (via Ultrasound) | Body Mass Index | 3842
-Grace Nalukwago | Pulse Rate | Sodium Intake | 4526
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
 Rod Nault | Albumin-Creatinine Ratio | Glycohemoglobin | 4936
 Jennifer Nguyen | Total Cholesterol | Body Mass Index | 3986
 Callie Ogland-Hand | Cigarettes Per Day | Age started smoking | 959
 Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
+Lindsay Petrenchik | High-sensitivity C-reactive Protein | Waist Circumference | 2221
+Deja Rose | Serum Iron | Serum Vitamin C | 5440
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
 Surbhi Sona | Total Body Fat | Insulin | 1279
