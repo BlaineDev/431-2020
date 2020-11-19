@@ -25,7 +25,15 @@ Abbreviation | Meaning
 ----------- | ----------------------
 NHAMCS | National Hospital Ambulatory Medical Care Survey
 
-### Teams/Individuals using NHANES 2017-18 Data
+### Teams using NHANES 2017-18 Data
+
+Team Member(s) | Outcome | Key Predictor | *n*
+------------- | ------------- | ------------- | ----:
+Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
+Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
+Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
+
+### Individuals using NHANES 2017-18 Data
 
 Team Member(s) | Outcome | Key Predictor | *n*
 ------------- | ------------- | ------------- | ----:
@@ -36,10 +44,8 @@ Anniya Gu | Body Mass Index | Meals Not Made at Home | 5129
 Clara Harb | Total Cholesterol | Family Income Ratio | 3930
 Leila Hojat | Waist Circumference | Sugar Consumption | 5229
 Aya Jishi | Pelvis Bone Mineral Density | Vitamin D Consumption | 874
-Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
 Ali Klein | Total Cholesterol | Sleep Duration | 873
 Jeff Kovach | Pulse Rate | Sedentary Activity | 4936
-Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
 Joe Magoline | Body Mass Index | Sugar Consumption | 6754
 Marie Michenkova | Systolic BP (3rd) | Creatinine/Albumin Ratio | 5409
 Jill Miracle | Liver Stiffness (via Ultrasound) | Body Mass Index | 3842
@@ -50,6 +56,5 @@ Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Kristi Westphaln | BMI (in kids) | Caregiver's Education | 2535
 Kiara White | Systolic BP (1st) | Diastolic BP | 8704
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
-Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
 Lin Zhu | Systolic BP (1st) | Diastolic BP | 8704
 
