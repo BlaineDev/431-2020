@@ -9,19 +9,18 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 - Aman Pande
 - Joe Powell
 - Katrina Prantzalos
-- Lindsay Ross
 - Zoe Sekyonda
 - Dipak Upadhyaya
 - Wail Yar
 
 ### Dr. Love is awaiting your initial submission which he very much hopes will be in as soon as possible.
 
-- Caitlyn Grubbs (under review)
-- Arshiya Mariam (under review)
+- Caitlyn Grubbs (received: under review)
+- Arshiya Mariam (received: under review)
 - Monika Strah
-- T'yasah Walser (under review)
-- Nysia Wise (under review)
-- Emily Zetzer (under review)
+- T'yasah Walser (received: under review)
+- Nysia Wise (received: under review)
+- Emily Zetzer (received: under review)
 
 ## Approved Study 2 Data Plans
 
