@@ -19,8 +19,6 @@ Investigator(s) | Data Source | Outcome | Key Predictor | *n*
 Long Vu | [NHAMCS 2017](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm) | ED Wait Time | Payer Type | 10000
 Davis Weaver | [1.88 million US Wildfires](https://www.kaggle.com/rtatman/188-million-us-wildfires) | Fire Size (acres) | Year | 10000
 
-### Abbreviations
-
 Abbreviation | Meaning
 ----------- | ----------------------
 NHAMCS | National Hospital Ambulatory Medical Care Survey
