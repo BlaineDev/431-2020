@@ -2,25 +2,25 @@
 
 To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. All plans were due Thursday 2020-11-19 at Noon.
 
+Dr. Love is caught up through 4 PM on 2020-11-19. At the moment, we have 59 of 70 students with an approved Project 2 Data Plan
+
 ## People Without an Approved Plan
 
 ### Dr. Love is awaiting your revision which he very much hopes will be in by 9 PM tonight.
 
+- Arshiya Mariam
 - Aman Pande
 - Joe Powell
 - Katrina Prantzalos
 - Zoe Sekyonda
 - Dipak Upadhyaya
+- T'yasah Walser & Nysia Wise
 - Wail Yar
+- Emily Zetzer
 
 ### Dr. Love is awaiting your initial submission which he very much hopes will be in as soon as possible.
 
-- Caitlyn Grubbs (received: under review)
-- Arshiya Mariam (received: under review)
 - Monika Strah
-- T'yasah Walser (received: under review)
-- Nysia Wise (received: under review)
-- Emily Zetzer (received: under review)
 
 ## Approved Study 2 Data Plans
 
@@ -60,6 +60,7 @@ Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Razaq Durodoye | Urine Creatinine | Blood Lead Level | 1544
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
 Akif Gormez | Total Cholesterol | Body Mass Index | 5427
+Caitlyn Grubbs | Systolic BP (1st) | Pulse Rate | 5187
 Anniya Gu | Body Mass Index | Meals Not Made at Home | 5129
 Clara Harb | Total Cholesterol | Family Income Ratio | 3930
 Jane Hinkle | Body Mass Index | Waist Circumference | 5670
