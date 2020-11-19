@@ -15,7 +15,7 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 ### Teams/Individuals Using Something Other Than NHANES 2017-18 Data
 
 Investigator(s) | Data Source | Outcome | Key Predictor | *n*
-------------- | ------------- | --------------------- |  ------------------ | ----:
+:-------------: | ------------- | --------------------- |  ------------------ | ----:
 Long Vu | [NHAMCS 2017](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm) | ED Wait Time | Payer Type | 10000
 Davis Weaver | [1.88 million US Wildfires](https://www.kaggle.com/rtatman/188-million-us-wildfires) | Fire Size (acres) | Year | 10000
 
@@ -26,7 +26,7 @@ NHAMCS | National Hospital Ambulatory Medical Care Survey
 ### Teams using NHANES 2017-18 Data
 
 Team Members | Outcome | Key Predictor | *n*
-------------- | ------------- | ------------- | ----:
+:-------------: | ------------- | ------------- | ----:
 Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
 Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
 Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
@@ -34,7 +34,7 @@ Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
 ### Individuals using NHANES 2017-18 Data
 
 Investigator | Outcome | Key Predictor | *n*
-------------- | ------------- | ------------- | ----:
+:-------------: | ------------- | ------------- | ----:
 Emily Conlan | Body Mass Index | Sedentary Activity | 5388
 Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
