@@ -8,9 +8,10 @@ As of 11:20 AM, I was up to date, and 46 of 70 students had an approved project.
 
 ### Dr. Love is awaiting your revision
 
-- Preeti Balachandran
+- Asma Almijlad
 - Arsh Kochar
-- Callie Ogland-Hand
+- Lindsay Petrenchik
+- Joe Powell
 - Katrina Prantzalos
 - Deja Rose
 - Lindsay Ross
@@ -19,19 +20,11 @@ As of 11:20 AM, I was up to date, and 46 of 70 students had an approved project.
 - Kiara White
 - Wail Yar
 
-### Dr. Love is awaiting a submission from one member of your team (indicated in bold)
-
-- **Rebecca Manning** and Emma Wallens
-- **Maggie Rybak** and Mia Wang
-
 ### Dr. Love is awaiting your initial submission
 
-- Asma Almijlad
 - Caitlyn Grubbs
 - Arshiya Mariam
 - Aman Pande
-- Lindsay Petrenchik
-- Joe Powell
 - Monika Strah
 - T'yasah Walser
 - Nysia Wise
@@ -58,13 +51,16 @@ Fabliha Anam & Sam Waddell | Calories consumed | Self-reported Dietary Health | 
 Shawndasia Collins & Amir Reza Sadri | Fasting Glucose | Body Mass Index | 2394
 Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
 Danny Lam & Derrick Liu | Systolic BP (2nd) | Uric Acid | 4647
+Rebecca Manning & Emma Wallens | Systolic BP (1st) | Educational Attainment | 2815
 Tre Martyn & Josh Saef | High-sensitivity C-reactive Protein | Sleep Duration | 2891
+Maggie Rybak & Mia Wang | High-sensitivity C-reactive Protein | Sleepiness Frequency | 1143
 Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
 
 ### Individuals using NHANES 2017-18 Data
 
 Investigator | Outcome | Key Predictor | *n*
 :-------------: | ------------- | ------------- | ----:
+Preeti Balachandran | Body Mass Index | Times Receiving Health Care | 1839
 Emily Conlan | Body Mass Index | Sedentary Activity | 5388
 Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Razaq Durodoye | Urine Creatinine | Blood Lead Level | 1544
@@ -86,6 +82,7 @@ Grace Nalukwago | Pulse Rate | Sodium Intake | 4526
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
 Rod Nault | Albumin-Creatinine Ratio | Glycohemoglobin | 4936
 Jennifer Nguyen | Total Cholesterol | Body Mass Index | 3986
+Callie Ogland-Hand | Cigarettes Per Day | Age started smoking | 959
 Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
