@@ -9,7 +9,6 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 - Katrina Prantzalos
 - Lindsay Ross
 - Surbhi Sona
-- Sam Waddell 
 - Emma Wallens
 - Kiara White
 - Lin Zhu
@@ -31,6 +30,8 @@ NHAMCS | National Hospital Ambulatory Medical Care Survey
 
 Team Members | Outcome | Key Predictor | *n*
 :-------------: | ------------- | ------------- | ----:
+Fabliha Anam & Sam Waddell | Calories consumed | Self-reported Dietary Health | 8023
+Shawndasia Collins & Amir Reza Sadri | Fasting Glucose | Body Mass Index | 2394
 Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
 Danny Lam & Derrick Liu | Systolic BP (2nd) | Uric Acid | 4647
 Tre Martyn & Josh Saef | High-sensitivity C-reactive Protein | Sleep Duration | 2891
