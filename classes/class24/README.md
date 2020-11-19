@@ -18,7 +18,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 2. Status report on Project B Study 2 Data Plans (due today at noon) [can be found here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/study2-dataplan-status.md). 
     - Please [look at the report now](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/study2-dataplan-status.md) to be sure you agree with my listing of your work there, which was last updated at 12:15 PM. If not, email me to make corrections, now.
 3. I've updated [the R Packages list](https://thomaselove.github.io/431/r_packages.html) to include `equatiomatic`. If you include `equatiomatic` in your loaded packages, it will generate a warning if you haven't upgraded to R version 4.0.3. Feel free to use `warning = FALSE` to suppress that warning if you're still using R 4.0.2. (Yes, this means you can use `warning = FALSE` to fix this in loading packages for your Project B.)
-4. Regarding NHANES for Study 2 in Project B, I made a [short video](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/README.md#video-to-help-you-deal-with-some-common-nhanes-issues) where I pulled some data from NHANES 2017-18, merged it, and then changed  values like "Refused" or "Don't Know" in a variable to missing values. The video is now linked in [the Project B instructions](https://thomaselove.github.io/431-2020-projectB/your7.html), too. A few other comments based on the study 2 data plans:
+4. Regarding NHANES for Study 2 in Project B, I made a [short video](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/README.md#video-to-help-you-deal-with-some-common-nhanes-issues) where I pulled some data from NHANES 2017-18, merged it, and then changed  values like "Refused" or "Don't Know" in a variable to missing values. The video is now linked in [the Project B instructions](https://thomaselove.github.io/431-2020-projectB/your7.html), too. 
+5. Based on the study 2 data plans, I have the following comments for people working with NHANES data. (I will add these to the main instructions soon.)
     - **Gender vs. Sex** I would treat the `RIAGENDR` variable as describing biological sex and would rename it as I created a factor.
     - **Race/Ethnicity** If you want to use race/ethnicity I would prefer the use of `RIDRETH3` over `RIDRETH1`, and I would recommend using all six categories, assuming you have at least 100 subjects at each level after whatever other pruning you do.
     - **Age** Do not use a categorical version of age. Use the quantitative version, called `RIDAGEYR`, provided in the `DEMO_J` data. When you describe your subjects, you should specify the range (minimum and maximum) ages of those subjects.
@@ -31,7 +32,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - **Codebook** If you rename things, include NHANES variable names for all variables in your Study 2 codebook, in addition to those you wind up using.
     - **Data Plan** In your data plan, each variable should be specified with its NHANES variable name, a description, and the NHANES data set it comes from. 
         - For example, `RIDRETH3`, race/ethnicity (6 categories) sourced from `DEMO_J` is what we're looking for.
-5. Advice that applies to everyone's Study 2, even if you're not using NHANES include:
+    - **Other Predictors** Neither `SEQN` nor `RIDSTATR` (Interview/Examination status) should be a predictor in your models.
+6. Based on the study 2 data plans, I have the following comments for people working with any data, NHANES or other. (I will add these to the main instructions soon, too.)
     - You cannot use the same variable (or any form of the same underlying variable) as both an outcome and a predictor.
     - Don't categorize any quantitative variables, if you can possibly avoid doing so.
     - Collapse levels sensibly for multi-categorical variables with more than 5 categories, outside of (maybe) race/ethnicity. 
@@ -42,13 +44,13 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Variables that use categories to describe what were originally quantitative variables aren't quantitative any more.
     - Things I would treat as missing include Refused, Don't Know, Unknown, No response and missing. Be sure that R recognizes things that are missing as missing and filters them out when you filter for complete cases.
     - You are allowed (not encouraged, just allowed) to impute things other than your outcome or key predictor, but only if you do it appropriately. You are not allowed in Project B to impute your outcome or key predictor.
-6. [Data is Plural](https://tinyletter.com/data-is-plural) is a nice (and free) weekly newsletter of useful/curious data sets curated by Jeremy Singer-Vine. You might be interested in taking a look.
-7. [The Daily](https://thedaily.case.edu/tell-us-what-youre-thankful-for-this-year/) is interested to hear from you about what you're thankful for this year. 
+7. [Data is Plural](https://tinyletter.com/data-is-plural) is a nice (and free) weekly newsletter of useful/curious data sets curated by Jeremy Singer-Vine. You might be interested in taking a look.
+8. [The Daily](https://thedaily.case.edu/tell-us-what-youre-thankful-for-this-year/) is interested to hear from you about what you're thankful for this year. 
     - I'm thankful for your patience with me, and especially thankful for the **incredible** support we've all received from our teaching assistants.
-8. No class next week. Our next class is Tuesday 2020-12-01. 
+9. No class next week. Our next class is Tuesday 2020-12-01. 
     - TA office hours will be held through Friday 2020-11-20 and then not again until Saturday 2020-11-28. 
     - Dr. Love will address Piazza questions and emails on Monday 2020-11-23 and then not again regularly (although he'll check in when he can) until Monday 2020-11-30.
-9. All business regarding 431 will be concluded on 2020-12-14. 
+10. All business regarding 431 will be concluded on 2020-12-14. 
     - Dr. Love will be out of the office from 2020-12-15 through 2021-01-03, and will be less responsive in January to email than usual. 
     - 432 begins at the start of February, and all students successfully completing 431 with a grade of A or B will be cheerfully welcomed.
 
