@@ -33,7 +33,13 @@ options(width = 55)
     - Assessing the predictions and prediction errors
     - Back-transformation and MAPE, root MSPE and max error
 
-## Today's Setup
+## Schedule
+
+- In Class 22, we discussed slides 1-47.
+- In Class 23, we discussed slides 48-78.
+- In Class 24, we discussed the remaining slides, starting at 79.
+
+## Our R Setup
 
 ```{r load_packages, message = FALSE, warning = FALSE}
 knitr::opts_chunk$set(comment = NA) 
@@ -45,17 +51,15 @@ library(car) # for boxCox
 library(GGally) # for ggpairs
 library(ggrepel) # help with residual plots
 library(equatiomatic) # help with equation extraction
-library(knitr)
-library(janitor)
-library(magrittr)
-library(patchwork)
-library(broom)
+library(knitr); library(janitor); library(magrittr)
+library(patchwork); library(broom)
 library(tidyverse)
 
 theme_set(theme_bw())
 
 dm431 <- readRDS("data/dm431_2020.Rds")
 ```
+
 
 # On Power / Sample Size Decisions and the March of Science
 
@@ -858,6 +862,8 @@ For now, a studentized residual is just another way to standardize the residuals
 
 - There's no indication that having a maximum absolute value of 3.34 in a sample of `r nrow(aug1)` studentized residuals is a major concern about the assumption of Normality, given the Bonferroni p value of 0.27.
 
+# This is where we stopped after Class 23. We'll restart here in Class 24.
+
 ## Scale-Location: Check for heteroscedasticity (`mod_1`)
 
 ```{r}
@@ -1269,7 +1275,7 @@ p4 <- ggplot(aug3, aes(x = .hat, y = .std.resid)) +
 ## Conclusions so far? (repeating what we said earlier)
 
 1. In-sample model predictions are about equally accurate for each of the three models. Model 2 looks better in terms of adjusted $R^2$ and AIC, but model 1 looks better on BIC. There's really not much to choose from there.
-2. Residual plots look fairly reasonable for linearity, Normality and constant variance in all three models.
+2. Residual plots look similarly reasonable for linearity, Normality and constant variance in all three models.
 
 # When you have candidates, assess them based on the accuracy of the predictions they make for the data held out (and thus not used in building the models.) 
 
@@ -1367,17 +1373,36 @@ p1 + p2 + plot_layout(ncol = 2)
 
 ## Table Comparing Model Prediction Errors
 
-Calculate the mean absolute prediction error (MAPE), the square root of the mean squared prediction error (RMSPE) and the maximum absolute error across the predictions made by each model. 
+Calculate the mean absolute prediction error (MAPE), the square root of the mean squared prediction error (RMSPE) and the maximum absolute error across the predictions made by each model. Let's add the median absolute prediction error, too.
 
-```{r}
+```{r, eval = FALSE}
 test_comp %>%
   group_by(name) %>%
   summarize(n = n(),
             MAPE = mean(abs(res_a1c)), 
             RMSPE = sqrt(mean(res_a1c^2)),
-            max_error = max(abs(res_a1c))) %>%
-  kable(digits = c(0, 0, 4, 3, 2))
+            max_error = max(abs(res_a1c)),
+            median_APE = median(abs(res_a1c))) %>%
+  kable(digits = c(0, 0, 4, 3, 2, 3))
 ```
+
+Table moved to the next slide.
+
+## Conclusions from Table of Errors
+
+```{r, echo = FALSE}
+test_comp %>%
+  group_by(name) %>%
+  summarize(n = n(),
+            mean_APE = mean(abs(res_a1c)), 
+            RMSPE = sqrt(mean(res_a1c^2)),
+            max_error = max(abs(res_a1c)),
+            median_APE = median(abs(res_a1c))) %>%
+  kable(digits = c(0, 0, 4, 3, 2, 3))
+```
+
+- Model `mod_1` has the smallest MAPE (mean APE) and RMSPE and maximum error.
+- Model `mod_2` has the smallest median absolute prediction error.
 
 ## Identify the largest errors
 
@@ -1454,26 +1479,15 @@ test_comp %>% filter(subject != "S-028") %>%
   kable(digits = c(0, 0, 4, 3, 2))
 ```
 
-Excluding subject S-028, the models look very comparable now. 
+Excluding subject S-028, each model "wins" one of these three competitions.
 
-## Conclusions now?
+## Conclusions based on complete case analysis?
 
 1. In-sample model predictions are about equally accurate for each of the three models. Model 2 looks better in terms of adjusted $R^2$ and AIC, but model 1 looks better on BIC. There's really not much to choose from there.
 2. Residual plots look similarly reasonable for linearity, Normality and constant variance in all three models.
-3. Excluding a bad miss on one subject in the test sample, all three models do about equally well, with perhaps `mod_3` very slightly better according to all three metrics (MAPE, RMSPE and max_error) in the test sample.
+3. In our holdout sample, model `mod_1` has the smallest MAPE (mean APE) and RMSPE and maximum error, while model `mod_2` has the smallest median absolute prediction error, although again all three models are pretty comparable. Excluding a bad miss on one subject in the test sample, all three models do about equally well on these measures.
 
 So, what should our "most useful" model be?
-
-## Repeating our 431 Strategy
-
-Which model is "most useful" in a prediction context?
-
-1. Split the data into a model development (training) sample of about 70-80% of the observations, and a  model test (holdout) sample, containing the remaining observations.
-2. Develop candidate models using the development sample.
-3. Assess the quality of fit for candidate models within the development sample.
-4. Check adherence to regression assumptions in the development sample.
-5. When you have candidates, assess them based on the accuracy of the predictions they make for the data held out (and thus not used in building the models.) 
-6. Select a "final" model for use based on the evidence in steps 3, 4 and especially 5.
 
 ```{r, echo = FALSE}
 rm(aug1, aug1_extra, aug2, aug3,
@@ -1583,12 +1597,12 @@ p1 + p2 - p3 +
                            " adults with diabetes"))
 ```
 
-## Scatterplot Matrix (code on next slide)
+## Scatterplot Matrix 
 
 ```{r, echo = FALSE}
 dm1_imp_train %>% 
   mutate(inv_a1c = 1/a1c) %>%
-  select(inv_a1c, a1c_old, age, income) %>%
+  select(a1c_old, age, income, inv_a1c) %>%
   ggpairs(., 
     title = "Scatterplots: Model Development Imputed Sample",
     lower = list(combo = wrap("facethist", bins = 10)))
@@ -1736,9 +1750,8 @@ bind_rows(glance(imod_1), glance(imod_2), glance(imod_3)) %>%
   kable(digits = c(0, 0, 3, 3, 5, 1, 0))
 ```
 
-What are appropriate conclusions now?
-
-- One of the models beats the others (though not by much,) right?
+- `imod_3` has the best R-square, adjusted R-square and $\sigma$.
+- `imod_2` wins on AIC, while `imod_1` has the best BIC.
 
 ## Using `augment` to add fits, residuals, etc.
 
@@ -1931,13 +1944,10 @@ None of these values exceed 5, so it doesn't seem like there's any problem.
 car::vif(imod_2)
 ```
 
-## Conclusions so far?
+## Conclusions so far (in-sample)?
 
-We're getting about the same story as we did with the complete cases, right?
-
-1. In-sample model predictions are about equally accurate for each of the three models. Model 3 (with all three predictors) looks a little better on all summaries (adjusted $R^2$, AIC and BIC, in particular.)
-
-2. Residual plots look similarly reasonable for linearity, Normality and constant variance in all three models.
+1. In-sample model predictions are about equally accurate for each of the three models. Model `imod_3` has the best R-square, adjusted R-square and $\sigma$, while Model `imod_2` wins on AIC, and Model `imod_1` has the best BIC.
+2. Residual plots look similarly reasonable for linearity, Normality and constant variance in all three models after imputation.
 
 ## Calculate prediction errors in test samples
 
@@ -1954,8 +1964,6 @@ test_im3 <- augment(imod_3, newdata = dm1_imp_test) %>%
   mutate(name = "imod_3", fit_a1c = 1 / .fitted,
          res_a1c = a1c - fit_a1c) 
 ```
-
-## Combine test sample results from the three models
 
 ```{r}
 test_icomp <- bind_rows(test_im1, test_im2, test_im3) %>%
@@ -1986,7 +1994,7 @@ p1 + p2 + plot_layout(ncol = 2)
 
 ## Table Comparing Model Prediction Errors
 
-Calculate the mean absolute prediction error (MAPE), the square root of the mean squared prediction error (RMSPE) and the maximum absolute error across the predictions made by each model. 
+- Model `imod_2` has the best mean APE (MAPE) and RMSPE, while `imod_3` has the smallest maximum predictive error.
 
 ```{r}
 test_icomp %>%
@@ -2047,19 +2055,19 @@ test_icomp %>% filter(subject != "S-282") %>%
   kable(digits = c(0, 0, 3, 2, 2))
 ```
 
-Excluding subject S-282, the models look pretty comparable, but `imod_2` is maybe a little better.
+Excluding subject S-282, `imod_2` is a little better on all measures.
 
 ## Key Summaries
 
 With complete cases, 
 
 - in-sample: all three models look OK on assumptions in residual plots, model 2 looks like it fits a little better by Adjusted $R^2$ and AIC, model 1 looks slightly better by BIC.
-- out-of-sample: distributions of errors are similar. Model 1 has lowest MAPE, RMPSE and maximum error, but all three models are pretty close to each other.
+- out-of-sample: distributions of errors are similar. Model 1 has smallest MAPE, RMPSE and maximum error, but all three models are pretty close to each other.
 
 With imputation,
 
-- in-sample: nothing disastrous in residual plots, model 3 looks a little better than the others on adjusted $R^2$, AIC and BIC.
-- out-of-sample: Model 2 has the smallest MAPE, RMSE, while model 3 has the smallest maximum predictive error, but if we drop the one worst-fit case, then model 2 sweeps all three categories.
+- in-sample: nothing disastrous in residual plots, model 3 has the best R-square, adjusted R-square and $\sigma$, while Model 2 wins AIC, and Model 1 has the best BIC.
+- out-of-sample: Model 2 has the smallest MAPE, RMSE, but model 3 has the smallest maximum predictive error. If we drop the one worst-fit case, then model 2 sweeps all three categories.
 
 So what can we conclude? Does this particular imputation strategy have a big impact?
 
