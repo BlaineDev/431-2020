@@ -1,6 +1,6 @@
 # Project B Study 2 Data Plan Approval Status
 
-To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. All plans are due Thursday 2020-11-19 at Noon.
+To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. All plans were due Thursday 2020-11-19 at Noon.
 
 As of 12:15 PM, I was up to date, and 55 of 70 students had an approved project.
 
