@@ -14,7 +14,7 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 
 ### Teams/Individuals Using Something Other Than NHANES 2017-18 Data
 
-Team Member(s) | Data Source | Outcome | Key Predictor | *n*
+Investigator(s) | Data Source | Outcome | Key Predictor | *n*
 ------------- | ------------- | --------------------- |  ------------------ | ----:
 Long Vu | [NHAMCS 2017](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm) | ED Wait Time | Payer Type | 10000
 Davis Weaver | [1.88 million US Wildfires](https://www.kaggle.com/rtatman/188-million-us-wildfires) | Fire Size (acres) | Year | 10000
@@ -27,7 +27,7 @@ NHAMCS | National Hospital Ambulatory Medical Care Survey
 
 ### Teams using NHANES 2017-18 Data
 
-Team Member(s) | Outcome | Key Predictor | *n*
+Team Members | Outcome | Key Predictor | *n*
 ------------- | ------------- | ------------- | ----:
 Naomi Joseph & Ananya Subramaniam | Body Mass Index | Meals Not Prepared At Home | 1305
 Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
