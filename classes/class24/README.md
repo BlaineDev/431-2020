@@ -54,6 +54,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Dr. Love will be out of the office from 2020-12-15 through 2021-01-03, and will be less responsive in January to email than usual. 
     - 432 begins at the start of February, and all students successfully completing 431 with a grade of A or B will be cheerfully welcomed.
 
+## from [Andrew Althouse](https://twitter.com/ADAlthousePhD/status/1329413510674214912?s=20)
+
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class24/images/althouse.png)
+
+ASA = American Statistical Association. You might want to consider [becoming a student member](https://www.amstat.org/asa/membership/Become-a-Member.aspx)!
+
 ## What Should I Be Working On?
 
 1. Staying healthy, keeping other people healthy, and taking care of those that need your help. **Make good choices.**
