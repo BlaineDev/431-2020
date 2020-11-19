@@ -2,7 +2,11 @@
 
 To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. All plans are due Thursday 2020-11-19 at Noon.
 
-## Revise and Resubmit
+As of 11:20 AM, I was up to date, and 46 of 70 students had an approved project.
+
+## People Without an Approved Plan
+
+### Dr. Love is awaiting your revision
 
 - Preeti Balachandran
 - Arsh Kochar
@@ -11,7 +15,27 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 - Deja Rose
 - Lindsay Ross
 - Zoe Sekyonda
+- Dipak Upadhyaya
 - Kiara White
+- Wail Yar
+
+### Dr. Love is awaiting a submission from one member of your team (indicated in bold)
+
+- **Rebecca Manning** and Emma Wallens
+- **Maggie Rybak** and Mia Wang
+
+### Dr. Love is awaiting your initial submission
+
+- Asma Almijlad
+- Caitlyn Grubbs
+- Arshiya Mariam
+- Aman Pande
+- Lindsay Petrenchik
+- Joe Powell
+- Monika Strah
+- T'yasah Walser
+- Nysia Wise
+- Emily Zetzer
 
 ## Approved Study 2 Data Plans
 
@@ -68,8 +92,8 @@ Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
 Surbhi Sona | Total Body Fat | Insulin | 1279
 Ping Wang | Animal Fluency | Vitamin B12 | 1582
 Kristi Westphaln | BMI (in kids) | Caregiver's Education | 2535
-Kaan Yorgancioglu | Pulse Rate | Self-reported weight | 4781
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
+Kaan Yorgancioglu | Pulse Rate | Self-reported weight | 4781
 Peng Zhang | Sugar Intake | Protein Intake | 4135
 Chenya Zhao | Total Cholesterol | Household Income (4 categories) | 5786
 Lin Zhu | Glycohemoglobin | Insulin | 2018
