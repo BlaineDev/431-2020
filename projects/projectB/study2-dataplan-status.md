@@ -35,7 +35,7 @@ Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
 
 ### Individuals using NHANES 2017-18 Data
 
-Team Member(s) | Outcome | Key Predictor | *n*
+Investigator | Outcome | Key Predictor | *n*
 ------------- | ------------- | ------------- | ----:
 Emily Conlan | Body Mass Index | Sedentary Activity | 5388
 Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
