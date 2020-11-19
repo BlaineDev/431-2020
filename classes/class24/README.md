@@ -29,6 +29,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - Low: between $20,000 and $44,999 (includes original codes 5, 6, and 7: includes 2382 subjects in 2017-18 data)
         - High: between $45,000 and $74,999 (includes original codes 8, 9 and 10: includes 1621 subjects in 2017-18 data)
         - Highest: $75,000 and above (includes original codes 14 and 15: includes 2453 subjects in 2017-18 data)
+    - Be sure to treat all multi-categorical variables as FACTORS in R, and don't treat them as numeric variables.
     - Some binary variables are coded 1 and 2. Fix that in your work, ideally by using the real names and treating the variable as a factor, or by converting the 1-2 to a proper 1-0 indicator variable.
         - Use the formula **NEWVAR = 2 - OLDVAR** to turn OLDVAR: 1 = Yes, 2 = No into NEWVAR: 1 = Yes, 0 = No.
         - If you have OLDVAR: 1 = No, 2 = Yes, create a NEWVAR with 1 = Yes, 0 = No using **NEWVAR = OLDVAR - 1**.
