@@ -21,6 +21,7 @@ NHAMCS | National Hospital Ambulatory Medical Care Survey
 
 Team Member(s) | Outcome | Key Predictor | *n*
 ------------- | ------------- | ------------- | ----:
+Emily Conlan | Body Mass Index | Sedentary Activity | 5388
 Oindrila De | Systolic BP (1st) | Sleep Duration | 4251
 Ali Esharkawi | Systolic BP (2nd) | Total Cholesterol | 5709
 Clara Harb | Total Cholesterol | Family Income Ratio | 3930
@@ -33,7 +34,9 @@ Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
 Joe Magoline | Body Mass Index | Sugar Consumption | 6754
 Marie Michenkova | Systolic BP (3rd) | Creatinine/Albumin Ratio | 5409
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
+Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
+Kristi Westphaln | BMI (in kids) | Caregiver's Education | 2535
 Kiara White | Systolic BP (1st) | Diastolic BP | 8704
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
 Luke Zhang & Michael Zhang | Urine Albumin | Sodium Intake | 5615
