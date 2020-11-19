@@ -11,7 +11,6 @@ Dr. Love is caught up through 4 PM on 2020-11-19. At the moment, we have 59 of 7
 - Arshiya Mariam
 - Aman Pande
 - Joe Powell
-- Katrina Prantzalos
 - Zoe Sekyonda
 - Dipak Upadhyaya
 - T'yasah Walser & Nysia Wise
@@ -80,6 +79,7 @@ Jennifer Nguyen | Total Cholesterol | Body Mass Index | 3986
 Callie Ogland-Hand | Cigarettes Per Day | Age started smoking | 1017
 Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
 Lindsay Petrenchik | High-sensitivity C-reactive Protein | Waist Circumference | 2221
+Katrina Prantzalos | Insulin | Body Weight | 2596
 Deja Rose | Serum Iron | Serum Vitamin C | 5440
 Lindsay Ross | Standing Height (teenagers) | Serum Albumin | 659
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
