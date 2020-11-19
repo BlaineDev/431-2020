@@ -38,6 +38,8 @@ Jeff Kovach | Pulse Rate | Sedentary Activity | 4936
 Danny Lam & Derrick Liu | Systolic BP | Uric Acid | 4647
 Joe Magoline | Body Mass Index | Sugar Consumption | 6754
 Marie Michenkova | Systolic BP (3rd) | Creatinine/Albumin Ratio | 5409
+Jill Miracle | Liver Stiffness (via Ultrasound) | Body Mass Index | 3842
+Grace Nalukwago | Pulse Rate | Sodium Intake | 4526
 Ritu Narahari | Sleep Duration | Caffeine Intake | 4526
 Will Patterson | Diastolic BP (1st) | Sedentary Activity | 4269
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
