@@ -33,6 +33,11 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - **Data Plan** In your data plan, each variable should be specified with its NHANES variable name, a description, and the NHANES data set it comes from. 
         - For example, `RIDRETH3`, race/ethnicity (6 categories) sourced from `DEMO_J` is what we're looking for.
     - **Other Predictors** Neither `SEQN` nor `RIDSTATR` (Interview/Examination status) should be a predictor in your models.
+    - **Hmisc::describe** is an incredibly useful step to support range checks across all of your variables as a final check that you've cleaned the data properly. Specific things to check after cleaning NHANES data:
+        1. Make sure all of your quantitative variables have a sensible minimum and maximum value. (Note that 5555, 7777 and 9999, for example, are often used as codes for refused/don't know/missing, and those subjects should thus be filtered out of the data.)
+        2. In particular, be sure that the age range for your subjects with complete data makes sense. If you're studying adults, restricting to ages > 20 and < 80 makes some sense (so the age range is 21-79) but many things are measured among people ages 16-80, so that's common. Of course, if you're restricting to children or teenagers, your age range should be reasonable in light of that decision.
+        3. Be sure that all of your categorical variables have between 2 and 6 levels, and only include sensible, interpretable categories, that don't know/refused/missing are not included and that each level has a reasonable number of subjects. If you want to use more than 6 levels (after collapsing) of a variable, contact Dr. Love for approval.
+        4. Be sure that `RIDSTATR` is 2 for all subjects you're including. `SEQN` and `RIDSTATR` must be in your data set but are not used in your regression models (except that `SEQN` is used to identify outliers.)
 6. **Project B: Advice for everyone**: I have the following comments for people working with any data, NHANES or other. (I will add these to the main instructions soon, too.)
     - You cannot use the same variable (or any form of the same underlying variable) as both an outcome and a predictor.
     - Don't categorize any quantitative variables, if you can possibly avoid doing so.
@@ -43,6 +48,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - If you have OLDVAR: 1 = No, 2 = Yes, create a NEWVAR with 1 = Yes, 0 = No using **NEWVAR = OLDVAR - 1**.
     - Variables that use categories to describe what were originally quantitative variables aren't quantitative any more.
     - Things I would treat as missing include Refused, Don't Know, Unknown, No response and missing. Be sure that R recognizes things that are missing as missing and filters them out when you filter for complete cases.
+    - **Hmisc::describe** is an incredibly useful step to support range checks across all of your variables as a final check that you've cleaned the data properly. Things to check after cleaning any kind of data:
+        1. Make sure all of your quantitative variables have a sensible minimum and maximum value.
+        2. Be sure that all of your categorical variables only include sensible, interpretable categories, contain a reasonable number of subjects, and that don't know/refused/missing are not included as categories. All of your categorical predictors have at least 2 levels and no more than 6 levels after collapsing. If you want to use more than 6 levels of a categorical variable, contact Dr. Love for approval via email. 
     - You are allowed (not encouraged, just allowed) to impute things other than your outcome or key predictor, but only if you do it appropriately. You are not allowed in Project B to impute your outcome or key predictor.
 7. [Data is Plural](https://tinyletter.com/data-is-plural) is a nice (and free) weekly newsletter of useful/curious data sets curated by Jeremy Singer-Vine. You might be interested in taking a look.
 8. [The Daily](https://thedaily.case.edu/tell-us-what-youre-thankful-for-this-year/) is interested to hear from you about what you're thankful for this year. 
