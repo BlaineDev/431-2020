@@ -6,16 +6,19 @@ Dr. Love is caught up through 5 PM on 2020-11-19. At the moment, we have 60 of 7
 
 ## People Without an Approved Plan
 
-### Dr. Love is awaiting your revision which he very much hopes will be in by 9 PM tonight.
+### Dr. Love has received your revision, and is reviewing it now.
 
 - Arshiya Mariam
 - Aman Pande
 - Joe Powell
 - Zoe Sekyonda
 - Dipak Upadhyaya
-- T'yasah Walser & Nysia Wise
 - Wail Yar
 - Emily Zetzer
+
+### Dr. Love is awaiting your revision which he very much hopes will be in by 9 PM tonight.
+
+- T'yasah Walser & Nysia Wise
 
 ### Dr. Love is awaiting your initial submission which he very much hopes will be in as soon as possible.
 
