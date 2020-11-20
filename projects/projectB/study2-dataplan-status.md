@@ -75,7 +75,7 @@ Lindsay Petrenchik | High-sensitivity C-reactive Protein | Waist Circumference |
 Katrina Prantzalos | Insulin | Body Weight | 2596
 Deja Rose | Serum Iron | Serum Vitamin C | 5440
 Lindsay Ross | Standing Height (teenagers) | Serum Albumin | 659
-Zoe Sekyonda | Glycohemoglobin | Body Mass Index | 5738
+Zoe Sekyonda | Glycohemoglobin | Body Mass Index | 4991
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
 Surbhi Sona | Total Body Fat | Insulin | 1279
