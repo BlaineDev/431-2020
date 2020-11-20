@@ -6,7 +6,6 @@ To submit your Study 2 Data Plan, visit http://bit.ly/431-projectB-data-plan. Al
 
 ### Dr. Love is actively reviewing your latest submission.
 
-- Monika Strah
 - Dipak Upadhyaya
 - T'yasah Walser & Nysia Wise
 - Wail Yar
@@ -82,6 +81,7 @@ Zoe Sekyonda | Glycohemoglobin | Body Mass Index | 4991
 Sarah Simmons | Glycohemoglobin | Educational Attainment | 4373
 Enrique Soltero Mariscal | Pulse Rate | Liver Stiffness (via Ultrasound) | 3968
 Surbhi Sona | Total Body Fat | Insulin | 1279
+Monika Strah | Body Mass Index | Triglycerides | 5604
 Ping Wang | Animal Fluency | Vitamin B12 | 1582
 Kristi Westphaln | BMI (in kids) | Caregiver's Education | 2535
 Patrick Wu | Pulse Rate | Sodium Intake | 6143
