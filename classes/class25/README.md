@@ -17,14 +17,15 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - Some of this advice also appeared in the [Class 24 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24). 
         - I also placed a short note at the start of Sections 3 and 5 of the [Study 2 Demonstration Project](https://thomaselove.github.io/431-2020-projectB/your7.html) to remind you to look at these augmented instructions.
 2. [Course Notes](https://thomaselove.github.io/431-notes/)
-    - Some of this material is a little less up to date than I wish it was. The class slides always show my most recent thinking for R coding, but I cannot always keep with that in the Notes. Newly posted materials include:
+    - Some of this material is a little less up to date than I wish it was. The class slides always show my most recent thinking for R coding, but I haven't found the time to fix that in the Notes in some spots. Newly posted materials include:
     - Chapter 23: Building Confidence Intervals for a Population Proportion posted 2020-11-21
     - Chapter 24: Analyzing a Two-by-Two table to compare proportions posted 2020-11-21.
     - Chapter 25: Chi-square tests for larger two-way tables and Cochran-Mantel-Haenszel for three-way tables posted 2020-11-21.
     - Chapter 26: Sample Size and Power when comparing Two Proportions posted 2020-11-21.
     - Chapter 27: Review of Comparison Strategies for Quiz 2 (some practice problems) posted 2020-11-21.
-3. Class zoom recordings now **downloadable**. On Canvas, you should now be able to download all Zoom recordings from the Cloud. 
-    - When logged into this course on Canvas, click Zoom, then select Cloud Recordings, pull up a recording of a class as if you were watching it, and at the top right, you should find a button to download the recording. I'm sorry it took until now for these to be downloadable.
+    - Coming before our next class are the final chapters, focused on regression ideas we've looked at in Classes 22-24.
+3. On Canvas, you should now be able to **download all of our class Zoom recordings**.
+    - When logged into 431 on Canvas, click Zoom, then select Cloud Recordings, pull up a recording of a class as if you were watching it, and at the top right, you should find a button to download the recording. I'm sorry it took until now for these to be downloadable.
     - These recordings will begin to disappear in mid-January of 2021, so I encourage you to grab them before the end of 2020 if you want them. 
     - 431 Course Notes and Github materials will disappear at the start of June in 2021, so you have more time to grab them if you like.
 
