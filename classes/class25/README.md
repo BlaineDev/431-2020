@@ -32,4 +32,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## Announcements
 
 1. There will be a Minute Paper after Class 25, due at noon Wednesday 2020-12-02. **To be posted**
-2. More to come.
+2. [The `forcats` package](https://forcats.tidyverse.org/index.html) is an incredibly useful tool for working with factors, but it's sometimes a challenge to figure out which function to use in a particular situation. 
+    - [Here is a comprehensive list](https://forcats.tidyverse.org/reference/index.html) of all of the functions available for changing the order of levels, changing the value of level, adding or removing levels, combining multiple factors, and other helper functions, including links to examples.
+    - The [RStudio Cheat Sheet (pdf)](https://github.com/rstudio/cheatsheets/raw/master/factors.pdf) for working with factors using `forcats` is very useful.
+    - Emily Robinson provides a gentle [introduction to forcats](https://forcats.tidyverse.org/articles/forcats.html)
+    - R for Data Science has a [chapter on factors](https://r4ds.had.co.nz/factors.html)
+    - Amelia McNamara and Nicholas Horton have a 2017 paper on [Wrangling categorical data in R](https://peerj.com/preprints/3163/) that helped motivate the `forcats` package.
