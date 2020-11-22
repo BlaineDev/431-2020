@@ -39,9 +39,11 @@ There are three groups of students. You should have received an email from Dr. L
     - These students need to fill out the Google Form I sent to them so I can schedule the Zoom calls. These are the 12 students in the MS program in Health Care Analytics, or the PhD program in PQHS.
 2. Two dozen students invited by Dr. Love to present Project B via a Zoom call, but can opt instead to do a recorded video.
     - These students can opt to present via Zoom (in which case they need to fill out the Google Form I sent to schedule their Zoom call) or opt to present via recorded video (in which case they need to email me.)
-    - These students included most of the students who preferred to present via Zoom (assuming their partner wasn't against the idea), plus some specific students I wanted to hear from, if possible. 
+    - These students included most of the students who preferred to present via Zoom (assuming their partner wasn't against the idea), plus some specific students I wanted to hear from, if possible. I will schedule these folks (if possible) after the folks in Group 1.
 3. The remaining students, who will be doing a recorded video.
-    - This includes students in other time zones, those who didn't want to do a Zoom call (or who had a partner who didn't) as well as some of the prople who were willing to do either, mostly. If you're in this group and really want to present via Zoom, please email me now.
+    - This includes students in other time zones, those who didn't want to do a Zoom call (or who had a partner who didn't) as well as some of the prople who were willing to do either, mostly. If you're in this group and really want to present via Zoom, please email me now and I'll try to squeeze you in if I can.
+    
+Actual details on what you'll be doing **will be posted** on 2020-12-01.
 
 ## Announcements
 
