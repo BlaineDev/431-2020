@@ -59,6 +59,7 @@ Actual details on what you'll be doing **will be posted** on 2020-12-01.
     - There is no need for you to upgrade until after you complete both Project B and Quiz 2. We assume you have version 4.0.2 of R and RStudio version 1.3.xxx. You are *welcome* to upgrade, but it is more likely to cause problems than solve them for you at this point.
     - Dr. Love intends to continue using R version 4.0.2 and RStudio version 1.3.1056 through the end of the course.
     - As of 2020-11-22, the current versions that are available are R version 4.0.3 and RStudio version 1.3.1093.
+4. **COVID trials** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
