@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | zoom information | for downloads
 
-**Quote to come**
+> ...the first act of the mind is always to simplify.   Reality is overwhelmingly complex.  We instinctively reduce the flood on information coming toward us to small bits of information.  We do that by throwing away 90% to 99% of the information and filing the event/person/ entity under a label based on the remaining portions.  (Bill James, 2020-11-24)
 
 ## Today's Slides
 
@@ -47,27 +47,36 @@ There are three groups of students. You should have received an email from Dr. L
 3. The remaining students, who will be doing a recorded video.
     - This includes students in other time zones, those who didn't want to do a Zoom call (or who had a partner who didn't) as well as some of the prople who were willing to do either, mostly. If you're in this group and really want to present via Zoom, please email me now and I'll try to squeeze you in if I can.
     
-Actual details on what you'll be doing **will be posted** on 2020-12-01.
-
 ## Announcements
 
-1. **To be posted**. There will be a Minute Paper after Class 25, due at noon Wednesday 2020-12-02. 
-2. **To be posted**. Answer sketch for Lab 8 will appear by class time on 2020-12-01.
-3. [The `forcats` package](https://forcats.tidyverse.org/index.html) is an incredibly useful tool for working with factors, but it's sometimes a challenge to figure out which function to use in a particular situation. 
+1. **To be posted**. Instructions for the Oral Presentation (recording and Zoom) will appear on 2020-12-01.
+2. **To be posted**. The Google Form Self-Evaluation for Project B will appear on 2020-12-01.
+3. **To be posted**. There will be a Minute Paper after Class 25, due at noon Wednesday 2020-12-02. 
+4. **To be posted**. Answer sketch for Lab 8 will appear by class time on 2020-12-01.
+5. TA office hours are back, and will continue every day through Monday 2020-12-07.
+6. [The `forcats` package](https://forcats.tidyverse.org/index.html) is an incredibly useful tool for working with factors, but it's sometimes a challenge to figure out which function to use in a particular situation. 
     - [Here is a comprehensive list](https://forcats.tidyverse.org/reference/index.html) of all of the functions available for changing the order of levels, changing the value of level, adding or removing levels, combining multiple factors, and other helper functions, including links to examples.
     - The [RStudio Cheat Sheet (pdf)](https://github.com/rstudio/cheatsheets/raw/master/factors.pdf) for working with factors using `forcats` is very useful.
     - Emily Robinson provides a gentle [introduction to forcats](https://forcats.tidyverse.org/articles/forcats.html)
     - R for Data Science has a [chapter on factors](https://r4ds.had.co.nz/factors.html)
     - Amelia McNamara and Nicholas Horton have a 2017 paper on [Wrangling categorical data in R](https://peerj.com/preprints/3163/) that helped motivate the `forcats` package.
-4. **Do I need to upgrade R or RStudio?** 
+7. **Do I need to upgrade R or RStudio?** 
     - There is no need for you to upgrade until after you complete both Project B and Quiz 2. We assume you have version 4.0.2 of R and RStudio version 1.3.xxx. You are *welcome* to upgrade, but it is more likely to cause problems than solve them for you at this point.
     - Dr. Love intends to continue using R version 4.0.2 and RStudio version 1.3.1056 through the end of the course.
     - As of 2020-11-22, the current versions that are available are R version 4.0.3 and RStudio version 1.3.1093.
-5. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
+8. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
-- Details to come.
+1. Now that we're in December, don't forget about staying healthy, keeping other people healthy, and taking care of those that need your help. **Make good choices.**
+2. Minute Paper after Class 25 due Wednesday 2020-12-02 at noon.
+3. Scheduling form for Project B oral presentations (for those of you who've received an invitation) due Wednesday 2020-12-02 at noon, too.
+4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is 2020-12-10 at Noon, other than the Zoom presentations.
+    - If you want TA help on your project, remember to get it by the end of the day Monday 2020-12-07.
+    - Dr. Love will monitor Piazza for Project B questions until 2020-12-10 at 9 AM.
+5. Quiz 2 will appear on Friday 2020-12-04, and is due on 2020-12-14 at Noon.
+    - Questions about Quiz 2 can be asked via Piazza using private messages to the Instructor(s) through 2020-12-14 at 9 AM.
+6. Fill out the Course Evaluation, when it becomes available. It's very important to me to have as many of you as possible respond.
 
 ## One Last Thing
 
