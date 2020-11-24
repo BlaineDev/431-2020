@@ -20,7 +20,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - Some of this material is a little less up to date than I wish it was. The class slides always show my most recent thinking for R coding, but I haven't found the time to fix that in the Notes in some spots. Newly posted materials include:
     - [Chapter 23](https://thomaselove.github.io/431-notes/estimating-a-population-proportion.html): Building Confidence Intervals for a Population Proportion `posted 2020-11-21`
     - [Chapter 24](https://thomaselove.github.io/431-notes/comparing-proportions-with-two-independent-samples.html): Analyzing a Two-by-Two table to compare proportions `posted 2020-11-21`.
-    - [Chapter 25](https://thomaselove.github.io/431-notes/larger-contingency-tables.html): Chi-square tests for larger two-way tables and Cochran-Mantel-Haenszel for three-way tables `posted 2020-11-21`.
+    - [Chapter 25](https://thomaselove.github.io/431-notes/larger-contingency-tables.html): Chi-square tests for larger 2-way tables and Cochran-Mantel-Haenszel for 3-way tables `posted 2020-11-21`.
     - [Chapter 26](https://thomaselove.github.io/431-notes/power-and-proportions.html): Sample Size and Power when comparing Two Proportions `posted 2020-11-21`.
     - [Chapter 27](https://thomaselove.github.io/431-notes/quiz-2-review.html): Some Practice Problems for Quiz 2 (with solutions) `posted 2020-11-21`.
     - [Chapter 28](https://thomaselove.github.io/431-notes/missing-data-mechanisms-and-simple-imputation.html): Missing Data and Simple Imputation `posted 2020-11-22`.
