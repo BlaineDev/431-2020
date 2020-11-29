@@ -37,15 +37,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Oral Presentations for Project B
 
-There are three groups of students. You should have received an email from Dr. Love on 2020-11-21 specifying your group. If you are not clear on which group, you're in, let him know via email now.
+There are three groups of students - which group you're in was in an email from Dr. Love on 2020-11-21. If you are not clear what your expectations are, let Dr. Love know via email now. Students in Groups 1 and 2 were asked to complete a Google Form to schedule their presentations, and that form is due Wednesday at noon.
 
-1. A dozen students who are required to present Project B via a Zoom call with Dr. Love on 2020-12-09, 12-10 or 12-11.
-    - These students need to fill out the Google Form I sent to them so I can schedule the Zoom calls. These are the 12 students in the MS program in Health Care Analytics, or the PhD program in PQHS.
-2. Two dozen students invited by Dr. Love to present Project B via a Zoom call, but can opt instead to do a recorded video.
-    - These students can opt to present via Zoom (in which case they need to fill out the Google Form I sent to schedule their Zoom call) or opt to present via recorded video (in which case they need to email me.)
-    - These students included most of the students who preferred to present via Zoom (assuming their partner wasn't against the idea), plus some specific students I wanted to hear from, if possible. I will schedule these folks (if possible) after the folks in Group 1.
-3. The remaining students, who will be doing a recorded video.
-    - This includes students in other time zones, those who didn't want to do a Zoom call (or who had a partner who didn't) as well as some of the prople who were willing to do either, mostly. If you're in this group and really want to present via Zoom, please email me now and I'll try to squeeze you in if I can.
+1. Students required to present Project B via a Zoom call with Dr. Love on 2020-12-09, 2020-12-10 or 2020-12-11.
+2. Students invited by Dr. Love to present Project B via a Zoom call, but who can opt instead to do a recorded video.
+3. Students who will be doing a recorded video instead of a Zoom call with Dr. Love for Project B.
+    - If you're in this group and really want to present via Zoom, please email me now and I'll try to squeeze you in if I can.
     
 ## Announcements
 
@@ -70,13 +67,14 @@ There are three groups of students. You should have received an email from Dr. L
 
 1. Now that we're in December, don't forget about staying healthy, keeping other people healthy, and taking care of those that need your help. **Make good choices.**
 2. [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25) is due Wednesday 2020-12-02 at noon.
-3. Scheduling form for Project B oral presentations (for those of you who've received an invitation) due Wednesday 2020-12-02 at noon, too.
+3. Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
+    - People I'm waiting to hear from (as of 10 AM Sunday 2020-11-29) are Emily Conlan, Akif Gormez, Arsh Kochar, Marie Michenkova, Aman Pande, Zoe Sekyonda, Kristi Westphaln and Emily Zetzer.
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is 2020-12-10 at Noon, other than the Zoom presentations.
     - If you want TA help on your project, remember to get it by the end of the day Monday 2020-12-07.
     - Dr. Love will monitor Piazza for Project B questions until 2020-12-10 at 9 AM.
 5. Quiz 2 will appear on Friday 2020-12-04, and is due on 2020-12-14 at Noon.
     - Questions about Quiz 2 can be asked via Piazza using private messages to the Instructor(s) through 2020-12-14 at 9 AM.
-6. Fill out the Course Evaluation, when it becomes available. It's very important to me to have as many of you as possible respond.
+6. Fill out the CWRU Course Evaluation, when it becomes available. It's very important to me to have as many of you as possible respond.
 
 ## One Last Thing
 
