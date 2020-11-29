@@ -47,7 +47,7 @@ There are three groups of students - which group you're in was in an email from 
 ## Announcements
 
 1. **To be posted**. Instructions for the Oral Presentation (recording and Zoom) will appear on 2020-12-01.
-2. **To be posted**. The Google Form Self-Evaluation for Project B will appear on 2020-12-01.
+2. The [Self-Evaluation Google Form for Project B](https://bit.ly/431-projectB-self-evaluation) is now available.
 3. There is a [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25), due at noon Wednesday 2020-12-02. 
 4. **To be posted**. Answer sketch for Lab 8 will appear by class time on 2020-12-01.
 5. TA office hours are back, and will continue every day through Monday 2020-12-07.
