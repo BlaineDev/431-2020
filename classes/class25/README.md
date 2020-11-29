@@ -33,7 +33,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - When logged into 431 on Canvas, click Zoom, then select Cloud Recordings, pull up a recording of a class as if you were watching it, and at the top right, you should find a button to download the recording. I'm sorry it took until now for these to be downloadable.
     - The Zoom videos will start disappearing in mid-January of 2021. Grab them in December if you want them. 
     - 431 Course Notes and Github materials will disappear on 2021-06-01.
-4. Grades for Lab 07 are now posted in the usual place.
+4. Grades for Lab 07 are now posted in [the usual place](http://bit.ly/431-2020-grades).
 
 ## Oral Presentations for Project B
 
