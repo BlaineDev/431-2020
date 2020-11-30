@@ -16,6 +16,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - In the [Study 2 Report Specifications](https://thomaselove.github.io/431-2020-projectB/your6.html), I added details in sections 3 and 5 which pull together advice I have provided elsewhere plus new information on cleaning data, the codebook, and what to check in your data. I attempted in section 5, in particular, to provide clear **recipes that you should follow** for this critical section of your Study 2 report. 
         - Some of this advice also appeared in the [Class 24 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24). 
         - I also placed a short note at the start of Sections 3 and 5 of the [Study 2 Demonstration Project](https://thomaselove.github.io/431-2020-projectB/your7.html) to remind you to look at these augmented instructions.
+    - I added the [Instructions for the Oral Presentations](https://thomaselove.github.io/431-2020-projectB/tasks.html) to the [Checklist](https://thomaselove.github.io/431-2020-projectB/tasks.html) page on 2020-11-30. 
+        - This includes separate instructions for those of you producing a recording, and those having a Zoom meeting with Dr. Love. 
+        - We've highlighted exactly what we expect in terms of timing and logistics. Let us know if you have questions.
 2. [Course Notes](https://thomaselove.github.io/431-notes/) 
     - I've now posted all 33 chapters, including 11 new ones since we last met. The class slides always show my most recent thinking for R coding, but I haven't found the time to fix that in the Notes in a few spots, but, for example, Chapters 28-31 have been completely rewritten to reflect our most current approaches. Most of chapters 23-27 are pretty much up-to-date, too. Chapters 32-33 feature older methods, with some surprises. On 2020-11-30, I revised Chapters 13 and 31 to fix small issues.
     - [Chapter 23](https://thomaselove.github.io/431-notes/estimating-a-population-proportion.html): Building Confidence Intervals for a Population Proportion
@@ -34,19 +37,11 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - The Zoom videos will start disappearing in mid-January of 2021. Grab them in December if you want them. 
     - 431 Course Notes and Github materials will disappear on 2021-06-01.
 4. Grades for Lab 07 are posted in [the usual place](http://bit.ly/431-2020-grades).
-
-## Oral Presentations for Project B
-
-There are three groups of students - which group you're in was in an email from Dr. Love on 2020-11-21. If you are not clear what your expectations are, let Dr. Love know via email now. Students in Groups 1 and 2 were asked to complete a Google Form to schedule their presentations, and that form is due Wednesday at noon.
-
-1. Students required to present Project B via a Zoom call with Dr. Love on 2020-12-09, 2020-12-10 or 2020-12-11.
-2. Students invited by Dr. Love to present Project B via a Zoom call, but who can opt instead to do a recorded video.
-3. Students who will be doing a recorded video instead of a Zoom call with Dr. Love for Project B.
-    - If you're in this group and really want to present via Zoom, please email me now and I'll try to squeeze you in if I can.
-    
+ 
 ## Announcements
 
-1. **To be posted**. Instructions for the Oral Presentation (recording and Zoom) will appear on 2020-12-01.
+1. [Instructions for the Project B Oral Presentations](https://thomaselove.github.io/431-2020-projectB/tasks.html) (recording and Zoom) are now available.
+    - If you're not sure whether you're having a Zoom meeting or recording a video, you should have received an email about your status on 2020-11-21. Please let Dr. Love know right now if you're not clear on what is expected from you.
 2. The [Self-Evaluation Google Form for Project B](https://bit.ly/431-projectB-self-evaluation) is now available.
 3. There is a [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25), due at noon Wednesday 2020-12-02. 
 4. **To be posted**. Answer sketch for Lab 8 will appear by class time on 2020-12-01.
@@ -67,9 +62,11 @@ There are three groups of students - which group you're in was in an email from 
 
 1. Now that we're in December, don't forget about staying healthy, keeping other people healthy, and taking care of those that need your help. **Make good choices.**
 2. [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25) is due Wednesday 2020-12-02 at noon.
-3. Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
-    - People I'm waiting to hear from (as of 10 AM Sunday 2020-11-29) are Emily Conlan, Akif Gormez, Arsh Kochar, Marie Michenkova, Aman Pande, Zoe Sekyonda, Kristi Westphaln and Emily Zetzer.
-4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is 2020-12-10 at Noon, other than the Zoom presentations.
+3. The Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
+    - People I'm waiting to hear from (as of 11:30 AM Monday 2020-11-30) are Emily Conlan, Akif Gormez, Arsh Kochar, Marie Michenkova, Aman Pande, Zoe Sekyonda and Kristi Westphaln.
+    - If you're currently scheduled to do a recording but want to switch to a Zoom meeting, let Dr. Love know now and he'll see if that can happen.
+    - The complete schedule of Zoom presentations will be available by class time Thursday.
+4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
     - If you want TA help on your project, remember to get it by the end of the day Monday 2020-12-07.
     - Dr. Love will monitor Piazza for Project B questions until 2020-12-10 at 9 AM.
 5. Quiz 2 will appear on Friday 2020-12-04, and is due on 2020-12-14 at Noon.
