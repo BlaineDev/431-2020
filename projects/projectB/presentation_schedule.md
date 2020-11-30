@@ -11,17 +11,19 @@ Maggie Rybak and Mia Wang | T'yasah Walser and Nysia Wise | Luke Zhang and Micha
 Individual | Individual | Individual | Individual | Individual
 ----------- | ---------- | --------- | ----------- | -----------
 Preeti Balachandran | Oindrila De | Caitlyn Grubbs | Anniya Gu | Clara Harb 
-Jane Hinkle | Natasha Ingles | Ali Klein | Jeff Kovach | Joe Magoline 
-Nilanjana Majumdar | Arshiya Mariam | Joe Powell | Lindsay Ross | Sarah Simmons 
-Enrique Soltero Mariscal | Surbhi Sona | Monika Strah | Dipak Upadhyaya | Wail Yar
-Chenya Zhao | Lin Zhu
+Jane Hinkle | Natasha Ingles | Ali Klein | Arsh Kochar | Jeff Kovach 
+Joe Magoline | Nilanjana Majumdar | Arshiya Mariam | Joe Powell | Lindsay Ross 
+Sarah Simmons | Enrique Soltero Mariscal | Surbhi Sona | Monika Strah | Dipak Upadhyaya 
+Wail Yar | Chenya Zhao | Lin Zhu
 
-## Projects not yet confirmed
+## Project Oral Presentation Plans not yet confirmed
 
-Individual | Individual | Individual | Individual | Individual
------------ | ---------- | --------- | ----------- | -----------
-Emily Conlan | Akif Gormez | Arsh Kochar | Marie Michenkova | Aman Pande
-Zoe Sekyonda | Kristi Westphaln
+- Emily Conlan
+- Akif Gormez
+- Marie Michenkova
+- Aman Pande
+- Zoe Sekyonda
+- Kristi Westphaln
 
 ## Projects where I am definitely scheduling a Zoom meeting
 
