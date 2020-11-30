@@ -74,7 +74,8 @@ There are three groups of students - which group you're in was in an email from 
     - Dr. Love will monitor Piazza for Project B questions until 2020-12-10 at 9 AM.
 5. Quiz 2 will appear on Friday 2020-12-04, and is due on 2020-12-14 at Noon.
     - Questions about Quiz 2 can be asked via Piazza using private messages to the Instructor(s) through 2020-12-14 at 9 AM.
-6. Fill out the CWRU Course Evaluation, when it becomes available. It's very important to me to have as many of you as possible respond.
+6. Fill out the [CWRU Course Evaluation](https://webapps.case.edu/courseevals/) which is available through 2020-12-16. 
+    - It's very important to me to have as many of you as possible do this.
 
 ## One Last Thing
 
