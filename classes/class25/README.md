@@ -17,7 +17,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - Some of this advice also appeared in the [Class 24 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24). 
         - I also placed a short note at the start of Sections 3 and 5 of the [Study 2 Demonstration Project](https://thomaselove.github.io/431-2020-projectB/your7.html) to remind you to look at these augmented instructions.
 2. [Course Notes](https://thomaselove.github.io/431-notes/) 
-    - I've now posted all 33 chapters, including 11 new ones since we last met. The class slides always show my most recent thinking for R coding, but I haven't found the time to fix that in the Notes in a few spots, but, for example, Chapters 28-31 have been completely rewritten to reflect our most current approaches. Most of chapters 23-27 are pretty much up-to-date, too. Chapters 32-33 feature older methods, with some surprises.
+    - I've now posted all 33 chapters, including 11 new ones since we last met. The class slides always show my most recent thinking for R coding, but I haven't found the time to fix that in the Notes in a few spots, but, for example, Chapters 28-31 have been completely rewritten to reflect our most current approaches. Most of chapters 23-27 are pretty much up-to-date, too. Chapters 32-33 feature older methods, with some surprises. On 2020-11-30, I revised Chapters 13 and 31 to fix small issues.
     - [Chapter 23](https://thomaselove.github.io/431-notes/estimating-a-population-proportion.html): Building Confidence Intervals for a Population Proportion
     - [Chapter 24](https://thomaselove.github.io/431-notes/comparing-proportions-with-two-independent-samples.html): Analyzing a Two-by-Two table to compare proportions
     - [Chapter 25](https://thomaselove.github.io/431-notes/larger-contingency-tables.html): Chi-square tests for larger 2-way tables and Cochran-Mantel-Haenszel for 3-way tables
@@ -33,7 +33,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - When logged into 431 on Canvas, click Zoom, then select Cloud Recordings, pull up a recording of a class as if you were watching it, and at the top right, you should find a button to download the recording. I'm sorry it took until now for these to be downloadable.
     - The Zoom videos will start disappearing in mid-January of 2021. Grab them in December if you want them. 
     - 431 Course Notes and Github materials will disappear on 2021-06-01.
-4. Grades for Lab 07 are now posted in [the usual place](http://bit.ly/431-2020-grades).
+4. Grades for Lab 07 are posted in [the usual place](http://bit.ly/431-2020-grades).
 
 ## Oral Presentations for Project B
 
