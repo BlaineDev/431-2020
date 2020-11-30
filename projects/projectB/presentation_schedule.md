@@ -2,13 +2,13 @@
 
 ## Projects where I expect a recording (which must be submitted by 2020-12-10 at noon to Canvas) rather than a Zoom meeting
 
-Project Teams | Project Teams | Project Teams
+Recording Team | Recording Team | Recording Team
 ------------- | -------------- | -------------- 
 Shawndasia Collins and Amir Reza Sadri | Naomi Joseph and Ananya Subramaniam | Danny Lam and Derrick Liu
 Rebecca Manning and Emma Wallens | Tre Martyn and Josh Saef | Grace Nalukwago and Kiara White
 Maggie Rybak and Mia Wang | T'yasah Walser and Nysia Wise | Luke Zhang and Michael Zhang
 
-Individual | Individual | Individual | Individual | Individual
+Recording | Recording | Recording | Recording | Recording
 ----------- | ---------- | --------- | ----------- | -----------
 Preeti Balachandran | Oindrila De | Caitlyn Grubbs | Anniya Gu | Clara Harb 
 Jane Hinkle | Natasha Ingles | Ali Klein | Arsh Kochar | Jeff Kovach 
@@ -27,7 +27,7 @@ Wail Yar | Chenya Zhao | Lin Zhu
 
 ## Projects where I am definitely scheduling a Zoom meeting
 
-Team | Team | Team | Team
+Zoom Meeting | Zoom Meeting | Zoom Meeting | Zoom Meeting
 ------------ | ------------ | ------------ | -----------
 Asma Almijlad | Fabliha Anam and Sam Waddell | Razaq Durodoye | Ali Elsharkawi
 Leila Hojat | Aya Jishi | Jill Miracle | Ritu Narahari
