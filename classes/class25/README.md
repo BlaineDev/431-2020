@@ -64,7 +64,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 1. Now that we're in December, don't forget about staying healthy, keeping other people healthy, and taking care of those that need your help. **Make good choices.**
 2. [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25) is due Wednesday 2020-12-02 at noon.
 3. The Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
-    - People I'm waiting to hear from (as of 11:30 AM Monday 2020-11-30) are Emily Conlan, Akif Gormez, Arsh Kochar, Marie Michenkova, Aman Pande, Zoe Sekyonda and Kristi Westphaln.
+    - People I'm waiting to hear from (as of 4 PM Monday 2020-11-30) are Emily Conlan, Akif Gormez, Marie Michenkova, Aman Pande, Zoe Sekyonda and Kristi Westphaln.
     - If you're [currently scheduled to do a recording](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) but want to switch to a Zoom meeting, email Dr. Love now and he'll see if that can happen.
     - The complete schedule of Zoom presentations will be available [at this link](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) by class time Thursday.
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
