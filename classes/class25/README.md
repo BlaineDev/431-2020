@@ -17,7 +17,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - Some of this advice also appeared in the [Class 24 README](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24). 
         - I also placed a short note at the start of Sections 3 and 5 of the [Study 2 Demonstration Project](https://thomaselove.github.io/431-2020-projectB/your7.html) to remind you to look at these augmented instructions.
     - I added the [Instructions for the Oral Presentations](https://thomaselove.github.io/431-2020-projectB/tasks.html) to the [Checklist](https://thomaselove.github.io/431-2020-projectB/tasks.html) page on 2020-11-30. 
-        - This includes separate instructions for those of you producing a recording, and those having a Zoom meeting with Dr. Love. 
+        - This includes separate instructions for those of you producing a recording, and those having a Zoom meeting with Dr. Love. My list of [who's doing what is here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md).
         - We've highlighted exactly what we expect in terms of timing and logistics. Let us know if you have questions.
 2. [Course Notes](https://thomaselove.github.io/431-notes/) 
     - I've now posted all 33 chapters, including 11 new ones since we last met. The class slides always show my most recent thinking for R coding, but I haven't found the time to fix that in the Notes in a few spots, but, for example, Chapters 28-31 have been completely rewritten to reflect our most current approaches. Most of chapters 23-27 are pretty much up-to-date, too. Chapters 32-33 feature older methods, with some surprises. On 2020-11-30, I revised Chapters 13 and 31 to fix small issues.
@@ -41,7 +41,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## Announcements
 
 1. [Instructions for the Project B Oral Presentations](https://thomaselove.github.io/431-2020-projectB/tasks.html) (recording and Zoom) are now available.
-    - If you're not sure whether you're having a Zoom meeting or recording a video, you should have received an email about your status on 2020-11-21. Please let Dr. Love know right now if you're not clear on what is expected from you.
+    - My list of [who's doing what (Zoom or recording) is here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
 2. The [Self-Evaluation Google Form for Project B](https://bit.ly/431-projectB-self-evaluation) is now available.
 3. There is a [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25), due at noon Wednesday 2020-12-02. 
 4. **To be posted**. Answer sketch for Lab 8 will appear by class time on 2020-12-01.
@@ -64,8 +64,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 2. [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25) is due Wednesday 2020-12-02 at noon.
 3. The Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
     - People I'm waiting to hear from (as of 11:30 AM Monday 2020-11-30) are Emily Conlan, Akif Gormez, Arsh Kochar, Marie Michenkova, Aman Pande, Zoe Sekyonda and Kristi Westphaln.
-    - If you're currently scheduled to do a recording but want to switch to a Zoom meeting, let Dr. Love know now and he'll see if that can happen.
-    - The complete schedule of Zoom presentations will be available by class time Thursday.
+    - If you're [currently scheduled to do a recording](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) but want to switch to a Zoom meeting, email Dr. Love now and he'll see if that can happen.
+    - The complete schedule of Zoom presentations will be available [at this link](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) by class time Thursday.
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
     - If you want TA help on your project, remember to get it by the end of the day Monday 2020-12-07.
     - Dr. Love will monitor Piazza for Project B questions until 2020-12-10 at 9 AM.
