@@ -87,7 +87,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - One of the questions is about your plans for 432. You may want to see [this list of key 432 topics](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/README.md#key-topics-i-hope-to-do-justice-to-in-432) (which we'll discuss Thursday.)
 3. The Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
     - People I'm waiting to hear from (as of 11 AM today) are **Akif Gormez, Marie Michenkova, Aman Pande and Zoe Sekyonda**. If you are sure what you're doing, please let me know as soon as you can.
-    - If you're [currently scheduled to do a recording](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) but want to switch to a Zoom meeting, email Dr. Love now and he'll see if that can happen.
+    - If you're [currently scheduled to do a recording](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) but want to switch to a Zoom meeting, email Dr. Love right now.
     - The complete schedule of Zoom presentations will be available [at this link](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) by class time Thursday.
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
     - If you want TA help on your project, remember to get it by the end of the day Monday 2020-12-07.
