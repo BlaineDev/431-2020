@@ -75,7 +75,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
     - If you want TA help on your project, remember to get it by the end of the day Monday 2020-12-07.
     - Dr. Love will monitor Piazza for Project B questions until 2020-12-10 at 9 AM.
-5. Quiz 2 will appear on Friday 2020-12-04, and is due on 2020-12-14 at Noon.
+5. [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/quizzes/quiz2) will appear before noon Friday 2020-12-04, and is due on 2020-12-14 at Noon.
     - Questions about Quiz 2? Ask them via Piazza via private messages to the Instructor(s) before 2020-12-14 at 9 AM.
 6. Fill out the [CWRU Course Evaluation](https://webapps.case.edu/courseevals/) which is available through 2020-12-16. 
     - It's very important to me to have as many of you as possible do this.
