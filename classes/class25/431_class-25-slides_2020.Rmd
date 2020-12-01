@@ -16,7 +16,8 @@ output:
 ```{r setup, message = FALSE}
 library(GGally); library(car); library(simputation)
 library(janitor); library(magrittr); library(broom)
-library(patchwork); library(knitr); library(naniar)
+library(equatiomatic); library(patchwork)
+library(knitr); library(naniar)
 
 library(tidyverse) # always load tidyverse last
 
@@ -31,7 +32,7 @@ options(dplyr.summarise.inform = FALSE)
 - Regression Analysis: What is today's focus?
     - Data Management
     - Imputation
-    - How well will retain our R^2^ in new data?
+    - How well will retain our $R^2$ in new data?
     - Interpreting our Coefficients
     - Comparisons In-Sample via ANOVA, AIC, BIC, $\sigma$
     - "Uncertainty" Intervals around a model's coefficients
@@ -101,26 +102,32 @@ Too many predictors to fit on one slide, so I'll split them...
 
 ```{r, eval = FALSE}
 dm192 %>% select(sbp_old, age, a1c_old, statin, sbp) %>%
-  ggpairs()
+  ggpairs(., 
+          lower=list(combo=wrap("facethist", binwidth=0.8)))
 ```
 
 ```{r, eval = FALSE}
 dm192 %>% select(sex, race, hisp, insurance, sbp) %>%
-  ggpairs()
+  ggpairs(., 
+          lower=list(combo=wrap("facethist", binwidth=0.8)))
 ```
+
+Adding the `lower = ...` stuff eliminates the binwidth message.
 
 ## Scatterplot Matrix 1 (numerical predictors)
 
-```{r, message = FALSE, echo = FALSE}
+```{r, echo = FALSE}
 dm192 %>% select(sbp_old, age, a1c_old, statin, sbp) %>%
-  ggpairs()
+  ggpairs(., 
+          lower=list(combo=wrap("facethist", binwidth=0.8)))
 ```
 
 ## Scatterplot Matrix 2 (categorical predictors)
 
-```{r, message = FALSE, echo = FALSE}
+```{r, echo = FALSE}
 dm192 %>% select(sex, race, hisp, insurance, sbp) %>%
-  ggpairs()
+  ggpairs(., 
+          lower=list(combo=wrap("facethist", binwidth=0.8)))
 ```
 
 ## Distribution of our Outcome
@@ -236,7 +243,20 @@ step(m2)
 
 you wind up with `m1`. That's how I came up with them as candidate models.
 
-## Which model looks better, by R^2^ and Adjusted R^2^?
+## Model Equations with `equatiomatic`
+
+Remember to include `results = 'asis`` in the code chunk.
+
+```{r, results = 'asis'}
+extract_eq(m1, use_coefs = TRUE, coef_digits = 3)
+```
+
+```{r, results = 'asis'}
+extract_eq(m2, use_coefs = TRUE, 
+           wrap = TRUE, terms_per_line = 3)
+```
+
+## Which model looks better, by $R^2$ and Adjusted $R^2$?
 
 ```{r}
 g1 <- glance(m1) %>% mutate(model = "m1")  
@@ -246,7 +266,7 @@ comp <- bind_rows(g1, g2)
 comp %>% select(model, r.squared, adj.r.squared)
 ```
 
-- Which of these two models is more likely to **retain its nominal R^2^ value** in new data?
+- Which of these two models is more likely to **retain its nominal $R^2$ value** in new data?
 
 ## Which model looks better, by $\sigma$, AIC or BIC?
 
@@ -259,7 +279,17 @@ comp %>% select(model, sigma, AIC, BIC)
 ```{r}
 anova(m1, m2)
 ```
- 
+
+## Interpreting the slopes and their CIs
+
+```{r}
+tidy(m1, conf.int = TRUE, conf.level = 0.90) %>%
+  select(term, estimate, std.error, conf.low, conf.high) %>%
+  knitr::kable(digits = 2)
+```
+
+- Averaging over repeated samples, we can be 90% confident that the true slope of `sbp_old` lies between 0.90 and 0.98, assuming that `statin` is unchanged.
+
 ## Model `m1`, and 90% uncertainty intervals
 
 Let's describe these as *uncertainty intervals*, since they are meant to help you understand how much uncertainty you have.
@@ -302,6 +332,8 @@ tidy(m1, conf.int = TRUE, conf.level = 0.50) %>%
   knitr::kable(digits = 2)
 ```
 
+Under repeated sampling, the true slope of `sbp_old` will be inside (0.92, 0.96) half of the time, assuming `statin` is held constant.
+
 ## Andrew Gelman Blog Posts Worth a Little Time
 
 - Instead of "confidence interval," let's say "uncertainty interval" at https://andrewgelman.com/2010/12/21/lets_say_uncert/
@@ -324,8 +356,8 @@ ggplot(m1_aug, aes(x = sbp_old, y = sbp,
               alpha = 0.2) +
   facet_wrap(~ statin, labeller = "label_both") +
   guides(col = FALSE) +
-  labs(title = "Model m1 with",
-       subtitle = "approximate 95% uncertainty intervals") 
+  labs(title = "Model m1",
+       subtitle = "with approximate 95% uncertainty intervals") 
 ```
 
 ## Plotting Model `m1` (Result)
@@ -342,8 +374,8 @@ ggplot(m1_aug, aes(x = sbp_old, y = sbp,
               alpha = 0.2) +
   facet_wrap(~ statin, labeller = "label_both") +
   guides(col = FALSE) +
-  labs(title = "Model m1 with",
-       subtitle = "approximate 95% uncertainty intervals") 
+  labs(title = "Model m1",
+       subtitle = "with approximate 95% uncertainty intervals") 
 ```
 
 # Residual Plots and Regression Assumptions
@@ -673,3 +705,6 @@ Develop an effective model. (?) (!)
 - Just because R chooses four plots for you to study doesn't mean they provide the only relevant information.
 - Embrace the uncertainty. Look at it as an opportunity to study your data more effectively.
 
+## Thanks!
+
+![](images/tree2.png)
