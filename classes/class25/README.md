@@ -92,6 +92,9 @@ In today's slides, I'll make reference to the following three articles from Andr
         - Maximum Absolute Prediction Error
         - Root Mean Squared Prediction Error (or RMSPE), the square root of the mean of the squared prediction errors.
 13. **Stepwise Regression** remains terrible, but there is a demonstration of both backwards elimination and forwards selection using stepwise regression in, for example, [Section 31.6.2](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#could-we-have-fit-other-models) of the Course Notes.
+14. **Good language for interpreting a confidence interval** from [Andrew Gelman](https://statmodeling.stat.columbia.edu/2016/11/23/abraham-lincoln-confidence-intervals/)
+    - "Under repeated sampling, the true mean will be inside the confidence interval 95% of the time."
+    - "Averaging over repeated samples, we can be 95% confident that the true odds ratio lies between the lower and upper endpoints of the confidence interval."
 14. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
