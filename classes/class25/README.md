@@ -71,14 +71,16 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - Section 30.7.2 develops plots to assess Normality of a set of standardized residuals. This amplifies plot 2 from base R's regression diagnostics.
         - Section 30.8 develops a residuals vs. leverage plot, with Cook's distance issues indicated by color. This mirrors plot 5 from base R's regression diagnostics.
         - Section 30.9.2 develops an index plot of Cook's distance, using `geom_segment`, which improves on what I had in the slides from Classes 22-24. This mirrors plot 4 from base R's regression diagnostics.
-11. **Assessing prediction error**
+11. **Less "sensitive" versions of `loess` smooths**
+    - In building those `ggplot2` regression diagnostics plots, it seemed that in some cases `loess` was a bit too sensitive to individual points. In building up the materials for Chapter 30, I used a modification to the `geom_smooth` function, specifically setting a longer `span`, as in `geom_smooth(method = "loess", formula = y ~ x, span = 2, se = F)`. Note that the default `span` is 0.75, and that larger `span` values make the loess smooth less wiggily, if I may be permitted to use a technical term. 
+12. **Assessing prediction error**
     - [Section 31.8](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#test-sample-comparisons-for-our-3-models) of the Course Notes demonstrates the use of *four* summaries of predictive quality in a test sample.
         - Mean Absolute Prediction Error (or MAPE)
         - Median Absolute Prediction Error (which someone asked about in class, but I didn't discuss in Classes 22-24)
         - Maximum Absolute Prediction Error
         - Root Mean Squared Prediction Error (or RMSPE), the square root of the mean of the squared prediction errors.
-12. **Stepwise Regression** remains terrible, but there is a demonstration of both backwards elimination and forwards selection using stepwise regression in, for example, [Section 31.6.2](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#could-we-have-fit-other-models) of the Course Notes.
-13. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
+13. **Stepwise Regression** remains terrible, but there is a demonstration of both backwards elimination and forwards selection using stepwise regression in, for example, [Section 31.6.2](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#could-we-have-fit-other-models) of the Course Notes.
+14. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
