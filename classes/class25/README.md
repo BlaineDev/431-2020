@@ -99,7 +99,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 5. [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/quizzes/quiz2) will appear before noon Friday 2020-12-04, and is due on 2020-12-14 at Noon.
     - Questions about Quiz 2? Ask them via Piazza via private messages to the Instructor(s) before 2020-12-14 at 9 AM.
 6. Fill out the [CWRU Course Evaluation](https://webapps.case.edu/courseevals/) which is available through 2020-12-16. 
-    - It's very important to me to have as many of you as possible do this.
+    - It's very important to me to have as many of you as possible do this, so I'll be asking about it.
 
 ## One Last Thing
 
