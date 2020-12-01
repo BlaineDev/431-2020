@@ -10,6 +10,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 - Class 25 slides are available in [PDF format](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/431_class-25-slides_2020.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/431_class-25-slides_2020.Rmd).
 
+In today's slides, I'll make reference to the following three articles from Andrew Gelman's blog:
+
+- [Instead of "confidence interval" let's say "uncertainty interval"](https://andrewgelman.com/2010/12/21/lets_say_uncert/)
+- [Why I prefer 50% rather than 95% intervals](https://statmodeling.stat.columbia.edu/2016/11/05/why-i-prefer-50-to-95-intervals/)
+- [Abraham Lincoln and confidence intervals](https://statmodeling.stat.columbia.edu/2016/11/23/abraham-lincoln-confidence-intervals/)
+
 ## Changes to Course Materials Since We Last Met
 
 1. [Project B instructions](https://thomaselove.github.io/431-2020-projectB/)
@@ -115,7 +121,7 @@ We've settled into a routine since June in my house, where I do the NY Times cro
 
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/puzzle_2020-12-01.png)
 
-## Last Thing
+## One Last Thing
 
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/tree2.jpg)
 
