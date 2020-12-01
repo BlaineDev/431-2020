@@ -32,9 +32,7 @@ source("data/Love-boost.R")
 ## Global options
 
 options(max.print="75")
-opts_chunk$set(comment=NA,
-               message=FALSE,
-               warning=FALSE)
+opts_chunk$set(comment=NA)
 opts_knit$set(width=75)
 ```
 
