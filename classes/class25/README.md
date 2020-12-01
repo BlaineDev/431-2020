@@ -105,5 +105,5 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 We've settled into a routine since June in my house, where I do the NY Times crossword puzzles on Monday-Wednesday, and we do Thursday-Sunday together. Here are some of our statistics through 2020-11-30, as an example of where "expert knowledge" of the data would lead you to a very different set of conclusions about the relative difficulty of the puzzles each week than an analysis unsullied by such "subjective" understanding of the underlying process.
 
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/puzzle_2020-11-30.png)
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/puzzle_2020-12-01.png)
 
