@@ -18,7 +18,6 @@ Kristi Westphaln | Wail Yar | Chenya Zhao | Lin Zhu
 
 ## Project Oral Presentation Plans not yet confirmed
 
-- Emily Conlan
 - Akif Gormez
 - Marie Michenkova
 - Aman Pande
@@ -26,9 +25,11 @@ Kristi Westphaln | Wail Yar | Chenya Zhao | Lin Zhu
 
 ## Projects where I am definitely scheduling a Zoom meeting
 
+The team of Fabliha Anam and Sam Waddell, plus the following individuals:
+
 Zoom Meeting | Zoom Meeting | Zoom Meeting | Zoom Meeting
 ------------ | ------------ | ------------ | -----------
-Asma Almijlad | Fabliha Anam and Sam Waddell | Razaq Durodoye | Ali Elsharkawi
+Asma Almijlad | Emily Conlan | Razaq Durodoye | Ali Elsharkawi
 Leila Hojat | Aya Jishi | Jill Miracle | Ritu Narahari
 Rod Nault | Jennifer Nguyen | Callie Ogland-Hand | Will Patterson
 Lindsay Petrenchik | Katrina Prantzalos | Deja Rose | Long Vu
