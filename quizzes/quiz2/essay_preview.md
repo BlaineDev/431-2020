@@ -6,14 +6,11 @@ Below is a preview of the current draft of the essay question planned for the Fa
 
 ## The Current Draft
 
-> Write an essay of 150 to 200 words describing an important thing you learned from David Spiegelhalter's *The Art of Statistics* about doing statistical science well that Dr. Love didn't cover in Classes 1-24. If you quote Spiegelhalter, specify the Chapter where your quote is found.
+> Write a clear and well-composed essay of 150 to 200 words describing an important idea from David Spiegelhalter's *The Art of Statistics* about doing statistical science well that Dr. Love didn't cover in Classes 1-24. Your essay should state the idea in your own words, and should indicate why you feel it is important. 
 
-> Note 1: The important elements are a clear, well-written essay that discusses something important in Spiegelhalter. 
+> If you quote Spiegelhalter (and we prefer that you do), specify the Chapter containing your quote. If Dr. Love discussed your idea in class, you'll lose 1 of 8 available points. If your essay is unclear, or if you miss Spiegelhalter’s point, that will have a bigger impact on your score. Each Chapter in Spiegelhalter includes a summary of key points. Feel free to use these summaries to help spark ideas, but do not quote the summaries. 
 
-> Note 2: If Dr. Love actually did discuss your "thing", you'll be eligible for 7 of 8 available points. If your essay is unclear, or if you miss the point of what Spiegelhalter is saying, that would have a bigger impact on your score.
+> Use any software you like to produce a Word document or PDF submission.
 
-> Note 3: Each Chapter in Spiegelhalter contains a summary of key points from that Chapter. Feel free to use these to help spark useful ideas, but do not quote these summaries directly.
-
-> Note 4: These instructions, including the four Notes, are 150 words long.
-
+> These instructions are 150 words long.
 
