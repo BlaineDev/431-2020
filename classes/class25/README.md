@@ -33,8 +33,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - [Chapter 29](https://thomaselove.github.io/431-notes/multiple-regression-introduction.html): Setting Up Multiple Regression Case Studies, Outline of Key 431 Concepts
     - [Chapter 30](https://thomaselove.github.io/431-notes/regression-diagnostics.html): Regression Diagnostics
     - [Chapter 31](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html): Building Prediction Models for the `wcgs` data
-    - [Chapter 32](https://thomaselove.github.io/431-notes/species-found-on-the-galapagos-islands.html): The Galapagos Island Data featuring lots of questions to test yourself
-    - [Chapter 33](https://thomaselove.github.io/431-notes/bmi-and-employment-study.html): The BMI and Employment in Korea Study featuring Old Ways To Build/Evaluate Regressions
+    - [Chapter 32](https://thomaselove.github.io/431-notes/species-found-on-the-galapagos-islands.html): The Galapagos Island Data featuring lots of questions to test yourself (and some ideas like DFBETAS and DFFITS that we've not discussed)
+    - [Chapter 33](https://thomaselove.github.io/431-notes/bmi-and-employment-study.html): The BMI and Employment in Korea Study featuring Old Ways To Build/Evaluate Regressions (and some material on using the `mice` package to do multiple imputation)
 3. On Canvas, you should now be able to **download all of our class Zoom recordings**.
     - When logged into 431 on Canvas, click Zoom, then select Cloud Recordings, pull up a recording of a class as if you were watching it, and at the top right, you should find a button to download the recording. I'm sorry it took until now for these to be downloadable.
     - The Zoom videos will start disappearing in mid-January of 2021. Grab them in December if you want them. 
@@ -64,7 +64,21 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 9.  **Labelled class** Those of you working with NHANES data may encounter labelled variables. To view the labels, I'd run `Hmisc::describe()`. If you want to remove variable labels because they're causing a problem with a plot or model, I'd use `zap_label()` from [the `haven` package](https://haven.tidyverse.org/reference/zap_labels.html) (part of the `tidyverse`).
     - `zap_label()` (when applied to a tibble) removes variable labels, which are usually the issue in NHANES.
     - `zap_labels()` (with an "s") removes value labels.
-10. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
+10. **ggplot2 for Residual Diagnostics**
+    - [Chapter 30](https://thomaselove.github.io/431-notes/Reg-Diag.html) in the Course Notes provides detailed information on using `ggplot2` to build residual diagnostic plots.
+        - Section 30.3.2.2 develops a residuals vs. predicted values plot. This mirrors plot 1 from base R's regression diagnostics.
+        - Section 30.5.1 develops a scale-location plot, and 30.5.2 gives some insight into what trouble with non-constant variance looks like in such a plot. This mirrors plot 3 from base R's regression diagnostics.
+        - Section 30.7.2 develops plots to assess Normality of a set of standardized residuals. This amplifies plot 2 from base R's regression diagnostics.
+        - Section 30.8 develops a residuals vs. leverage plot, with Cook's distance issues indicated by color. This mirrors plot 5 from base R's regression diagnostics.
+        - Section 30.9.2 develops an index plot of Cook's distance, using `geom_segment`, which improves on what I had in the slides from Classes 22-24. This mirrors plot 4 from base R's regression diagnostics.
+11. **Assessing prediction error**
+    - [Section 31.8](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#test-sample-comparisons-for-our-3-models) of the Course Notes demonstrates the use of *four* summaries of predictive quality in a test sample.
+        - Mean Absolute Prediction Error (or MAPE)
+        - Median Absolute Prediction Error (which someone asked about in class, but I didn't discuss in Classes 22-24)
+        - Maximum Absolute Prediction Error
+        - Root Mean Squared Prediction Error (or RMSPE), the square root of the mean of the squared prediction errors.
+12. **Stepwise Regression** remains terrible, but there is a demonstration of both backwards elimination and forwards selection using stepwise regression in, for example, [Section 31.6.2](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#could-we-have-fit-other-models) of the Course Notes.
+13. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
