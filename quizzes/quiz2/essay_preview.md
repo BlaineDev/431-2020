@@ -2,7 +2,7 @@
 
 Dr. Love reserves the right to change his mind about how to ask the essay question, but also doesn't plan changes before posting the Quiz.
 
-Below is a preview of the current draft of the essay question planned for the Fall 2020 Quiz 2, which will be worth up to 8 points. Note that you can write your essay using any software you like, so long as the final submission is either a Word document or PDF file.
+Below is a preview of the current draft of the essay question planned for the Fall 2020 Quiz 2.
 
 ## The Current Draft
 
