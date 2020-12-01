@@ -121,7 +121,7 @@ In today's slides, I'll make reference to the following three articles from Andr
 6. Fill out the [CWRU Course Evaluation](https://webapps.case.edu/courseevals/) which is available through 2020-12-16. 
     - It's very important to me to have as many of you as possible do this, so I'll be asking about it.
 
-## Next-to-Last Thing
+## One Last Thing
 
 - From [Walt Hickey at Numlock News](https://numlock.substack.com/), writing about [this interesting data analysis](https://pudding.cool/2020/11/crossword/) by Michelle McGhee with Russell Goldenberg and Jan Diehm at The Pudding.
 
@@ -130,8 +130,3 @@ In today's slides, I'll make reference to the following three articles from Andr
 We've settled into a routine since June in my house, where I do the NY Times crossword puzzles on Monday-Wednesday, and we do Thursday-Sunday together. Here are some of our statistics through 2020-11-30, as an example of where "expert knowledge" of the data would lead you to a very different set of conclusions about the relative difficulty of the puzzles each week than an analysis unsullied by such "subjective" understanding of the underlying process.
 
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/puzzle_2020-12-01.png)
-
-## One Last Thing
-
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/tree2.jpg)
-
