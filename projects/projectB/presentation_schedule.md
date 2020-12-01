@@ -12,15 +12,14 @@ Recording | Recording | Recording | Recording | Recording
 ----------- | ---------- | --------- | ----------- | -----------
 Preeti Balachandran | Oindrila De | Caitlyn Grubbs | Anniya Gu | Clara Harb 
 Jane Hinkle | Natasha Ingles | Ali Klein | Arsh Kochar | Jeff Kovach 
-Joe Magoline | Nilanjana Majumdar | Arshiya Mariam | Joe Powell | Lindsay Ross 
-Sarah Simmons | Enrique Soltero Mariscal | Surbhi Sona | Monika Strah | Dipak Upadhyaya 
-Kristi Westphaln | Wail Yar | Chenya Zhao | Lin Zhu
+Joe Magoline | Nilanjana Majumdar | Arshiya Mariam | Aman Pande | Joe Powell 
+Lindsay Ross | Sarah Simmons | Enrique Soltero Mariscal | Surbhi Sona | Monika Strah  
+Dipak Upadhyaya | Kristi Westphaln | Wail Yar | Chenya Zhao | Lin Zhu
 
 ## Project Oral Presentation Plans not yet confirmed
 
 - Akif Gormez
 - Marie Michenkova
-- Aman Pande
 - Zoe Sekyonda
 
 ## Projects where I am definitely scheduling a Zoom meeting
