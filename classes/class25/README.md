@@ -95,7 +95,14 @@ In today's slides, I'll make reference to the following three articles from Andr
 14. **Good language for interpreting a confidence interval** from [Andrew Gelman](https://statmodeling.stat.columbia.edu/2016/11/23/abraham-lincoln-confidence-intervals/)
     - "Under repeated sampling, the true mean will be inside the confidence interval 95% of the time."
     - "Averaging over repeated samples, we can be 95% confident that the true odds ratio lies between the lower and upper endpoints of the confidence interval."
-14. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
+15. **Eliminating the binwidth message in a scatterplot matrix**
+    - If your data is in a tibble called `df`, and you're plotting using `ggpairs` from the `GGally` package, try `df` %>% select(predictors, outcome) %>% ggpairs(., lower=list(combo=wrap("facethist", binwidth=0.8)))` adjusting the `binwidth` as you desire.
+16. **Eliminating the `summarize` override with `.groups` argument message**
+    - Try `options(dplyr.summarise.inform = FALSE)` in your YAML.
+17. **augment** different tibbles for different purposes
+    - When augmenting training sample data to build residual plots or identify influential/leveraged/high-residual points, use `augment(modelname, data = trainingsample_tibblename)`.
+    - When augmenting test sample data to calculate out-of-sample estimated prediction errors, use `augment(modelname, newdata = testsample_tibblename)`.
+18. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
