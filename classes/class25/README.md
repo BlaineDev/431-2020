@@ -47,8 +47,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - My list of [who's doing what (Zoom or recording) is here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
 2. The [Self-Evaluation Google Form for Project B](https://bit.ly/431-projectB-self-evaluation) is now available.
 3. There is a [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25), due at noon Wednesday 2020-12-02. 
-4. **To be posted**. Answer sketch for Lab 8 will appear by class time on 2020-12-01.
-5. TA office hours are back, and will continue every day through Monday 2020-12-07.
+4. The [Answer sketch (and rubric) for Lab 8](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08/README.md) is now available.
+5. [TA office hours](https://thomaselove.github.io/431/calendar.html#TA_Office_Hours) are ongoing, and will continue every day through Monday 2020-12-07.
 6. [The `forcats` package](https://forcats.tidyverse.org/index.html) is an incredibly useful tool for working with factors, but it's sometimes a challenge to figure out which function to use in a particular situation. 
     - [Here is a comprehensive list](https://forcats.tidyverse.org/reference/index.html) of all of the functions available for changing the order of levels, changing the value of level, adding or removing levels, combining multiple factors, and other helper functions, including links to examples.
     - The [RStudio Cheat Sheet (pdf)](https://github.com/rstudio/cheatsheets/raw/master/factors.pdf) for working with factors using `forcats` is very useful.
