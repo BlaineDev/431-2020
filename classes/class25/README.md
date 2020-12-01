@@ -59,7 +59,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - There is no need for you to upgrade until after you complete both Project B and Quiz 2. We assume you have version 4.0.2 of R and RStudio version 1.3.xxx. You are *welcome* to upgrade, but it is more likely to cause problems than solve them for you at this point.
     - Dr. Love intends to continue using R version 4.0.2 and RStudio version 1.3.1056 through the end of the course.
     - As of 2020-11-22, the current versions that are available are R version 4.0.3 and RStudio version 1.3.1093.
-8. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
+8. **equatiomatic** and `results = 'asis'`. 
+    - If you decide to use the `equatiomatic` package to produce a listing of a regression equation, we've seen that you have to use `results = 'asis'` in setting up that particular chunk of code. Don't use `results = 'asis'` in any other part of your R Markdown, though, or you will face some very unfortunate results in your HTML files.
+9. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
@@ -67,7 +69,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 2. [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25) is due Wednesday 2020-12-02 at noon.
     - One of the questions is about your plans for 432. You may want to see [this list of key 432 topics](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/README.md#key-topics-i-hope-to-do-justice-to-in-432) (which we'll discuss Thursday.)
 3. The Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
-    - People I'm waiting to hear from (as of 4 PM Monday 2020-11-30) are Emily Conlan, Akif Gormez, Marie Michenkova, Aman Pande, Zoe Sekyonda and Kristi Westphaln.
+    - People I'm waiting to hear from (as of 9 PM Monday 2020-11-30) are **Emily Conlan, Akif Gormez, Marie Michenkova, Aman Pande, Zoe Sekyonda and Kristi Westphaln**. If you are sure what you're doing, please let me know as soon as you can.
     - If you're [currently scheduled to do a recording](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) but want to switch to a Zoom meeting, email Dr. Love now and he'll see if that can happen.
     - The complete schedule of Zoom presentations will be available [at this link](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) by class time Thursday.
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
