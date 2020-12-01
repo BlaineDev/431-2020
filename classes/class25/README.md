@@ -96,7 +96,7 @@ In today's slides, I'll make reference to the following three articles from Andr
     - "Under repeated sampling, the true mean will be inside the confidence interval 95% of the time."
     - "Averaging over repeated samples, we can be 95% confident that the true odds ratio lies between the lower and upper endpoints of the confidence interval."
 15. **Eliminating the binwidth message in a scatterplot matrix**
-    - If your data is in a tibble called `df`, and you're plotting using `ggpairs` from the `GGally` package, try `df` %>% select(predictors, outcome) %>% ggpairs(., lower=list(combo=wrap("facethist", binwidth=0.8)))` adjusting the `binwidth` as you desire.
+    - If your data is in a tibble called `df`, and you're plotting using `ggpairs` from the `GGally` package, try `df %>% select(predictors, outcome) %>% ggpairs(., lower=list(combo=wrap("facethist", binwidth=0.8)))` adjusting the `binwidth` as you desire.
 16. **Eliminating the `summarize` override with `.groups` argument message**
     - Try `options(dplyr.summarise.inform = FALSE)` in your YAML.
 17. **augment** different tibbles for different purposes
