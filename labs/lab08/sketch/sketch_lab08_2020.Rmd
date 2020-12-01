@@ -1,0 +1,335 @@
+---
+title: "Answer Sketch and Rubric for Lab 08"
+author: "431 Staff and Professor Love"
+date: "Last Edited `r Sys.time()`"
+output:
+  pdf_document:
+    number_sections: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = NA)
+
+Love_boost_URL <- 
+  "https://raw.githubusercontent.com/THOMASELOVE/431-data/master/Love-boost.R"
+
+source(Love_boost_URL)
+```
+
+# Question 1 (10 points)
+
+> Suppose you plan to study whether surgery can prolong life among men suffering from prostate cancer, which typically develops and spreads very slowly. Men diagnosed with prostate cancer will be randomly assigned to either undergo surgery or not. Suppose you believe that approximately 10% of men diagnosed with prostate cancer but do not have surgery will eventually die from prostate cancer, and you want to do the study using a sample size that will retain at least 80% power to detect a drop down to 5%, using a two-sided approach with a 95% confidence level.
+
+> What is the smallest number of men (including both the surgery and non-surgery groups) that you will need to enroll in this new study to meet these specifications, using a balanced design? Provide the details of your calculation, and also provide a complete sentence or two interpreting the meaning of the results in context.
+
+
+We use the `power.prop.test` function to determine this sample size, with the probability without surgery at $p_1$ = 0.10, and the probability after surgery at $p_2$ = 0.05, at a 5% significance level with 80% power.
+
+```{r q1}
+power.prop.test(p1 = 0.10, p2 = 0.05, sig.level=0.05, power = 0.80)
+```
+
+We will require at least 435 men in each of the two arms of the study - meaning that we need a total of **870 men**.
+
+
+## Grading Question 1 (maximum points: 10)
+
+- 10 points for doing everything right
+    + Using `power.prop.test` 
+    + p1 of 0.1 and p2 of 0.05 or vice versa
+    + Power of 0.8, and significance of 0.05 (3 points)
+    + Arriving at 435 patients in *each* group or a total of 870 (3 points)
+    
+
+# Question 2 (10 points)
+
+> In 2003, the *New England Journal of Medicine* published the results of a Scandinavian study of the issue described in Question 1. In [that report](http://www.nejm.org/doi/10.1056/NEJMoa012794), among 347 men randomly assigned to surgery, 16 eventually died of prostate cancer, compared with 31 of the 348 men who did not have surgery.
+
+> With 95% confidence, what can you conclude about a comparison of the odds of death due to prostate cancer for those who did NOT have surgery as compared to the odds of death for those who did have surgery? Provide appropriate details of your calculations, including a sentence or two interpreting the meaning of the results in context.
+
+We'll build the two by two table with the rows describing surgical status (the exposure) and the columns describing mortality due to prostate cancer (the outcome). We'll put death due to prostate cancer and no surgery in the top left cell so as to obtain the odds ratio that is specified. I will go ahead and use the Bayesian augmentation here, but that's certainly not critical.
+
+```{r q3, message=FALSE}
+twobytwo(31+2, 348-31+2, 16+2, 347-16+2, 
+         "No surgery", "Surgery", "PC Death", "No PC Death")
+```
+
+The sample odds ratio is 1.91 [2.02 without the Bayesian augmentation], and the 95% confidence interval for that odds ratio is (1.06, 3.47) [it would be (1.09, 3.77) without the augmentation] so there is a detectable difference in prostate cancer death rates, with higher odds of prostate cancer-related death associated with men who did not have the surgery. This is true because the 95% confidence interval for the appropriate odds ratio is greater than 1.
+
+
+## Grading Question 2 (maximum points: 10)
+
+- Award 10 points for:
+    + Setting up the table correctly
+    + Interpreting the table correctly
+- Award at most 7 points for doing only one of the above
+- Award at least 5 points for any reasonable attempt.
+- It's OK if people used the Bayesian augmentation with +2 (as I did above) or with +1 or skipped the augmentation entirely.
+
+
+# Question 3 (10 points)
+
+> In a 2014 [follow-up report](http://www.nejm.org/doi/full/10.1056/NEJMoa1311593#t=article) describing results from Question 2 but now updated through the end of 2012, a total of 63 men assigned to surgery and 99 men not assigned to surgery had died of prostate cancer. In a sentence or two, explain how an analysis of these new results compares to the conclusions you drew in Question 2.
+
+We'll use the same approach as in Question 2.
+
+```{r q4, message=FALSE}
+twobytwo(99+2, 348-99+2, 63+2, 347-63+2, 
+         "No surgery", "Surgery", "PC Death", "No PC Death")
+```
+
+
+There is no substantial change in our conclusions. The sample odds ratio is now only 1.77 [1.79 without the Bayesian augmentation], but the 95% confidence interval for that odds ratio is (1.24, 2.52) [it would be (1.25, 2.57) without the augmentation] so there is still a detectable difference in prostate cancer death rates, with higher odds of prostate cancer-related death associated with men who did not have the surgery. 
+
+## Grading Question 3 (maximum points: 10)
+
+- Award 10 points for:
+    + Setting up the table correctly
+    + Interpreting the table correctly
+- Award at most 7 points for doing only one of the above
+- Award at least 5 points for any reasonable attempt.
+
+\newpage
+
+# Setup for Questions 4-8 {-}
+
+```{r, message = FALSE}
+knitr::opts_chunk$set(comment = NA)
+
+library(knitr)
+library(janitor)
+library(magrittr)
+library(patchwork)
+library(broom)
+library(tidyverse)
+
+theme_set(theme_bw())
+options(dplyr.summarise.inform = FALSE)
+
+
+plasma8 <- readRDS("data/plasma8.Rds")
+```
+
+```{r}
+set.seed(2020431)
+plas_train <- plasma8 %>% slice_sample(n = 240)
+plas_test <- anti_join(plasma8, plas_train, 
+                      by = "subj_ID")
+```
+
+# Question 4 (15 points)
+
+> Use the `plas_train` data frame to plot the distribution of the outcome of interest, which is `betaplasma`, and then plot the natural logarithm of `betaplasma`. Specify which of the two distributions better matches the desirable qualities of an outcome variable in a regression model. Whichever choice you make about the outcome -- either `betaplasma` or `log(betaplasma)` -- stick with it for the rest of this Lab. 
+
+```{r}
+p1 <- ggplot(plas_train, aes(x = "", y = betaplasma)) +
+  geom_violin(fill = "beige", alpha = 0.25) + 
+  geom_boxplot(width = 0.25, fill = "forestgreen") +
+  coord_flip() +
+  labs(title = "betaplasma", x = "")
+
+p2 <- ggplot(plas_train, aes(x = "", y = log(betaplasma))) +
+  geom_violin(fill = "beige", alpha = 0.25) + 
+  geom_boxplot(width = 0.25, fill = "royalblue") +
+  coord_flip() +
+  labs(title = "log(betaplasma)", x = "")
+
+p3 <- ggplot(plas_train, aes(sample = betaplasma)) +
+  geom_qq(col = "forestgreen") +
+  geom_qq_line(col = "red") + 
+  labs(y = "betaplasma")
+
+p4 <- ggplot(plas_train, aes(sample = log(betaplasma))) +
+  geom_qq(col = "royalblue") +
+  geom_qq_line(col = "red") + 
+  labs(y = "log(betaplasma)")
+
+(p1 + p2) / (p3 + p4) + 
+  plot_annotation(
+    title = "betaplasma is right-skewed, log(betaplasma) is more symmetric")
+```
+
+Taking the logarithm of `betaplasma` improves the fit of a Normal distribution to the data, and we will adopt that transformation of our outcome in the remainder of this work.
+
+## Grading Question 4 (maximum points: 10)
+
+- 10 points for developing an appropriate, attractive set of plots of the relevant distributions, that are appropriately labeled. A single plot for each (`betaplasma` and `log(betaplasma)`) is all that is required.
+- 5 additional points for coming to the correct conclusion regarding the logical choice of outcome transformation.
+
+\newpage
+
+# Question 5 (10 points)
+
+>Use the `plas_train` tibble to build a model for your outcome (as decided in Question 4) using four predictors: `age`, `sex`, `bmi`, and `fiber`. Call that model `model_4`.
+
+>Summarize `model_4` and write a sentence or two to evaluate it. Be sure you describe the model's R-square value, and the model's residual standard error, sigma, in context.
+
+```{r}
+model_04 <- lm(log(betaplasma) ~ age + sex + bmi + fiber,
+               data = plas_train)
+
+summary(model_04)
+```
+
+Key points we're hoping you will make:
+
+- `model_04` accounts for 15.95% of the variation in the log of `betaplasma`. That's not a great result, in most settings.
+- The residual standard error of the model is about 0.70, and this implies that about 95% of the prediction errors (residuals) made by the model predicting log(`betaplasma`) within the data set should be between -1.44 and 1.44, and that virtually all residuals should be between -2.16 and +2.16. Since the overall range of the data on the log scale is about 2.5-7, that's not a very impressive performance.
+- The model finds statistically detectable incremental effects of each of the four predictors (age, sex, bmi and fiber) using any of our usual $\alpha$ levels.
+
+
+## Grading Question 5 (maximum points: 10)
+
+- 3 points for specifying the $R^2$ value, and not, for instance, the adjusted $R^2$.
+- 3 more for specifying and interpreting the residual standard error.
+- 4 more for evaluating the model as accounting for a detectable, but not especially large amount of the variation in the outcome of interest (and getting that outcome right.)
+
+# Question 6 (10 points)
+
+> For your `model_4`, what is the estimated effect of being **female**, rather than male, on your outcome, holding everything else (age, bmi and fiber) constant. Provide and interpret a 95% confidence interval for that effect on your outcome.
+
+I prefer to do this with `tidy` from the `broom` package.
+
+
+```{r, message = FALSE}
+tidy(model_04, conf.int = TRUE) %>%
+  knitr::kable(digits = 2)
+```
+
+Our model finds the estimated effect of being Male, rather than being Female, explicitly, but since `sex` in this data set is a binary variable, we can just reverse the sign of our estimate from `sexM` to obtain the estimate for `sexF`. Another available option would be to adjust the order of the levels for the `sex` factor (using `fct_relevel`) so as to directly estimate `sexF` instead of `sexM`.
+
+Our `model_04` estimates the effect of being Female, rather than Male, on log(`betaplasma`) as an increase of 0.50. The 95% confidence interval is (0.23, 0.77).
+
+So, if we have two subjects of the same age, BMI and fiber intake, but different sex, then the female subject is estimated to have a log(`betaplasma`) value that is 0.50 larger than the male, and our 95% confidence interval for this difference is (0.23, 0.77), indicating a statistically detectable positive effect at the 5% level.
+
+
+## Grading Question 6 (maximum points: 10)  
+
+- 6 points for a correct estimate of the female effect.
+- 4 more for a correct estimate of the 95% confidence interval, properly explained.
+- If they in fact show the male effect size and CI without realizing it or if they misinterpret how to go from male to female, then that's a maximum of 7 points on the question. 
+- If they show the male effect size, and label it correctly as the male effect size, then that's a maximum of 9 points on the question.
+
+\newpage
+
+# Question 7 (15 points)
+
+> Now use the `plas_train` tibble to build a new model for your outcome (as decided in Question 4) using the following 10 predictors: `age`, `sex`, `smoking`, `bmi`, `vitamin`, `calories`, `fat`, `fiber`, `alcohol`, and `cholesterol`. Call that model `model_10`.
+
+> Compare `model_10` to `model_4` in terms of **adjusted** R^2^, and residual standard error. Which model performs better on these summaries, in the `plas_train` sample?
+
+```{r}
+model_10 <- lm(log(betaplasma) ~ age + sex + smoking + bmi +
+                 vitamin + calories + fat + fiber + alcohol +
+                 cholesterol,
+               data = plas_train)
+```
+
+```{r}
+bind_rows(glance(model_04), glance(model_10)) %>%
+  mutate(modelname = c("model_04", "model_10")) %>%
+  select(modelname, adj.r.squared, sigma) %>%
+  knitr::kable(digits = 3)
+```
+
+The model with 10 predictors has a larger adjusted $R^2$ and a smaller residual standard error ($\sigma$). Each of these suggests that `model_10` fits the data more effectively within our training sample, compared to `model_04`. 
+
+Another way to say this is that regarding *in-sample* prediction accuracy, we choose `model_10` over `model_04`.
+
+## Grading Question 7 (maximum points: 15)
+
+- 5 points for fitting `model_10` correctly
+- 5 more for specifying the adjusted $R^2$ and residual standard error correctly.
+- 5 more for identifying the better model on these in-sample summaries. 
+
+\newpage
+
+# Question 8 (20 points)
+
+> Compare the prediction errors made by the two models (`model_10` and `model_4`) you have generated. In particular, you will need to:
+
+- Calculate the prediction errors from each model,
+    - **Note**: If you chose to transform the outcome variable back in Question 4, then you will need to estimate the predictions here back on the original scale of `betaplasma`, rather than on the logarithmic scale. That involves making predictions on the log scale, and then back-transforming them with the `exp` function before calculating the residuals and eventually the summary statistics.
+- Visualize the prediction errors in each model, to let you compare them, and then
+- Form a table comparing the model predictions, in terms of MAPE (mean absolute prediction error), MSPE (mean squared prediction error) and maximum prediction error.
+
+> Based on your results, what conclusions do you draw about which model (`model_10` or `model_4`) is preferable? Is this the same conclusion you drew in Question 7?
+
+
+For full credit, you should estimate the predictions on the original scale of `betaplasma`, rather than on the logarithmic scale. That involves making predictions on the log scale, and then back-transforming them with the `exp` function before calculating the residuals and then the summary statistics.
+
+## Calculate the prediction errors
+
+```{r}
+aug04 <- augment(model_04, newdata = plas_test) %>%
+  mutate(modelname = "model_04", 
+         .fitbetaplasma = exp(.fitted),
+         .resbetaplasma = betaplasma - .fitbetaplasma)
+
+aug10 <- augment(model_10, newdata = plas_test) %>%
+  mutate(modelname = "model_10", 
+         .fitbetaplasma = exp(.fitted),
+         .resbetaplasma = betaplasma - .fitbetaplasma)
+
+test_comp <- union(aug04, aug10)
+```
+
+```{r}
+test_comp %>% 
+  select(subj_ID, modelname, betaplasma, .fitbetaplasma, .resbetaplasma) %>%
+  arrange(subj_ID, modelname) %>%
+  head(4) %>% kable(dig = 2)
+```
+
+## Visualize the prediction errors
+
+Boxplots to compare the out of sample prediction errors are as follows: 
+
+```{r}
+ggplot(test_comp, aes(x = modelname, y = .resbetaplasma, 
+                      fill = modelname)) +
+  geom_violin(alpha = 0.3) +
+  geom_boxplot(width = 0.3, notch = TRUE) + 
+  guides(fill = FALSE) +
+  coord_flip() + 
+  labs(x = "", y = "Out of Sample Prediction Errors")
+```
+
+We appear to have a major outlier in both the `model_10` and `model_04` predictions; with some investigation (see below), subject `S-1152` appears to be the extreme outlier in both models. We could further investigate this, if we wanted to see if this point was particularly influential... but we won't do that right now. 
+
+```{r}
+test_comp %>%
+  mutate(abs_res_bp = abs(.resbetaplasma)) %>%
+  select(subj_ID, modelname, abs_res_bp) %>%
+  top_n(2, abs_res_bp)
+```
+
+## Form the table comparing predictions on MAPE, MSPE and max error
+
+```{r}
+test_comp %>%
+  group_by(modelname) %>%
+  summarize(n = n(),
+            MAPE = mean(abs(.resbetaplasma)), 
+            MSPE = mean(.resbetaplasma^2),
+            max_error = max(abs(.resbetaplasma))) %>%
+  kable(dig = 2)
+```
+
+Our conclusion from the table is that `model_04` shows better (i.e. smaller) results on MAPE, MSPE and maximum prediction error. 
+
+Another way to say this is that regarding *out-of-sample* prediction accuracy, we choose `model_04` over `model_10`, which is in contrast to our decision in 7. 
+
+## Grading Question 8 (maximum points: 20)
+
+- 5 points for calculating prediction errors, 
+- with an additional 5 points for correctly doing the transformation.
+- 3 points for an appropriate visualization of whatever errors they wound up with
+- 3 points for an appropriate table summarizing whatever errors they wound up with
+- 4 points for a correct conclusion in light of their table (whatever it says), and reference back to the decision in Question 7.
+
+# Session Information
+
+```{r}
+sessionInfo()
+```
