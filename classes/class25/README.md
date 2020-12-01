@@ -61,7 +61,10 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - As of 2020-11-22, the current versions that are available are R version 4.0.3 and RStudio version 1.3.1093.
 8. **equatiomatic** and `results = 'asis'`. 
     - If you decide to use the `equatiomatic` package to produce a listing of a regression equation, we've seen that you have to use `results = 'asis'` in setting up that particular chunk of code. Don't use `results = 'asis'` in any other part of your R Markdown, though, or you will face some very unfortunate results in your HTML files.
-9. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
+9.  **Labelled class** Those of you working with NHANES data may encounter labelled variables. To view the labels, I'd run `Hmisc::describe()`. If you want to remove variable labels because they're causing a problem with a plot or model, I'd use `zap_label()` from [the `haven` package](https://haven.tidyverse.org/reference/zap_labels.html) (part of the `tidyverse`).
+    - `zap_label()` (when applied to a tibble) removes variable labels, which are usually the issue in NHANES.
+    - `zap_labels()` (with an "s") removes value labels.
+10. **COVID trials webinar** There is a webinar on Thursday 2020-12-03 at noon Eastern that I'll be attending (the first half hour of) entitled [The Statistics of COVID-19 Vaccine Trials](https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series) which might be of interest to you. Register at that link if you want to attend.
 
 ## What Should I Be Doing?
 
