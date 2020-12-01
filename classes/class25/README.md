@@ -72,7 +72,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
         - Section 30.8 develops a residuals vs. leverage plot, with Cook's distance issues indicated by color. This mirrors plot 5 from base R's regression diagnostics.
         - Section 30.9.2 develops an index plot of Cook's distance, using `geom_segment`, which improves on what I had in the slides from Classes 22-24. This mirrors plot 4 from base R's regression diagnostics.
 11. **Less "sensitive" versions of `loess` smooths**
-    - In building those `ggplot2` regression diagnostics plots, it seemed that in some cases `loess` was a bit too sensitive to individual points. In building up the materials for Chapter 30, I used a modification to the `geom_smooth` function, specifically setting a longer `span`, as in `geom_smooth(method = "loess", formula = y ~ x, span = 2, se = F)`. Note that the default `span` is 0.75, and that larger `span` values make the loess smooth less wiggily, if I may be permitted to use a technical term. 
+    - In building those `ggplot2` regression diagnostics plots, it seemed that in some cases `loess` might be a bit too sensitive to individual points. 
+    - In building up the materials for Chapter 30, I used a modification to the `geom_smooth` function, specifically setting a longer `span`, as in `geom_smooth(method = "loess", formula = y ~ x, span = 2, se = F)`. 
+    - The default `span` is 0.75, and larger `span` values make the loess smooth "wiggle" less. 
 12. **Assessing prediction error**
     - [Section 31.8](https://thomaselove.github.io/431-notes/building-prediction-models-for-wcgs.html#test-sample-comparisons-for-our-3-models) of the Course Notes demonstrates the use of *four* summaries of predictive quality in a test sample.
         - Mean Absolute Prediction Error (or MAPE)
