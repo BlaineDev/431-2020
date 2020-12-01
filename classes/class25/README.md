@@ -40,7 +40,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - The Zoom videos will start disappearing in mid-January of 2021. Grab them in December if you want them. 
     - 431 Course Notes and Github materials will disappear on 2021-06-01.
 4. Grades for Lab 07 are posted in [the usual place](http://bit.ly/431-2020-grades).
- 
+
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25/images/tree1.jpg)
+
 ## Announcements
 
 1. [Instructions for the Project B Oral Presentations](https://thomaselove.github.io/431-2020-projectB/tasks.html) (recording and Zoom) are now available.
