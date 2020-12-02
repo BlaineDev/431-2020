@@ -10,6 +10,10 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 - Class 26 slides will be made available in [PDF format](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/431_class-26-slides_2020.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/431_class-26-slides_2020.Rmd).
 
+## Announcements
+
+1. Project B Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). Please check the list and make sure you've seen my email if you have a scheduled Zoom meeting.
+
 ## Key Topics I Hope to Do Justice To in 432 
 
 I'll be happy if we do a reasonable job on more than half of these 15 areas.
