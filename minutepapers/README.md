@@ -6,7 +6,7 @@
 
 After Class | due | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :--------: | :----------:
-25 (2020-12-01) | 2020-12-02 NOON | https://bit.ly/431-2020-minute-25 | To come.
+25 (2020-12-01) | 2020-12-02 NOON | https://bit.ly/431-2020-minute-25 | https://bit.ly/431-2020-min25-feedback
 
 ### Completed Minute Papers
 
