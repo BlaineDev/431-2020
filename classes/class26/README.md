@@ -12,7 +12,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Announcements
 
-1. Project B Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). If you have a scheduled Zoom meeting, please respond to my email sent on 2021-12-01 to confirm your spot.
+1. Project B Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
+  - If you have a scheduled Zoom meeting that is [listed there](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) as not yet confirmed, please respond to my email sent on 2021-12-01 to confirm your spot.
 
 ## To Appear
 
