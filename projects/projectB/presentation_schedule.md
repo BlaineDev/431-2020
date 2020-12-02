@@ -22,23 +22,23 @@ THU | 9:30 AM to 9:55 AM | Jennifer Nguyen
 THU | 10:00 AM to 10:25 AM | Lindsay Petrenchik
 THU | 10:30 AM to 10:55 AM | Jill Miracle
 THU | 11:00 AM to 11:25 AM | Peng Zhang
-
-
+THU | 1:30 PM to 1:55 PM | Leila Hojat
+THU | 2:00 PM to 2:25 PM | Callie Ogland-Hand
+THU | 2:30 PM to 2:55 PM | Deja Rose
+THU | 3:00 PM to 3:25 PM | Aya Jishi
+THU | 3:30 PM to 3:55 PM | Emily Zetzer
+THU | 4:00 PM to 4:25 PM | Rod Nault
+THU | 4:30 PM to 4:55 PM | Ali Elsharkawi
 
 ## Zoom Presentations with Dr. Love on Friday 2020-12-11
 
-The team of , plus the following individuals:
-
-Zoom Meeting | Zoom Meeting | Zoom Meeting | Zoom Meeting
------------- | ------------ | ------------ | -----------
- | Emily Conlan |  | Ali Elsharkawi
-Leila Hojat | Aya Jishi |  | 
-Ritu Narahari | Rod Nault |  | Callie Ogland-Hand 
- |  |  | Deja Rose
-| | Ping Wang | 
-Patrick Wu | Kaan Yorgancioglu | Emily Zetzer | 
-
-
+Date | Time | Investigator
+---- | --------- | ------------------
+FRI | 8:30 AM to 8:55 AM | Ping Wang
+FRI | 1:00 PM to 1:25 PM | Kaan Yorgancioglu
+FRI | 1:30 PM to 1:55 PM | Patrick Wu
+FRI | 2:00 PM to 2:25 PM | Ritu Narahari
+FRI | 2:30 PM to 2:55 PM | Emily Conlan
 
 ## Projects submitting a video recording, due 2020-12-10 at noon to Canvas
 
