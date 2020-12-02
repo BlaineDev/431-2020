@@ -12,15 +12,19 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Announcements
 
-1. Project B Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
-  - If you have a scheduled Zoom meeting that is [listed there](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) as not yet confirmed, please respond to my email sent on 2021-12-01 to confirm your spot.
-  - The Canvas link to submit Project B materials went live today. Everything must be in at that link by noon on 2020-12-10.
+1. Project B 
+    - Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
+        - If you have a scheduled Zoom meeting that is [listed as not yet confirmed](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md), please respond to my email sent on 2021-12-01 to confirm your spot.
+    - The Canvas link to submit Project B materials went live today. Everything must be in at that link by noon on 2020-12-10.
+2. [Feedback on the Minute Paper after Class 25](https://bit.ly/431-2020-min25-feedback) is available now.
+3. On or around December 15, I will create a post-class webpage that will include suggestions for the break. I’ll email a link to everyone in the 431 class when it’s available with my thoughts on 432, on building a website and other tools to be a modern scientist, and on some related issues. You’ll also get your grade in 431 at about that time. 
+    - My best advice about preparing for 432 is to get some rest. Take care of yourself, and those around you. Make good choices.
+    - My second best tip is to keep analyzing data. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! David Robinson's [YouTube series of live Tidy Tuesday analysis screencasts](https://www.youtube.com/user/safe4democracy/videos) can be especially helpful in learning new tricks with visualization and data management.
+    - Don’t panic. Nothing is mandatory before February 1 for 432, other than obtaining a book or two and registering for the course (no, you cannot audit.)
 
-## To Appear
+## Still To Appear
 
-1. Feedback on the Minute Paper after Class 25.
-2. Quiz 2 instructions.
-3. Suggestions on what to do between now and the start of 432 if you're taking it.
+1. Quiz 2 instructions.
 
 ## Key Topics I Hope to Do Justice To in 432 
 
