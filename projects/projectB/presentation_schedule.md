@@ -19,8 +19,6 @@ Dipak Upadhyaya | Kristi Westphaln | Wail Yar | Chenya Zhao | Lin Zhu
 ## Project Oral Presentation Plans not yet confirmed
 
 - Akif Gormez
-- Marie Michenkova
-- Zoe Sekyonda
 
 ## Projects where I am definitely scheduling a Zoom meeting
 
@@ -29,8 +27,8 @@ The team of Fabliha Anam and Sam Waddell, plus the following individuals:
 Zoom Meeting | Zoom Meeting | Zoom Meeting | Zoom Meeting
 ------------ | ------------ | ------------ | -----------
 Asma Almijlad | Emily Conlan | Razaq Durodoye | Ali Elsharkawi
-Leila Hojat | Aya Jishi | Jill Miracle | Ritu Narahari
-Rod Nault | Jennifer Nguyen | Callie Ogland-Hand | Will Patterson
-Lindsay Petrenchik | Katrina Prantzalos | Deja Rose | Long Vu
-Ping Wang | Davis Weaver | Patrick Wu | Kaan Yorgancioglu
-Emily Zetzer | Peng Zhang
+Leila Hojat | Aya Jishi | Marie Michenkova | Jill Miracle 
+Ritu Narahari | Rod Nault | Jennifer Nguyen | Callie Ogland-Hand 
+Will Patterson | Lindsay Petrenchik | Katrina Prantzalos | Deja Rose
+Zoe Sekyonda | Long Vu | Ping Wang | Davis Weaver
+Patrick Wu | Kaan Yorgancioglu | Emily Zetzer | Peng Zhang
