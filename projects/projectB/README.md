@@ -2,6 +2,10 @@
 
 The [Project B instructions are posted to their own website](https://thomaselove.github.io/431-2020-projectB).
 
+## Schedule for Project B Presentations
+
+The schedule for Project B [Zoom meetings is here](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md).
+
 ## Study 1 Demonstration Project
 
 - Details on the Demonstration Project for Study 1 are [found here](https://thomaselove.github.io/431-2020-projectB/survey6.html).
