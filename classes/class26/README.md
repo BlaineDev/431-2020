@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | zoom information | for downloads
 
-**Quote to come**
+![](http://phdcomics.com/comics/archive.php?comicid=2037) from [PhD Comics](http://phdcomics.com/comics/archive.php?comicid=2037)
 
 ## Today's Slides
 
