@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | zoom information | for downloads
 
-![](http://phdcomics.com/comics/archive.php?comicid=2037) from [PhD Comics](http://phdcomics.com/comics/archive.php?comicid=2037)
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/images/vacations.png) from [PhD Comics](http://phdcomics.com/comics/archive.php?comicid=2037)
 
 ## Today's Slides
 
