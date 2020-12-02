@@ -32,3 +32,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - It's very important to me to have as many of you as possible do this, so I'll be asking about it, possibly on Quiz 2.
 4. Need a [regrade on a Lab](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md#grading-errors-and-regrade-requests)? Fill in the form at http://bit.ly/431-2020-lab-regrade-requests by noon 2020-12-10.
     - Grades on Lab 8 should be available by Tuesday 2020-12-08.
+
+## Third-from-Last Thing
+
+![](https://imgs.xkcd.com/comics/electoral_precedent_2020.png) from [XKCD](https://xkcd.com/2383)
