@@ -12,7 +12,7 @@ Lab | Assignment | Answer Sketch and Grading Rubric
 05 | [Lab 05 Instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab05/lab05.md) | [Sketch for Lab 05](https://github.com/THOMASELOVE/431-2020/tree/master/labs/lab05/sketch)
 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab06/lab06.md) | [Sketch for Lab 06](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab06)
 07 | [Lab 07 Instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab07/lab07.md) | [Sketch for Lab 07](https://github.com/THOMASELOVE/431-2020/tree/master/labs/lab07)
-08 | [Lab 08 Instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08/lab08.md) | Sketch for Lab 08
+08 | [Lab 08 Instructions](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08/lab08.md) | [Sketch for Lab 08](https://github.com/THOMASELOVE/431-2020/blob/master/labs/lab08)
 
 ## (Potentially) Helpful Video Recording
 
