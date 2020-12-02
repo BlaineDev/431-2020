@@ -2,6 +2,8 @@
 
 ## Zoom Presentations with Dr. Love on Wednesday 2020-12-09
 
+See your email for the Zoom invitation and other important information.
+
 2020-12-09 | Time | Investigator
 ---- | --------- | ------------------
 WED 12-09 | 09:30 AM to 09:55 AM | Marie Michenkova
@@ -14,6 +16,8 @@ WED 12-09 | 2:30 PM to 2:55 PM | Zoe Sekyonda
 WED 12-09 | 3:00 PM to 3:25 PM | Katrina Prantzalos
 
 ## Zoom Presentations with Dr. Love on Thursday 2020-12-10
+
+See your email for the Zoom invitation and other important information.
 
 2020-12-10 | Time | Investigator(s)
 ---- | --------- | ------------------
@@ -31,6 +35,8 @@ THU 12-10 | 4:00 PM to 4:25 PM | Rod Nault
 THU 12-10 | 4:30 PM to 4:55 PM | Ali Elsharkawi
 
 ## Zoom Presentations with Dr. Love on Friday 2020-12-11
+
+See your email for the Zoom invitation and other important information.
 
 2020-12-11 | Time | Investigator
 ---- | --------- | ------------------
