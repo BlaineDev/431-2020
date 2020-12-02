@@ -14,6 +14,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 1. Project B Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). Please check the list and make sure you've seen my email if you have a scheduled Zoom meeting.
 
+## To Appear
+
+1. Quiz 2 instructions.
+2. Feedback on the Minute Paper after Class 25.
+3. Suggestions on what to do between now and the start of 432 if you're taking it.
+
 ## Key Topics I Hope to Do Justice To in 432 
 
 I'll be happy if we do a reasonable job on more than half of these 15 areas.
