@@ -32,7 +32,7 @@ THU 12-10 | 2:30 PM to 2:55 PM | Deja Rose | -
 THU 12-10 | 3:00 PM to 3:25 PM | Aya Jishi | Yes
 THU 12-10 | 3:30 PM to 3:55 PM | Emily Zetzer | Yes
 THU 12-10 | 4:00 PM to 4:25 PM | Rod Nault | Yes
-THU 12-10 | 4:30 PM to 4:55 PM | Ali Elsharkawi | -
+THU 12-10 | 4:30 PM to 4:55 PM | Ali Elsharkawi | Yes
 
 ## Zoom Presentations with Dr. Love on Friday 2020-12-11
 
@@ -41,7 +41,7 @@ See your email for the Zoom invitation and other important information. Confirm 
 2020-12-11 | Time | Investigator | Confirmed?
 ---- | --------- | ------------------ | ----------
 FRI 12-11 | 8:30 AM to 8:55 AM | Ping Wang | Yes
-FRI 12-11 | 1:00 PM to 1:25 PM | Kaan Yorgancioglu | -
+FRI 12-11 | 1:00 PM to 1:25 PM | Kaan Yorgancioglu | Yes
 FRI 12-11 | 1:30 PM to 1:55 PM | Patrick Wu | Yes
 FRI 12-11 | 2:00 PM to 2:25 PM | Ritu Narahari | -
 FRI 12-11 | 2:30 PM to 2:55 PM | Emily Conlan | -
