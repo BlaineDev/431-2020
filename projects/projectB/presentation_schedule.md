@@ -43,7 +43,7 @@ See your email for the Zoom invitation and other important information. Confirm 
 FRI 12-11 | 8:30 AM to 8:55 AM | Ping Wang | Yes
 FRI 12-11 | 1:00 PM to 1:25 PM | Kaan Yorgancioglu | Yes
 FRI 12-11 | 1:30 PM to 1:55 PM | Patrick Wu | Yes
-FRI 12-11 | 2:00 PM to 2:25 PM | Ritu Narahari | -
+FRI 12-11 | 2:00 PM to 2:25 PM | Ritu Narahari | Yes
 FRI 12-11 | 2:30 PM to 2:55 PM | Emily Conlan | Yes
 
 ## Projects submitting a video recording, due 2020-12-10 at noon to Canvas
