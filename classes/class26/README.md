@@ -14,6 +14,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 1. Project B Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
   - If you have a scheduled Zoom meeting that is [listed there](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) as not yet confirmed, please respond to my email sent on 2021-12-01 to confirm your spot.
+  - The Canvas link to submit Project B materials went live today. Everything must be in at that link by noon on 2020-12-10.
 
 ## To Appear
 
