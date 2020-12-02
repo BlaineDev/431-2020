@@ -7,8 +7,8 @@ See your email for the Zoom invitation and other important information. Confirm 
 2020-12-09 | Time | Investigator | Confirmed?
 ---- | --------- | ------------------ | ----------
 WED 12-09 | 09:30 AM to 09:55 AM | Marie Michenkova | Yes
-WED 12-09 | 10:00 AM to 10:25 AM | Long Vu | -
-WED 12-09 | 10:30 AM to 10:55 AM | Davis Weaver | -
+WED 12-09 | 10:00 AM to 10:25 AM | Long Vu | Yes
+WED 12-09 | 10:30 AM to 10:55 AM | Davis Weaver | Yes
 WED 12-09 | 1:00 PM to 1:25 PM | Asma Almijlad | -
 WED 12-09 | 1:30 PM to 1:55 PM | Will Patterson | -
 WED 12-09 | 2:00 PM to 2:25 PM | Razaq Durodoye | -
@@ -21,11 +21,11 @@ See your email for the Zoom invitation and other important information. Confirm 
 
 2020-12-10 | Time | Investigator | Confirmed?
 ---- | --------- | ------------------ | ----------
-THU 12-10 | 9:00 AM to 9:25 AM | Fabliha Anam and Sam Waddell | -
+THU 12-10 | 9:00 AM to 9:25 AM | Fabliha Anam and Sam Waddell | Sam OK, Fabliha ?
 THU 12-10 | 9:30 AM to 9:55 AM | Jennifer Nguyen | -
 THU 12-10 | 10:00 AM to 10:25 AM | Lindsay Petrenchik | -
 THU 12-10 | 10:30 AM to 10:55 AM | Jill Miracle | Yes
-THU 12-10 | 11:00 AM to 11:25 AM | Peng Zhang | -
+THU 12-10 | 11:00 AM to 11:25 AM | Peng Zhang | Yes
 THU 12-10 | 1:30 PM to 1:55 PM | Leila Hojat | Yes
 THU 12-10 | 2:00 PM to 2:25 PM | Callie Ogland-Hand | -
 THU 12-10 | 2:30 PM to 2:55 PM | Deja Rose | -
@@ -40,7 +40,7 @@ See your email for the Zoom invitation and other important information. Confirm 
 
 2020-12-11 | Time | Investigator | Confirmed?
 ---- | --------- | ------------------ | ----------
-FRI 12-11 | 8:30 AM to 8:55 AM | Ping Wang | -
+FRI 12-11 | 8:30 AM to 8:55 AM | Ping Wang | Yes
 FRI 12-11 | 1:00 PM to 1:25 PM | Kaan Yorgancioglu | -
 FRI 12-11 | 1:30 PM to 1:55 PM | Patrick Wu | Yes
 FRI 12-11 | 2:00 PM to 2:25 PM | Ritu Narahari | -
