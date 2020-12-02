@@ -110,7 +110,7 @@ In today's slides, I'll make reference to the following three articles from Andr
 2. [Minute Paper after Class 25](https://bit.ly/431-2020-minute-25) is due Wednesday 2020-12-02 at noon.
     - One of the questions is about your plans for 432. You may want to see [this list of key 432 topics](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/README.md#key-topics-i-hope-to-do-justice-to-in-432) (which we'll discuss Thursday.)
 3. The Scheduling form for Project B oral presentations due Wednesday 2020-12-02 at noon, too.
-    - People I'm waiting to hear from (as of 12:45 PM today) are **Akif Gormez, Marie Michenkova and Zoe Sekyonda**. If you are sure what you're doing, please let me know as soon as you can.
+    - I'm only waiting to hear from **Akif Gormez** now.
     - If you're [currently scheduled to do a recording](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) but want to switch to a Zoom meeting, email Dr. Love right now.
     - The complete schedule of Zoom presentations will be available [at this link](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md) by class time Thursday.
 4. [Project B](https://thomaselove.github.io/431-2020-projectB) and everything is due 2020-12-10 at Noon, other than the Zoom presentations.
