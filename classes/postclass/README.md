@@ -1,7 +1,8 @@
 # Post-Class 431 Web Page
 
 On or around 2020-12-15, I will edit this post-class page to include information on 431 grades, and detailed suggestions for the break.
-    - I’ll email a link to everyone in the 431 class when it’s available, regardless of whether or not they've signed up for 432. 
+
+- I’ll email a link to everyone in the 431 class when this page is fully revised, regardless of whether they've signed up for 432. 
 
 # Information on 431 Close-Out and Grades
 
