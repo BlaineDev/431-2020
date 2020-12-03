@@ -12,6 +12,8 @@ will be forthcoming.
 
 - My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! 
     - David Robinson's [YouTube series of live Tidy Tuesday analysis screencasts](https://www.youtube.com/user/safe4democracy/videos) can be especially helpful in learning new tricks with visualization and data management.
+- I suggest you [convert your CWRU password to a passphrase](https://thedaily.case.edu/cwru-login-now-requires-passphrase/) as soon as you've completed the 431 course.
+- I suggest you upgrade to R 4.0.3 and to the latest version of RStudio as soon as you've completed the 431 course.
 
 ## Resources That May Be Of Interest to You
 
