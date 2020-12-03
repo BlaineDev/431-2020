@@ -40,7 +40,8 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Around 2020-12-15, I will edit [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass) to include detailed suggestions for the break, and additional information on 432. 
     - You’ll also get the last few specific grades (project B/quiz 2, etc.) in 431 at about that time, although you'll get your final course grade only through SIS. 
-    - I’ll email a link to everyone in the 431 class when grades are done and when the updated page is available.    
+    - I’ll email a link to everyone in the 431 class when grades are done and when the updated page is available. 
+    - After December 14, I'll next hold office hours during the week of January 21-25, when I will meet individually with students in the MS program in Health Care Analytics in particular, but will also have open Zoom meetings where I can talk to former 431 students and prospective 432 students about whatever they want to talk about. Details will appear on [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass).
 
 In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I am scheduled to teach both 432 and 500 in Spring 2021. Here's my advice, for what it's worth ...
 
@@ -51,9 +52,9 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
     - I especially think MS and PhD students (in any department) interested in applications of health research in real world situations should take it, as well as people looking for jobs in fields related to health care analytics.
     - Most people would benefit from taking 500 in Spring 2022 rather than Spring 2021 if that option is available to you, since it's usually better to complete 432 before taking 500, for at least three reasons this year.
         1. percolation time
-        2. potential for in-person learning rises
-        3. too much of me at one time is a lot
-    - However, if Spring 2021 is your best opportunity to take 500, for whatever reason, then I will certainly permit you to do so, but I'll want to talk to you about it a little before the class begins so that you (and I) know what you're getting into.
+        2. potential for in-person learning is higher in 2022
+        3. too much of me at one time can be overwhelming
+    - However, if Spring 2021 is your best opportunity to take 500, for whatever reason, then I will certainly permit you to do so, but I'll want to talk to you about it a little before the class begins so that you (and I) know what you're getting into. Send me an email in January if you want to discuss this.
 
 ## Key References from Today's Slides
 
