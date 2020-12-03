@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | zoom information | for downloads
 
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/images/taylor2020.png) from [@seanjtaylor](https://twitter.com/seanjtaylor/status/1333268960704249862)
+
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/images/vacations.png) from [PhD Comics](http://phdcomics.com/comics/archive.php?comicid=2037)
 
 - [Physicians and Statistics](https://jamanetwork.com/journals/jama/fullarticle/2754781) is a 100 year-old reprint (in JAMA) of a plea for better statistics in medicine. The money quote is probably: "It is probably true that the bulk of medical statistics of the past has been prepared by medical men not trained as expert statisticians." [My source was @RielyMD](https://twitter.com/rielymd/status/1196392547096104961?s=11)
