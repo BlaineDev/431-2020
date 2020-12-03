@@ -19,8 +19,6 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 5. [Interactive data tables in R with `reactable`](https://glin.github.io/reactable/index.html), as [highlighted by @Dataandme](https://twitter.com/dataandme/status/1196552930167599106?s=11). Check out the demos!
 6. [Rayshader for building 3-dimensional ggplots!](https://www.tylermw.com/3d-ggplots-with-rayshader/), and Tyler Morgan-Wall (who developed the package) describes and demonstrates these things at [this YouTube link](https://www.youtube.com/watch?v=G6Y3-_GKtcs&feature=youtu.be). 
     - Learn how a single line of code can transform your data visualizations into stunning 3D using the rayshader package. In this talk, I will show how you can use rayshader to create beautiful 3D figures and animations to help promote your research and analyses to the public.
-7. Care to make a beautiful streetmap with ggplot2? [Check out this tutorial](https://ggplot2tutor.com/streetmaps/streetmaps/).
-
 
 ## What Should I Be Working On?
 
