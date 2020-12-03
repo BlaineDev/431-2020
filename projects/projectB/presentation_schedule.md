@@ -11,9 +11,9 @@ WED 12-09 | 10:00 AM to 10:25 AM | Long Vu | Yes
 WED 12-09 | 10:30 AM to 10:55 AM | Davis Weaver | Yes
 WED 12-09 | 1:00 PM to 1:25 PM | Asma Almijlad | Yes
 WED 12-09 | 1:30 PM to 1:55 PM | Will Patterson | Yes
-WED 12-09 | 2:00 PM to 2:25 PM | Razaq Durodoye | -
 WED 12-09 | 2:30 PM to 2:55 PM | Zoe Sekyonda | -
 WED 12-09 | 3:00 PM to 3:25 PM | Katrina Prantzalos | Yes
+WED 12-09 | 3:30 PM to 3:55 PM | Razaq Durodoye | Yes
 
 ## Zoom Presentations with Dr. Love on Thursday 2020-12-10
 
