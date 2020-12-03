@@ -37,9 +37,11 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## The Post-Class Webpage
 
 Around 2020-12-15, I will edit [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass) to include detailed suggestions for the break, and additional information on 432. 
-    - You’ll also get the last few specific grades (project B/quiz 2, etc.) in 431 at about that time, although you'll get your final course grade only through SIS. 
-    - I’ll email a link to everyone in the 431 class when grades are done and when the updated page is available. 
-    - After December 14, I'll next hold office hours during the week of January 21-25, when I will meet individually with students in the MS program in Health Care Analytics in particular, but will also have open Zoom meetings where I can talk to former 431 students and prospective 432 students about whatever they want to talk about. Details will appear on [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass).
+- You’ll also get the last few specific grades (project B/quiz 2, etc.) in 431 at about that time, although you'll get your final course grade only through SIS. 
+- I’ll email a link to everyone in the 431 class when grades are done and when the updated page is available. 
+- After December 14, I'll next hold office hours during the week of January 21-25.
+    - That week, I will meet with students in the MS program in Health Care Analytics but will also have open Zoom meetings to chat with former 431 students and prospective 432 students about whatever they want to talk about. 
+    - Details on those office hours will appear on [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass).
 
 ## Taking Other Courses (like 432) With Me
 
