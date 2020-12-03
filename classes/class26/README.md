@@ -66,12 +66,17 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 
 ## A Few Last Things
 
-A [2019 paper in BMJ Open by Adrian Barnett and Jonathan Wren](https://bmjopen.bmj.com/content/9/11/e032506.full) examines nearly 1 million confidence intervals in health and medical journals over the period of 1976-2019 and found a huge number (perhaps an unbelievable number) that were just below the magic 0.05 "statistically significant" threshold. See [Adrian's tweet, too](https://twitter.com/aidybarnett/status/1197633930943315968).
+1. A [2019 paper in BMJ Open by Adrian Barnett and Jonathan Wren](https://bmjopen.bmj.com/content/9/11/e032506.full) examines nearly 1 million confidence intervals in health and medical journals over the period of 1976-2019 and found a huge number (perhaps an unbelievable number) that were just below the magic 0.05 "statistically significant" threshold. See [Adrian's tweet, too](https://twitter.com/aidybarnett/status/1197633930943315968).
 
 - This isn't news. Check out [Masicampo and Lalande from 2012](https://pubmed.ncbi.nlm.nih.gov/22853650/)
 - [Physicians and Statistics](https://jamanetwork.com/journals/jama/fullarticle/2754781) is a 100 year-old reprint (in JAMA) of a plea for better statistics in medicine. The money quote is probably: "It is probably true that the bulk of medical statistics of the past has been prepared by medical men not trained as expert statisticians." [My source was @RielyMD](https://twitter.com/rielymd/status/1196392547096104961?s=11)
 
-Yes, there's an advent calendar for learning R. Kiirsti Own, a conservation biologist created [the 25 days of chRistmas](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar).
+2. Yes, of course there's an **advent calendar for learning R**. 
+
+- Kiirsti Owen, a conservation biologist created [the 25 days of chRistmas](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar).
+- Jason Winget created a [YouTube playlist](https://www.youtube.com/watch?v=ms7u9jvkjNI&list=PLXjgHAp5I5UhV7nw1eY61_Uil68KhmBKe) for each of the 25 days.
+
+3. I'll close with a couple of cartoons hearkening back to the old days.
 
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/images/vacations.png) from [PhD Comics](http://phdcomics.com/comics/archive.php?comicid=2037)
 
