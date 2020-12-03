@@ -14,7 +14,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 1. [Feedback on the Minute Paper after Class 25](https://bit.ly/431-2020-min25-feedback) is available now.
 2. TA Office Hours continue through Monday 2020-12-07.
-3. In light of the first two questions in Lab 7, Karl Broman presents [The Top Ten Worst Graphs in the Scientific Literature](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/) as published in 1994-2012.
+3. In light of Lab 7, Karl Broman presents [The Top Ten Worst Graphs in the Scientific Literature](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/) as published in 1994-2012.
 4. Alison Hill on [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/) has some useful tips.
 5. [Interactive data tables in R with `reactable`](https://glin.github.io/reactable/index.html), as [highlighted by @Dataandme](https://twitter.com/dataandme/status/1196552930167599106?s=11). Check out the demos!
 6. [Rayshader for building 3-dimensional ggplots!](https://www.tylermw.com/3d-ggplots-with-rayshader/), and Tyler Morgan-Wall (who developed the package) describes and demonstrates these things at [this YouTube link](https://www.youtube.com/watch?v=G6Y3-_GKtcs&feature=youtu.be).
