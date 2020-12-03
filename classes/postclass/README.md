@@ -8,14 +8,14 @@ On or around 2020-12-15, I will edit this post-class page to include information
 - My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! 
     - David Robinson's [YouTube series of live Tidy Tuesday analysis screencasts](https://www.youtube.com/user/safe4democracy/videos) can be especially helpful in learning new tricks with visualization and data management.
 
-## Meeting with Professor Love
-
-I'll next hold office hours during the week of January 21-25, when I will meet individually with students in the MS program in Health Care Analytics in particular, but will also have open Zoom meetings where I can talk to former 431 students and prospective 432 students about whatever they want to talk about. Details to come.
-
-## Books I Encourage You To Browse
+## Resources That May Be Of Interest to You
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
+
+## Meeting with Professor Love
+
+After December 14, Dr. Love will be pretty quiet through mid-January. I'll next hold office hours during the week of January 21-25, when I will meet individually with students in the MS program in Health Care Analytics in particular, but will also have open Zoom meetings where I can talk to former 431 students and prospective 432 students about whatever they want to talk about. Details to come.
 
 # About 432
 
