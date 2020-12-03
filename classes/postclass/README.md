@@ -1,7 +1,7 @@
 # Post-Class 431 Web Page
 
-On or around 2020-12-15, I will edit [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass) to include detailed suggestions for the break. You’ll also get your grade in 431 at about that time.
-    - I’ll email a link to everyone in the 431 class when it’s available with my thoughts on 432, on building a website and other tools to be a modern scientist, and on some related issues, regardless of whether or not they've signed up for 432. 
+On or around 2020-12-15, I will edit this post-class page to include information on 431 grades, and detailed suggestions for the break.
+    - I’ll email a link to everyone in the 431 class when it’s available, regardless of whether or not they've signed up for 432. 
 
 # Things to Do Over the Break
 
