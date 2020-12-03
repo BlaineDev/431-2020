@@ -16,9 +16,9 @@ will be forthcoming.
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
-- [Brendan Cullen](https://twitter.com/_bcullen/status/1333878752741191680) started a great thread on Twitter that I'm following.
+- [Brendan Cullen](https://twitter.com/_bcullen/status/1333878752741191680) started a great thread (see below) on Twitter [that I'm following](https://twitter.com/_bcullen/status/1333878752741191680).
 
-
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/Cullen_2020.png)
 
 ## Meeting with Professor Love
 
