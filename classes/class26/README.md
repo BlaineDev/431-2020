@@ -56,12 +56,12 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
         3. too much of me at one time can be overwhelming
     - However, if Spring 2021 is your best opportunity to take 500, for whatever reason, then I will certainly permit you to do so, but I'll want to talk to you about it a little before the class begins so that you (and I) know what you're getting into. Send me an email in January if you want to discuss this.
 
-## Key References from Today's Slides
+## References from Today's Slides
 
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv
 - [Get Started with Tidymodels](https://www.tidymodels.org/start/)
 - [TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/) by [Julia Silge](https://juliasilge.com/)
-- I have a surprise visualization example today, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs). 
+- I have a surprise visualization example today, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Tomas Westlake](https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs). 
 
 ## A Few Last Things
 
