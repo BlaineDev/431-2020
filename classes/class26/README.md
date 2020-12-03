@@ -24,7 +24,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 1. [Project B](https://thomaselove.github.io/431-2020-projectB/) 
     - Presentations [are now scheduled](https://github.com/THOMASELOVE/431-2020/blob/master/projects/projectB/presentation_schedule.md). 
         - **Zoe Sekyonda, Lindsay Petrenchik and Deja Rose**, please respond to my email to confirm!
-    - The Canvas link to submit Project B materials went live today. Everything must be in at that link by noon on 2020-12-10.
+    - The Canvas link to submit Project B materials went live today. [Everything going to Canvas](https://thomaselove.github.io/431-2020-projectB/tasks.html) must be in by noon on 2020-12-10.
     - Don't forget the [Project B Self-Evaluation Form](https://bit.ly/431-projectB-self-evaluation) also due at noon on 2020-12-10.
 2. [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/quizzes/quiz2)
     - Instructions **to come** before noon Friday 2020-12-04. The Quiz is due 2020-12-14 at Noon. You'll get an email when the Quiz is ready for you.
