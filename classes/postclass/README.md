@@ -3,6 +3,13 @@
 On or around 2020-12-15, I will edit [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass) to include detailed suggestions for the break. You’ll also get your grade in 431 at about that time.
     - I’ll email a link to everyone in the 431 class when it’s available with my thoughts on 432, on building a website and other tools to be a modern scientist, and on some related issues, regardless of whether or not they've signed up for 432. 
 
+# Things to Do Over the Break
+
+## Books I Encourage You To Browse
+
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
+
 # About 432
 
 1. Don’t panic. Nothing is mandatory before 2021-02-01 for 432, other than obtaining a book or two and registering for the course (no, you cannot audit.)
@@ -46,7 +53,7 @@ These are my notes (mostly to myself) about important ideas for 432 this Spring.
 
 1. Logistic regression and other types of regression for other outcomes
 2. Dealing with interaction and other forms of non-linearity by spending degrees of freedom on non-linear terms
-3. Using `tidymodels` approaches to build models in a more automated, tidier way
+3. Using [tidymodels](https://www.tidymodels.org/) approaches to build models in a more automated, tidier way
 4. Variable selection and its woeful performance in real situations
 5. Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect)
 6. More extensive discussion of power and sample size (definitely retrospective design, and maybe also non-inferiority trials?)
