@@ -21,7 +21,7 @@ See your email for the Zoom invitation and other important information. Confirm 
 
 2020-12-10 | Time | Investigator | Confirmed?
 ---- | --------- | ------------------ | ----------
-THU 12-10 | 9:00 AM to 9:25 AM | Fabliha Anam and Sam Waddell | Sam Yes, Fabliha ?
+THU 12-10 | 9:00 AM to 9:25 AM | Fabliha Anam and Sam Waddell | Yes
 THU 12-10 | 9:30 AM to 9:55 AM | Jennifer Nguyen | -
 THU 12-10 | 10:00 AM to 10:25 AM | Lindsay Petrenchik | -
 THU 12-10 | 10:30 AM to 10:55 AM | Jill Miracle | Yes
