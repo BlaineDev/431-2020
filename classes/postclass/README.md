@@ -5,6 +5,9 @@ On or around 2020-12-15, I will edit [the post-class webpage](https://github.com
 
 # Things to Do Over the Break
 
+- My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! 
+    - David Robinson's [YouTube series of live Tidy Tuesday analysis screencasts](https://www.youtube.com/user/safe4democracy/videos) can be especially helpful in learning new tricks with visualization and data management.
+
 ## Books I Encourage You To Browse
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
@@ -14,8 +17,10 @@ On or around 2020-12-15, I will edit [the post-class webpage](https://github.com
 
 1. Don’t panic. Nothing is mandatory before 2021-02-01 for 432, other than obtaining a book or two and registering for the course (no, you cannot audit.)
 2. My best advice about preparing for 432 is to get some rest. Take care of yourself, and those around you. **Make good choices**.
-3. My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! David Robinson's [YouTube series of live Tidy Tuesday analysis screencasts](https://www.youtube.com/user/safe4democracy/videos) can be especially helpful in learning new tricks with visualization and data management.
-4. The books for the Spring 2021 course are not yet settled. We'll almost certainly read Nate Silver's *The Signal and the Noise* and we might also read Jeff Leek's *How to be a Modern Scientist* but I reserve the right to change my mind on those selections.
+3. The books for the Spring 2021 course are not yet settled. 
+    - We'll almost certainly read Nate Silver's [*The Signal and the Noise*](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
+    - We also might read Jeff Leek's [*How to be a Modern Scientist*](https://leanpub.com/modernscientist)
+    - I reserve the right to change my mind on those selections at any time before 2020-01-15.
 
 ## Topics I Discussed in 432 in Spring 2020
 
