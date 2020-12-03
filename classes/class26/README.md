@@ -30,7 +30,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - The Canvas link to submit Project B materials went live today. Everything must be in at that link by noon on 2020-12-10.
     - Don't forget the [Project B Self-Evaluation Form](https://bit.ly/431-projectB-self-evaluation) also due at noon on 2020-12-10.
 2. [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/quizzes/quiz2)
-    - Instructions **to come** before noon Friday 2020-12-04. The Quiz is due 2020-12-14 at Noon.
+    - Instructions **to come** before noon Friday 2020-12-04. The Quiz is due 2020-12-14 at Noon. You'll get an email when the Quiz is ready for you.
     - Questions about Quiz 2 should be asked on Piazza through private messages to the instructor(s).
 3. Fill out the [CWRU Course Evaluation](https://webapps.case.edu/courseevals/) which is available through 2020-12-16. 
     - It's very important to me to have as many of you as possible do this, so I'll be asking about it, possibly on Quiz 2.
