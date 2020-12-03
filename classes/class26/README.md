@@ -10,6 +10,10 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 - Class 26 slides will be made available in [PDF format](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/431_class-26-slides_2020.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/431_class-26-slides_2020.Rmd).
 
+## Key References from Today's Slides
+
+- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv
+
 ## Announcements
 
 1. [Feedback on the Minute Paper after Class 25](https://bit.ly/431-2020-min25-feedback) is available now.
