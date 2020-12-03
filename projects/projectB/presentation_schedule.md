@@ -23,7 +23,7 @@ See your email for the Zoom invitation and other important information. Confirm 
 ---- | --------- | ------------------ | ----------
 THU 12-10 | 9:00 AM to 9:25 AM | Fabliha Anam and Sam Waddell | Yes
 THU 12-10 | 9:30 AM to 9:55 AM | Jennifer Nguyen | Yes
-THU 12-10 | 10:00 AM to 10:25 AM | Lindsay Petrenchik | -
+THU 12-10 | 10:00 AM to 10:25 AM | Lindsay Petrenchik | Yes
 THU 12-10 | 10:30 AM to 10:55 AM | Jill Miracle | Yes
 THU 12-10 | 11:00 AM to 11:25 AM | Peng Zhang | Yes
 THU 12-10 | 1:30 PM to 1:55 PM | Leila Hojat | Yes
