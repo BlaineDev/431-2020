@@ -3,6 +3,10 @@
 On or around 2020-12-15, I will edit this post-class page to include information on 431 grades, and detailed suggestions for the break.
     - I’ll email a link to everyone in the 431 class when it’s available, regardless of whether or not they've signed up for 432. 
 
+# Information on 431 Close-Out and Grades
+
+will be forthcoming.
+
 # Things to Do Over the Break
 
 - My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! 
@@ -12,6 +16,9 @@ On or around 2020-12-15, I will edit this post-class page to include information
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
+- [Brendan Cullen](https://twitter.com/_bcullen/status/1333878752741191680) started a great thread on Twitter that I'm following.
+
+
 
 ## Meeting with Professor Love
 
