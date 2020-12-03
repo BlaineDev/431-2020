@@ -27,19 +27,21 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
     - The Canvas link to submit Project B materials went live today. [Everything going to Canvas](https://thomaselove.github.io/431-2020-projectB/tasks.html) must be in by noon on 2020-12-10.
     - Don't forget the [Project B Self-Evaluation Form](https://bit.ly/431-projectB-self-evaluation) also due at noon on 2020-12-10.
 2. [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/quizzes/quiz2)
-    - Instructions **to come** before noon Friday 2020-12-04. The Quiz is due 2020-12-14 at Noon. You'll get an email when the Quiz is ready for you.
+    - You'll get an email when the Quiz is ready, before noon tomorrow. The Quiz is due 2020-12-14 at Noon. 
     - Questions about Quiz 2 should be asked on Piazza through private messages to the instructor(s).
 3. Fill out the [CWRU Course Evaluation](https://webapps.case.edu/courseevals/) which is available through 2020-12-16. 
-    - It's very important to me to have as many of you as possible do this, so I'll be asking about it, possibly on Quiz 2.
+    - It's very important to me to have as many of you as possible do this, so I'll be **asking about it on Quiz 2**.
 4. Need a [regrade on a Lab](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md#grading-errors-and-regrade-requests)? Fill in the form at http://bit.ly/431-2020-lab-regrade-requests by noon 2020-12-10.
     - Grades on Lab 8 should be available by Tuesday 2020-12-08.
 
-## Taking Other Courses (like 432) With Me
+## The Post-Class Webpage
 
 Around 2020-12-15, I will edit [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass) to include detailed suggestions for the break, and additional information on 432. 
     - You’ll also get the last few specific grades (project B/quiz 2, etc.) in 431 at about that time, although you'll get your final course grade only through SIS. 
     - I’ll email a link to everyone in the 431 class when grades are done and when the updated page is available. 
     - After December 14, I'll next hold office hours during the week of January 21-25, when I will meet individually with students in the MS program in Health Care Analytics in particular, but will also have open Zoom meetings where I can talk to former 431 students and prospective 432 students about whatever they want to talk about. Details will appear on [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass).
+
+## Taking Other Courses (like 432) With Me
 
 In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I am scheduled to teach both 432 and 500 in Spring 2021. Here's my advice, for what it's worth ...
 
