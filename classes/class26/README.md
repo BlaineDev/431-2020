@@ -10,10 +10,6 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 - Class 26 slides will be made available in [PDF format](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/431_class-26-slides_2020.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26/431_class-26-slides_2020.Rmd).
 
-## Key References from Today's Slides
-
-- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv
-
 ## Announcements
 
 1. [Feedback on the Minute Paper after Class 25](https://bit.ly/431-2020-min25-feedback) is available now.
@@ -55,6 +51,14 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
     - It's very important to me to have as many of you as possible do this, so I'll be asking about it, possibly on Quiz 2.
 4. Need a [regrade on a Lab](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md#grading-errors-and-regrade-requests)? Fill in the form at http://bit.ly/431-2020-lab-regrade-requests by noon 2020-12-10.
     - Grades on Lab 8 should be available by Tuesday 2020-12-08.
+
+## Key References from Today's Slides
+
+- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv
+- [Get Started with Tidymodels](https://www.tidymodels.org/start/)
+- [TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/) by [Julia Silge](https://juliasilge.com/)
+- Julia has a nice post about some issues related to [today's (surprise) visualization example]
+- I have a surprise visualization example today, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs). 
 
 ## A Few Last Things
 
