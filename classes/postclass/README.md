@@ -73,7 +73,7 @@ These are my notes (mostly to myself) about important ideas for 432 this Spring.
 3. Using [tidymodels](https://www.tidymodels.org/) approaches to build models in a more automated, tidier way
 4. Variable selection and its woeful performance in real situations
 5. Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect)
-6. More extensive discussion of power and sample size (definitely retrospective design, and maybe also non-inferiority trials?)
+6. More extensive discussion of power and sample size (definitely retrospective design, and maybe also something about adaptive designs, or about non-inferiority trials?)
 7. More on Bayesian modeling approaches, plus we'll read Nate Silver's *The Signal and The Noise*
 8. Using sampling weights to mirror populations in modeling results (NHANES being a prime example)
 9. Dealing with hierarchical data, with an introduction to repeated measures
