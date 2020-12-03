@@ -64,9 +64,10 @@ These are the calendar descriptions of 432 classes in Spring 2020. 2021 will be 
 ## Key Topics I Hope to Do Justice To in 432 in Spring 2021
 
 These are my notes (mostly to myself) about important ideas for 432 this Spring. 
-    - Areas 1, 2, 4, 5, 8, 10, 13 and 14 on this list were substantial parts of the 2020 course. The others were not. 
-    - It is definitely part of the plan to add 3, 7 and 8. I don't know yet about anything else.
-    - I'll be happy if we do a reasonable job on more than half of these 15 areas. 
+
+- Areas 1, 2, 4, 5, 8, 10, 13 and 14 on this list were substantial parts of the 2020 course. The others were not. 
+- It is definitely part of the plan to add 3, 7 and 8. I don't know yet about anything else.
+- I'll be happy if we do a reasonable job on more than half of these 15 areas. 
 
 1. Logistic regression and other types of regression for other outcomes
 2. Dealing with interaction and other forms of non-linearity by spending degrees of freedom on non-linear terms
