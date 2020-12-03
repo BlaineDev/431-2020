@@ -17,7 +17,6 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 1. [Feedback on the Minute Paper after Class 25](https://bit.ly/431-2020-min25-feedback) is available now.
 2. Around 2020-12-15, I will edit [the post-class webpage](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass) to include detailed suggestions for the break. You’ll also get the last few specific grades (project B/quiz 2, etc.) in 431 at about that time, although you'll get your final course grade only through SIS. 
     - I’ll email a link to everyone in the 431 class when grades are done and when the updated page is available.    
-    - There's some material there now already, especially on [current plans for 432](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/README.md#about-432).
 3. TA Office Hours continue through Monday 2020-12-07.
 
 ## Taking Other Courses With Me
@@ -27,6 +26,7 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 - **432** is the continuation of this course (widely regarded as the "better" half.) I think **everyone** in this class should be planning to take 432 this Spring (i.e. Spring 2021), **unless** ...
     - you are not benefitting from this course and don't need to take 432 to finish your program at CWRU, **or**
     - you have an unshakable conflict in Spring 2021 (especially if you plan to instead take 432 in Spring 2022.)
+    - More notes on the plans for 432 in Spring 2021 are [provided here](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/README.md#about-432).
 - **500** is a project-based and more advanced course covering specific topics in the design and analysis of observational studies. 
     - I think everyone in this class who is interested in taking 500 should do so. The course is mostly about using propensity scores well to help design (and analyze) data from observational studies where we want to estimate a causal effect.
     - I especially think MS and PhD students (in any department) interested in applications of health research in real world situations should take it, as well as people looking for jobs in fields related to health care analytics.
