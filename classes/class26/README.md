@@ -20,6 +20,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 6. [Rayshader for building 3-dimensional ggplots!](https://www.tylermw.com/3d-ggplots-with-rayshader/), and Tyler Morgan-Wall (who developed the package) describes and demonstrates these things at [this YouTube link](https://www.youtube.com/watch?v=G6Y3-_GKtcs&feature=youtu.be). 
     - Learn how a single line of code can transform your data visualizations into stunning 3D using the rayshader package. In this talk, I will show how you can use rayshader to create beautiful 3D figures and animations to help promote your research and analyses to the public.
 7. Care to make a beautiful streetmap with ggplot2? [Check out this tutorial](https://ggplot2tutor.com/streetmaps/streetmaps/).
+8. I suggest you [convert your CWRU password to a passphrase](https://thedaily.case.edu/cwru-login-now-requires-passphrase/) as soon as you've completed the course. 
 
 ## What Should I Be Working On?
 
