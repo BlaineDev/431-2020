@@ -7,10 +7,21 @@ Friday 2020-12-04 by 3 PM | Monday 2020-12-14 at Noon
 ## Materials
 
 - The [Instructions and Questions (pdf)](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2.pdf) is now available. Be sure that you have all **19** pages of this document.
-- The [Answer Submission Form](https://bit.ly/431-2020-quiz2-answer-sheet) is where all responses should be submitted by Noon on 2020-12-14. The link is https://bit.ly/431-2020-quiz2-answer-sheet.
-- I have provided one data set (called `survA.csv`) and two R scripts (our usual `Love-boost.R` and also `wc_code.R`) for this Quiz. They may be helpful to you. You will find them in our Shared Google Drive in the data subfolder within the Quiz 2 folder.
+- The [Answer Submission Form](https://bit.ly/431-2020-quiz2-answer-sheet) is where all responses should be submitted by **Noon on 2020-12-14**. The link is https://bit.ly/431-2020-quiz2-answer-sheet.
+- I have provided one data set (called `survA.csv`) and two R scripts (our usual `Love-boost.R` and also `wc_code.R`) for this Quiz. They may be helpful to you. You will find them in our **Shared Google Drive** in the **data** subfolder within the **Quiz 2** folder.
 
-# Instructions (repeated from the Instructions and Questions pdf)
+## Questions?
+
+If you need clarification on a Quiz question, you have exactly two ways of getting help:
+
+1. You can ask your question in a private post on Piazza to the instructors. 
+2. You can ask your question via email to **431-help at case dot edu**.
+
+## Good luck!
+
+------------
+
+# Detailed Instructions (repeated from [the pdf](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2.pdf))
 
 ## The Google Form Answer Sheet 
 
@@ -102,4 +113,3 @@ survA <- read_csv("data/survA.csv")
 
 I've also provided my session information at [the end of the PDF](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2.pdf) in case that helps you.
 
-## Good luck!
