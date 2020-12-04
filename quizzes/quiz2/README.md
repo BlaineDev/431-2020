@@ -2,7 +2,7 @@
 
 Available | Deadline
 --------- | ------------
-Friday 2020-12-04 by 3 PM | Monday 2020-12-14 at Noon
+Now, see below. | Monday 2020-12-14 at Noon
 
 ## Materials
 
