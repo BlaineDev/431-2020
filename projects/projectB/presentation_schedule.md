@@ -28,7 +28,7 @@ THU 12-10 | 10:30 AM to 10:55 AM | Jill Miracle | Yes
 THU 12-10 | 11:00 AM to 11:25 AM | Peng Zhang | Yes
 THU 12-10 | 1:30 PM to 1:55 PM | Leila Hojat | Yes
 THU 12-10 | 2:00 PM to 2:25 PM | Callie Ogland-Hand | Yes
-THU 12-10 | 2:30 PM to 2:55 PM | Deja Rose | -
+THU 12-10 | 2:25 PM to 2:55 PM | *BREAK* | -
 THU 12-10 | 3:00 PM to 3:25 PM | Aya Jishi | Yes
 THU 12-10 | 3:30 PM to 3:55 PM | Emily Zetzer | Yes
 THU 12-10 | 4:00 PM to 4:25 PM | Rod Nault | Yes
@@ -70,17 +70,18 @@ FRI 12-11 | 2:30 PM to 2:55 PM | Emily Conlan | Yes
 20. Grace Nalukwago and Kiara White
 21. Aman Pande
 22. Joe Powell
-23. Lindsay Ross
-24. Maggie Rybak and Mia Wang
-25. Sarah Simmons
-26. Enrique Soltero Mariscal
-27. Surbhi Sona
-28. Monika Strah
-29. Dipak Upadhyaya
-30. T'yasah Walser and Nysia Wise
-31. Kristi Westphaln
-32. Wail Yar
-33. Luke Zhang and Michael Zhang
-34. Chenya Zhao
-35. Lin Zhu
+23. Deja Rose
+24. Lindsay Ross
+25. Maggie Rybak and Mia Wang
+26. Sarah Simmons
+27. Enrique Soltero Mariscal
+28. Surbhi Sona
+29. Monika Strah
+30. Dipak Upadhyaya
+31. T'yasah Walser and Nysia Wise
+32. Kristi Westphaln
+33. Wail Yar
+34. Luke Zhang and Michael Zhang
+35. Chenya Zhao
+36. Lin Zhu
 
