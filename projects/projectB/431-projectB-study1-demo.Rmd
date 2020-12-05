@@ -742,7 +742,7 @@ sur15_B %$%
 
 - The population mean BMI in those who said Yes is estimated to be about 0.62 points higher than the population mean BMI for those who said No, based on our samples. So the mean differences' point estimate is 0.62
 - Our 90% confidence interval for the difference (Yes - No) of the population means is (-1.12, 2.34).
-- Here, I've assumed a two-sided confidence interval procedure. We conclude from the confidence interval (which does not contain zero) that there is a statistically detectable difference (at the 10% significance level, since we have a 90% confidence interval) between the true means of the English and non-English `bmi` levels.
+- Here, I've assumed a two-sided confidence interval procedure. We conclude from the confidence interval (which contains zero) that there is no statistically detectable difference (at the 10% significance level, since we have a 90% confidence interval) between the true means of the English and non-English `bmi` levels.
 - The assumptions of this bootstrap procedure are:
     + that the samples in each group are drawn independently of each other, 
     + *and* that the samples in each group represent a random sample of the population of interest. 
