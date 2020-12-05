@@ -722,7 +722,7 @@ sur15_B %$% wilcox.test(bmi ~ english,
 
 - The estimated location shift in population `bmi` across the two language groups is 0.13.
 - Our 90% confidence interval for the location shift (English - non-English) of the populations is (-1.4, 1.9).
-- Here, I've assumed a two-sided confidence interval procedure. We conclude from the confidence interval (which does not contain zero) that there is a statistically detectable difference between the true locations of the English and non-English `bmi` levels.
+- Here, I've assumed a two-sided confidence interval procedure. We conclude from the confidence interval (which contains zero) that there is no statistically detectable difference between the true locations of the English and non-English `bmi` levels at the 10% significance level.
 - The assumptions of the rank sum test are 
     + that the samples in each group are drawn independently of each other, 
     + *and* that the samples in each group represent a random sample of the population of interest, 
