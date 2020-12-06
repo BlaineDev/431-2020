@@ -87,7 +87,7 @@ dim(sur15_raw_c)
 
 ## Two Merging Steps
 
-1. Join the columns in `sur15_raw_b` and in `sur15_raw_c` to obtain a new tibble, which I'll call `sur15_lastable_E23`, holding information on all 21 variables for the last 33 subjects.
+1. Join the columns in `sur15_raw_b` and in `sur15_raw_c` to obtain a new tibble, which I'll call `sur15_last33`, holding information on all 21 variables for the last 33 subjects.
 
 ```{r merge_step1}
 sur15_last33 <- inner_join(sur15_raw_b, sur15_raw_c, by = "s_id")
@@ -1086,7 +1086,7 @@ The `assocplot` function in R produces a plot that indicates deviations from the
 assocplot(table_E1)
 ```
 
-We can see that the independence model really doesn't work well for the cells with larger shapes here, which we note especially in the Fantasy/SF column, and to some extent in the Comedy column.
+We can see that the independence model really doesn't work well for the cells with larger shapes here, which we note especially in the Fantasy/SF category, and to some extent in the Comedy category.
 
 **Hint**: Finding a better scheme for visualizing a contingency table's relationship to independence (or simply the table itself), especially if it's using the `gt` package, would be a good idea to explore further in Analyses E and maybe F, too, especially if you're looking to learn to build savvy tables. But this is not necessary, certainly.
 
