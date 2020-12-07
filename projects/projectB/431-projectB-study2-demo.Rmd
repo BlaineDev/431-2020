@@ -61,6 +61,8 @@ In my little demonstration here, I don't have to do any merging.
 
 # Cleaning the Data
 
+**Note**: Please pay careful attention to the revised instructions for Section 3 (Cleaning the Data) posted in the [Study 2 Report Specifications](https://thomaselove.github.io/431-2020-projectB/your6.html). This demonstration project was built prior to the creation of those instructions, and so does not follow them precisely. 
+
 ## The Raw Data
 
 The `hbp_study` data set includes 12 variables and 999 adult subjects. For each subject, we have gathered
@@ -267,6 +269,8 @@ A natural research question here would be something like:
 Please don't feel obliged to follow this format precisely in stating your question.
 
 # My Final Variables
+
+**Note**: Please pay careful attention to the revised instructions for Section 5 (My Final Variables) posted in the [Study 2 Report Specifications](https://thomaselove.github.io/431-2020-projectB/your6.html). This demonstration project was built prior to the creation of those instructions, and so does not follow them precisely. 
 
 ## The Codebook
 
@@ -501,7 +505,7 @@ summary(model_big)
 
 ## Effect Sizes: Coefficient Estimates
 
-Specify the size, magnitude and meaning of all coefficients, and identify appropriate conclusions regarding effect sizes with 90% confidence intervals.
+Specify the size and magnitude of all coefficients, providing estimated effect sizes with 90% confidence intervals.
 
 ```{r}
 tidy(model_big, conf.int = TRUE, conf.level = 0.90) %>% 
@@ -554,7 +558,7 @@ summary(model_small)
 
 ## Effect Sizes: Coefficient Estimates
 
-Here, we need to specify the size, magnitude and meaning of all coefficients, and identify appropriate conclusions regarding effect sizes with 90% confidence intervals.
+Here, we specify the size and magnitude of all coefficients, providing estimated effect sizes with 90% confidence intervals.
 
 ```{r}
 tidy(model_small, conf.int = TRUE, conf.level = 0.90) %>% 
