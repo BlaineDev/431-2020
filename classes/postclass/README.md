@@ -10,9 +10,8 @@ Your grade in this course is determined by Dr. Love once all elements are in, us
 
 - Your **class participation grade** is determined in large part by your completion of Minute Papers. Your Minute Paper grade is available [in the grades roster](http://bit.ly/431-2020-grades). 
     - Your class participation grade cannot be lower than your Minute Paper grade. Dr. Love won't make final decisions about class participation adjustments until all other grades are complete.
-    - Dr. Love can add up to 15 points for completed bonus activities, helpful Piazza comments/answers/questions, helpful in-class participation and TA feedback. 
-        - Most students will gain between 0 and 5 points beyond their Minute Paper score. 
-        - A way to get an easy point is to finish the class evaluation at https://webapps.case.edu/courseevals/ so that you can truthfully answer `a` to question 31 on Quiz 2.
+    - Dr. Love can add up to 15 points for completed bonus activities, helpful Piazza comments/answers/questions, helpful in-class participation and TA feedback. Most students will gain between 0 and 5 points. 
+        - Worried? Finish the class evaluation at https://webapps.case.edu/courseevals/ so that you can truthfully answer `a` to question 31 on Quiz 2.
 - Your **labs grade** is available now [in the grades roster](http://bit.ly/431-2020-grades). This includes your grade (and TA feedback) on Lab 8.
     - If you want Dr. Love to review your grade on a Lab, you must submit the [form to request a regrade](http://bit.ly/431-2020-lab-regrade-requests) by Thursday 2020-12-10 at noon.
 - Your **projects grade**. You should know your grade on Project A already. Grades on Project B will be available once Dr. Love has graded Project B.
