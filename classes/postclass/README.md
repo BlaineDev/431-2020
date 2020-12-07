@@ -6,7 +6,19 @@ On or around 2020-12-15, I will edit this post-class page to include information
 
 # Information on 431 Close-Out and Grades
 
-will be forthcoming.
+Your grade in this course is determined by Dr. Love once all elements are in, using the process described [in Section 13 of the Syllabus](https://thomaselove.github.io/431-2020-syllabus/determining-course-grades.html). 
+
+- Your **class participation grade** is determined in large part by your completion of Minute Papers. Your Minute Paper grade is available [in the grades roster](http://bit.ly/431-2020-grades). 
+    - Note that your class participation grade cannot be lower than your Minute Paper grade, and for most people, they are nearly the same. 
+    - Dr. Love can add up to 15 points for completed bonus activities, helpful Piazza comments/answers/questions, helpful in-class participation and TA feedback. 
+    - Most students will gain between 0 and 5 points beyond their Minute Paper score. A way to get an easy point is to finish the class evaluation at https://webapps.case.edu/courseevals/ so that you can truthfully answer a to question 31 on Quiz 2.
+    - Dr. Love won't make final decisions about class participation adjustments until all other grades are complete.
+- Your **labs grade** is available now [in the grades roster](http://bit.ly/431-2020-grades). This includes your grade (and TA feedback) on Lab 8.
+    - If you want Dr. Love to review your grade on a Lab, you must submit the [form to request a regrade](http://bit.ly/431-2020-lab-regrade-requests) by Thursday 2020-12-10 at noon.
+- Your **projects grade**. You should know your grade on Project A already. Grades on Project B will be available once Dr. Love has graded Project B.
+- Your **quiz grade**. You should know your grade on Quiz 1 already. Grades on Quiz 2 will be available once Dr. Love has graded Quiz 2.
+
+Additional information will be forthcoming.
 
 # Things to Do Over the Break
 
