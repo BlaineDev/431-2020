@@ -19,19 +19,32 @@ Your grade in this course is determined by Dr. Love once all elements are in, us
 
 Additional information will be forthcoming.
 
-# Things to Do Over the Break
+# Getting Ready for 432 Over the Break
+
+1. Don’t panic. Nothing is mandatory before 2021-02-01 for 432, other than obtaining a book or two and registering for the course (no, you cannot audit.)
+2. My best advice about preparing for 432 is to get some rest. Take care of yourself, and those around you. **Make good choices**.
+3. I suggest you [convert your CWRU password to a passphrase](https://thedaily.case.edu/cwru-login-now-requires-passphrase/) once you've completed the 431 course.
+4. I suggest you [upgrade to R 4.0.3](https://cran.case.edu/) and to the [latest version of RStudio](https://rstudio.com/products/rstudio/download/#download) once you've completed the 431 course.
+5. Purchase (and read, if you like) the books we'll read as part of the Spring 2021 version of 432, which will include: 
+    - Nate Silver's [*The Signal and the Noise*](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
+    - Jeff Leek's [*How to be a Modern Scientist*](https://leanpub.com/modernscientist)
+6. Get yourself a [Github user name](https://github.com/) and learn more about Git and Github through [Happy Git with R](https://happygitwithr.com/)
+7. Build a personal website using R Markdown, if you're interested.
+    - Building a personal website will be an optional lab assignment in 432.
+    - Our 431 TA Wyatt Bensken has a wonderful blog post [How did you build this site?](https://wyattbensken.com/post/building-website/) explaining how he built [his site](https://wyattbensken.com/). Wyatt also produced a [YouTube video](https://www.youtube.com/watch?v=ZBxCk7P9wqE&feature=youtu.be) describing his motivation for doing the work.
+    - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) is another great source developed by Yihui Xie, Amber Thomas and Alison Presmanes Hill.
+
+## Ways To Learn More (over the break)
 
 - My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! 
     - David Robinson's [YouTube series of live Tidy Tuesday analysis screencasts](https://www.youtube.com/user/safe4democracy/videos) can be especially helpful in learning new tricks with visualization and data management.
-- I suggest you [convert your CWRU password to a passphrase](https://thedaily.case.edu/cwru-login-now-requires-passphrase/) as soon as you've completed the 431 course.
-- I suggest you upgrade to R 4.0.3 and to the latest version of RStudio as soon as you've completed the 431 course.
-
-## Resources That May Be Of Interest to You
-
+- One way to review key elements (and amplify your understanding) of 431 in preparation for 432 may be to walk through some of the online [Biostatistics for Biomedical Research](http://hbiostat.org/bbr/) course, given by Frank Harrell. 
+    - The course is available freely [on Youtube](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA), and [sessions 1-6](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos) are the ones I'd consider trying to watch before 432, as I'll mostly assume you've got those ideas in place already in February when the course starts.
+    - The [BBR Notes (pdf)](http://hbiostat.org/doc/bbr.pdf) for the Harrell course (through Section 8) include many things we've covered in 431, plus some additional useful background material.
+- If you want to learn more about Bayesian ideas, and Bayesian inference, Richard McIlreath has an amazing 2-hour YouTube lecture called [Bayesian Inference is Just Counting](https://www.youtube.com/watch?v=_NEMHM1wDfI). Richard also has a whole course on [Statistical Rethinking](https://www.youtube.com/watch?v=4WVelCswXo4) which includes some of the topics we'll be studying in 432.
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
 - [A `ggplot2` Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) recently updated by Cedric Scherer, and now including interactive displays.
-- Care to make a beautiful streetmap with ggplot2? [Check out this tutorial](https://ggplot2tutor.com/streetmaps/streetmaps/).
 - [Brendan Cullen](https://twitter.com/_bcullen/status/1333878752741191680) started a great thread (see below) on Twitter [that I'm following](https://twitter.com/_bcullen/status/1333878752741191680).
 
 
@@ -39,16 +52,14 @@ Additional information will be forthcoming.
 
 ## Meeting with Professor Love
 
-After December 14, Dr. Love will be pretty quiet through mid-January. I'll next hold office hours during the week of January 21-25, when I will meet individually with students in the MS program in Health Care Analytics in particular, but will also have open Zoom meetings where I can talk to former 431 students and prospective 432 students about whatever they want to talk about. Details to come.
+Dr. Love will hold eight hours of open Zoom calls for students at the following times.
 
-# About 432
+- Tuesday 2021-01-19 from 1:00 PM to 3:00 PM Eastern Time.
+- Wednesday 2021-01-20 from 4:00 PM to 6:00 PM Eastern Time.
+- Thursday 2021-01-21 from 8:00 AM to 10:00 AM Eastern Time.
+- Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time
 
-1. Don’t panic. Nothing is mandatory before 2021-02-01 for 432, other than obtaining a book or two and registering for the course (no, you cannot audit.)
-2. My best advice about preparing for 432 is to get some rest. Take care of yourself, and those around you. **Make good choices**.
-3. The books for the Spring 2021 course are not yet settled. 
-    - We'll almost certainly read Nate Silver's [*The Signal and the Noise*](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
-    - We also might read Jeff Leek's [*How to be a Modern Scientist*](https://leanpub.com/modernscientist)
-    - I reserve the right to change my mind on those selections at any time before 2020-01-15.
+Join a call to talk with Dr. Love about anything at all, including 432, 500, 431. No appointment is required, and I am happy to talk during those times to any student who is interested. **To join in, send an email to Dr. Love with subject "January Zoom meetings" and I'll provide you with the Zoom information.**
 
 ## Topics I Discussed in 432 in Spring 2020
 
