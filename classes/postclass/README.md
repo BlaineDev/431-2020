@@ -19,6 +19,19 @@ Your grade in this course is determined by Dr. Love once all elements are in, us
 
 Additional information will be forthcoming.
 
+# Meeting with Professor Love
+
+Dr. Love will hold eight hours of open Zoom calls for students at the following times.
+
+- Tuesday 2021-01-19 from 1:00 PM to 3:00 PM Eastern Time.
+- Wednesday 2021-01-20 from 4:00 PM to 6:00 PM Eastern Time.
+- Thursday 2021-01-21 from 8:00 AM to 10:00 AM Eastern Time.
+- Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time
+
+Join a call to talk with Dr. Love about anything at all, including 432, 500, 431. No appointment is required, and I am happy to talk during those times to any student who is interested. **To join in, send an email to Dr. Love with subject "January Zoom meetings" and I'll provide you with the Zoom information.**
+
+---------------
+
 # Getting Ready for 432 Over the Break
 
 1. Don’t panic. Nothing is mandatory before 2021-02-01 for 432, other than obtaining a book or two and registering for the course (no, you cannot audit.)
@@ -45,21 +58,7 @@ Additional information will be forthcoming.
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
 - [A `ggplot2` Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) recently updated by Cedric Scherer, and now including interactive displays.
-- [Brendan Cullen](https://twitter.com/_bcullen/status/1333878752741191680) started a great thread (see below) on Twitter [that I'm following](https://twitter.com/_bcullen/status/1333878752741191680).
-
-
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/Cullen_2020.png)
-
-## Meeting with Professor Love
-
-Dr. Love will hold eight hours of open Zoom calls for students at the following times.
-
-- Tuesday 2021-01-19 from 1:00 PM to 3:00 PM Eastern Time.
-- Wednesday 2021-01-20 from 4:00 PM to 6:00 PM Eastern Time.
-- Thursday 2021-01-21 from 8:00 AM to 10:00 AM Eastern Time.
-- Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time
-
-Join a call to talk with Dr. Love about anything at all, including 432, 500, 431. No appointment is required, and I am happy to talk during those times to any student who is interested. **To join in, send an email to Dr. Love with subject "January Zoom meetings" and I'll provide you with the Zoom information.**
+- Want to know more about R Markdown? Check out [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 ## Topics I Discussed in 432 in Spring 2020
 
