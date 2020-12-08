@@ -8,7 +8,6 @@ See your email for the Zoom invitation and other important information. Confirm 
 ---- | --------- | ------------------ | ----------
 WED 12-09 | 09:30 AM to 09:55 AM | Marie Michenkova | Yes
 WED 12-09 | 10:00 AM to 10:25 AM | Long Vu | Yes
-WED 12-09 | 10:30 AM to 10:55 AM | Davis Weaver | Yes
 WED 12-09 | 1:00 PM to 1:25 PM | Asma Almijlad | Yes
 WED 12-09 | 1:30 PM to 1:55 PM | Will Patterson | Yes
 WED 12-09 | 2:00 PM to 2:25 PM | Razaq Durodoye | Yes
@@ -28,7 +27,7 @@ THU 12-10 | 10:30 AM to 10:55 AM | Jill Miracle | Yes
 THU 12-10 | 11:00 AM to 11:25 AM | Peng Zhang | Yes
 THU 12-10 | 1:30 PM to 1:55 PM | Leila Hojat | Yes
 THU 12-10 | 2:00 PM to 2:25 PM | Callie Ogland-Hand | Yes
-THU 12-10 | 2:25 PM to 2:55 PM | *BREAK* | -
+THU 12-10 | 2:30 PM to 2:55 AM | Davis Weaver | Yes
 THU 12-10 | 3:00 PM to 3:25 PM | Aya Jishi | Yes
 THU 12-10 | 3:30 PM to 3:55 PM | Emily Zetzer | Yes
 THU 12-10 | 4:00 PM to 4:25 PM | Rod Nault | Yes
