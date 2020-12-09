@@ -1042,6 +1042,8 @@ sur15 %>%
 
 Note that we don't meet the Cochran conditions here. In particular, we still have a 0 cell, and that might motivate us to consider collapsing or removing the "Other" category from the `fiction_r` variable. 
 
+**NOTE**: In doing your project B, I would only proceed once I'd identified variables (after whatever collapsing you decide to do) that meet the Cochran conditions (described below.)
+
 I'll leave it alone for now, and see what happens, returning to this later. The research question, if I'd written would need to address whether which medium (Movies, TV or other) you like is associated with which genre (Comedy, Drama, Fantasy/SF) you prefer.
 
 ## Main Analysis
@@ -1057,6 +1059,8 @@ chisq.test(table_E1)
 Note the warning, because our table does not meet the Cochran conditions.
 
 ### Running Fisher's Exact Test
+
+**NOTE**: In doing your project B, I would only proceed once I'd identified variables (after whatever collapsing you decide to do) that meet the Cochran conditions (described below.) I would not run Fisher's test.
 
 Given a small overall sample size, the `fisher.test` command will also produce a Fisher's exact test, which may be a little more appropriate here, given the presence of cells with small counts.
 
@@ -1075,8 +1079,9 @@ The "Cochran conditions", which require that we have:
 
 - no cells with 0 counts
 - at least 80% of the cells in our table with counts of 5 or higher
+- expected counts in each cell of the table should be 5 or more
 
-We don't meet those Cochran conditions here. In addition, since each cell in our 3x4 table is NOT at least 5, R throws a warning message when we run the Pearson $\chi^2$ test, and since we don't meet the Cochran conditions, the `fisher.test` results are a bit questionable, as well. We should consider whether collapsing or deleting some of the rows or columns might be more reasonable. And we'll do this next.
+We don't meet those Cochran conditions here. In addition, since each cell in our 3x4 table is NOT at least 5, R throws a warning message when we run the Pearson $\chi^2$ test, and since we don't meet the Cochran conditions, the `fisher.test` results are questionable, as well. We should consider whether collapsing or deleting some of the rows or columns might be more reasonable. And we'll do this next.
 
 ### An Association Plot for the 3x4 Table
 
