@@ -59,6 +59,7 @@ Join a call to talk with Dr. Love about anything at all, including 432, 500, 431
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) (the woefully complete guide) by Alex Reinhart
 - [A `ggplot2` Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) recently updated by Cedric Scherer, and now including interactive displays.
 - Want to know more about R Markdown? Check out [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- If you're interested, the American Statistical Association has always been the most useful membership in a professional organization for me. Joining as a student is inexpensive and straightforward at https://www.amstat.org/asa/membership/home.aspx.
 
 ## Topics I Discussed in 432 in Spring 2020
 
