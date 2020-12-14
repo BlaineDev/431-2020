@@ -30,7 +30,7 @@ Dr. Love will hold eight hours of open Zoom calls for students at the following 
 
 Join a call to talk with Dr. Love about anything at all, including 432, 500, 431. No appointment is required, and I am happy to talk during those times to any student who is interested. **To join in, send an email to Dr. Love with subject "January Zoom meetings" and I'll provide you with the Zoom information.**
 
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/clean.jpg)
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/clean.jpg) [Source](https://twitter.com/kareem_carr/status/1338156766287310852)
 
 ---------------
 
