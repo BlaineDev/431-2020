@@ -48,6 +48,7 @@ Join a call to talk with Dr. Love about anything at all, including 432, 500, 431
     - Building a personal website will be an optional lab assignment in 432.
     - Our 431 TA Wyatt Bensken has a wonderful blog post [How did you build this site?](https://wyattbensken.com/post/building-website/) explaining how he built [his site](https://wyattbensken.com/). Wyatt also produced a [YouTube video](https://www.youtube.com/watch?v=ZBxCk7P9wqE&feature=youtu.be) describing his motivation for doing the work.
     - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) is another great source developed by Yihui Xie, Amber Thomas and Alison Presmanes Hill.
+8. Update your version of Zoom, as will be required by CWRU as of early January. To update your desktop Zoom application, click on the profile icon in the top right corner of the application and select “check for updates” from the list. You can also download the latest version from https://zoom.us/download. 
 
 ## Ways To Learn More (over the break)
 
