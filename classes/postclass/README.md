@@ -43,7 +43,11 @@ Dr. Love will hold eight hours of open Zoom calls for students at the following 
 - Thursday 2021-01-21 from 8:00 AM to 10:00 AM Eastern Time.
 - Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time
 
-Join a call to talk with Dr. Love about anything at all, including 432, 500, 431. No appointment is required, and I am happy to talk during those times to any student who is interested. **To join in, send an email to Dr. Love with subject "January Zoom meetings" and I'll provide you with the Zoom information.**
+Join a call at any time that is convenient to you to talk with Dr. Love about anything at all, including 432, 500, or 431, of course. 
+
+- No appointment is required, and I am happy to talk during those times to any student who is interested. 
+- **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**. 
+- I'll provide the Zoom information just before the first meeting to avoid Zoom-bombing.**
 
 ---------------
 
