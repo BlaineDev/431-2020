@@ -11,7 +11,7 @@ On or around 2020-12-15, I will edit this post-class page to include information
 - [Getting Ready for 432](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#getting-ready-for-432-over-the-break)
     - [Ways to Learn More](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#ways-to-learn-more-over-the-break) (over the break, or just in the future)
     - [432 Topics from Spring 2020](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#topics-i-discussed-in-432-in-spring-2020)
-    - [Potential Topics for 432 in Spring 2021](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#key-topics-i-hope-to-do-justice-to-in-432-in-spring-2021)
+    - [Potential Topics for 432 in Spring 2021](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/README.md#potential-topics-for-432-in-spring-2021)
 
 ![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/clean.jpg) [Source](https://twitter.com/kareem_carr/status/1338156766287310852)
 
