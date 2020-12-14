@@ -4,6 +4,19 @@ On or around 2020-12-15, I will edit this post-class page to include information
 
 - I’ll email a link to everyone in the 431 class when this page is fully revised, regardless of whether they've signed up for 432. 
 
+# Table of Contents
+
+- [Information on 431 Close-Out and Grades](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#information-on-431-close-out-and-grades)
+- [Meeting with Professor Love](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love) (next opportunity: open office hours January 19-22)
+- [Getting Ready for 432](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#getting-ready-for-432-over-the-break)
+    - [Ways to Learn More](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#ways-to-learn-more-over-the-break) (over the break, or just in the future)
+    - [432 Topics from Spring 2020](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#topics-i-discussed-in-432-in-spring-2020)
+    - [Potential Topics for 432 in Spring 2021](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#key-topics-i-hope-to-do-justice-to-in-432-in-spring-2021)
+
+![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/clean.jpg) [Source](https://twitter.com/kareem_carr/status/1338156766287310852)
+
+---------------
+
 # Information on 431 Close-Out and Grades
 
 Your grade in this course is determined by Dr. Love once all elements are in, using the process described [in Section 13 of the Syllabus](https://thomaselove.github.io/431-2020-syllabus/determining-course-grades.html). 
@@ -19,6 +32,8 @@ Your grade in this course is determined by Dr. Love once all elements are in, us
 
 Additional information will be forthcoming.
 
+---------------
+
 # Meeting with Professor Love
 
 Dr. Love will hold eight hours of open Zoom calls for students at the following times.
@@ -29,8 +44,6 @@ Dr. Love will hold eight hours of open Zoom calls for students at the following 
 - Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time
 
 Join a call to talk with Dr. Love about anything at all, including 432, 500, 431. No appointment is required, and I am happy to talk during those times to any student who is interested. **To join in, send an email to Dr. Love with subject "January Zoom meetings" and I'll provide you with the Zoom information.**
-
-![](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/images/clean.jpg) [Source](https://twitter.com/kareem_carr/status/1338156766287310852)
 
 ---------------
 
@@ -50,6 +63,8 @@ Join a call to talk with Dr. Love about anything at all, including 432, 500, 431
     - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) is another great source developed by Yihui Xie, Amber Thomas and Alison Presmanes Hill.
 8. Update your version of Zoom, as will be required by CWRU as of early January. To update your desktop Zoom application, click on the profile icon in the top right corner of the application and select “check for updates” from the list. You can also download the latest version from https://zoom.us/download. 
 
+---------------
+
 ## Ways To Learn More (over the break)
 
 - My best tip is to keep analyzing data using R. Perhaps you could work on one or more of [the Tidy Tuesday projects](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/). There's a new data set every week! 
@@ -63,6 +78,8 @@ Join a call to talk with Dr. Love about anything at all, including 432, 500, 431
 - [A `ggplot2` Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) recently updated by Cedric Scherer, and now including interactive displays.
 - Want to know more about R Markdown? Check out [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - If you're interested, the American Statistical Association has always been the most useful membership in a professional organization for me. Joining as a student is inexpensive and straightforward at https://www.amstat.org/asa/membership/home.aspx.
+
+---------------
 
 ## Topics I Discussed in 432 in Spring 2020
 
@@ -91,7 +108,9 @@ These are the calendar descriptions of 432 classes in Spring 2020. 2021 will be 
 21. Retrospective Design / Thinking about Power
 22. Dealing with Hierarchical Data: An Introduction
 
-## Key Topics I Hope to Do Justice To in 432 in Spring 2021
+---------------
+
+## Potential Topics for 432 in Spring 2021
 
 These are my notes (mostly to myself) about important ideas for 432 this Spring. 
 
