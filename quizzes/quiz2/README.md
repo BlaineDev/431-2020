@@ -2,7 +2,7 @@
 
 The [answer sketch for Quiz 2](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2_with_sketch.pdf) is now available. 
 
-- Grades on Quiz 2 will be provided to you via email to your preferred address. You should receive your grade by 2020-12-18.
+- Grades on Quiz 2 will be provided to you via email to your preferred address by the end of the day on 2020-12-16.
 
 ## Old Information
 
