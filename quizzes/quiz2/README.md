@@ -1,5 +1,11 @@
 # Quiz 2 Information for 431 in Fall 2020
 
+The [answer sketch for Quiz 2](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2_with_sketch.pdf) is now available. 
+
+- Grades on Quiz 2 will be provided to you via email to your preferred address. You should receive your grade by 2020-12-18.
+
+## Old Information
+
 Available | Deadline
 --------- | ------------
 Now, see below. | Monday 2020-12-14 at Noon
