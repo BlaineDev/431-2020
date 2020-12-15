@@ -7,6 +7,8 @@ On or around 2020-12-15, I will edit this post-class page to include information
 # Table of Contents
 
 - [Information on 431 Close-Out and Grades](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#information-on-431-close-out-and-grades)
+    - [Project B](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#project-b)
+    - [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#quiz-2)
 - [Meeting with Professor Love](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love) (next opportunity: open office hours January 19-22)
 - [Getting Ready for 432](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#getting-ready-for-432-over-the-break)
     - [Ways to Learn More](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#ways-to-learn-more-over-the-break) (over the break, or just in the future)
