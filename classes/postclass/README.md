@@ -10,8 +10,8 @@ On or around 2020-12-15, I will edit this post-class page to include information
     - [Project B](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#project-b)
     - [Quiz 2](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#quiz-2)
 - [Meeting with Professor Love](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love) (next opportunity: open office hours January 19-22)
-- [Getting Ready for 432](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#getting-ready-for-432-over-the-break)
-    - [Ways to Learn More](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#ways-to-learn-more-over-the-break) (over the break, or just in the future)
+- [Getting Ready for 432](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#getting-ready-for-432-over-the-break) (including 10 things you should *consider* doing)
+    - [Ways to Learn More](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#ways-to-learn-more-over-the-break) (over the break, or just in the future if you're not taking 432 this Spring)
     - [432 Topics from Spring 2020](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#topics-i-discussed-in-432-in-spring-2020)
     - [Potential Topics for 432 in Spring 2021](https://github.com/THOMASELOVE/431-2020/blob/master/classes/postclass/README.md#potential-topics-for-432-in-spring-2021)
 
@@ -77,6 +77,7 @@ Join a call at any time that is convenient to you to talk with Dr. Love about an
     - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) is another great source developed by Yihui Xie, Amber Thomas and Alison Presmanes Hill.
 8. Update your version of Zoom, as will be required by CWRU as of early January. To update your desktop Zoom application, click on the profile icon in the top right corner of the application and select “check for updates” from the list. You can also download the latest version from https://zoom.us/download. 
 9. If you want to help with [the R Community Survey](https://github.com/rstudio/r-community-survey), they'd love to hear about how you've learned and how you use R. Take the survey at https://rstd.io/r-survey-en, and [review previous years' data here](https://github.com/rstudio/r-community-survey).
+10. Come visit me during my [open office hours on January 19-22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love) if you have any questions. Email is fine, too, but I'll be slower than usual to respond to it before February 1.
 
 ---------------
 
