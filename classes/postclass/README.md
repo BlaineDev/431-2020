@@ -24,13 +24,21 @@ Your grade in this course is determined by Dr. Love once all elements are in, us
 - Your **class participation grade** is determined in large part by your completion of Minute Papers. Your Minute Paper grade is available [in the grades roster](http://bit.ly/431-2020-grades). 
     - Your class participation grade cannot be lower than your Minute Paper grade. Dr. Love won't make final decisions about class participation adjustments until all other grades are complete.
     - Dr. Love can add up to 15 points for completed bonus activities, helpful Piazza comments/answers/questions, helpful in-class participation and TA feedback. Most students will gain between 0 and 5 points. 
-        - Worried? Finish the evaluation at https://webapps.case.edu/courseevals/ so that you can answer `a` to question 31 on Quiz 2.
+        - As of 4:15 PM on 2020-12-15, 67 of the 70 had completed the evaluation at https://webapps.case.edu/courseevals/. I hope the last 3 of you get this done now.
 - Your **labs grade** is available now [in the grades roster](http://bit.ly/431-2020-grades). This includes your grade (and TA feedback) on Lab 8.
-    - If you want Dr. Love to review your grade on a Lab, you must submit the [form to request a regrade](http://bit.ly/431-2020-lab-regrade-requests) by Thursday 2020-12-10 at noon.
-- Your **projects grade**. You should know your grade on Project A already. Grades on Project B will be available once Dr. Love has graded Project B.
-- Your **quiz grade**. You should know your grade on Quiz 1 already. Grades on Quiz 2 will be available once Dr. Love has graded Quiz 2.
+    - Dr. Love is now reviewing the regrade requests. You will receive an email if your regrade request resulted in any changes to your labs grade.
+- Your **projects grade**. You should know your grade on Project A already. Information regarding Project B is available below.
+- Your **quiz grade**. You should know your grade on Quiz 1 already. Information regarding Quiz 2 is available below.
 
-Additional information will be forthcoming.
+## Project B
+
+1. Project B grading is now complete.
+2. Dr. Love will email you information about your grade on Project B as soon as possible. This will include more extensive comments than he'd originally thought, pulled together from feedback on the reports, the video/zoom meeting, and your self-evaluation.
+
+## Quiz 2
+
+1. The [answer sketch for Quiz 2](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2_with_sketch.pdf) is now available. It includes some information on grades class-wide. The best score was 95 out of 100 on the Quiz.
+2. Dr. Love has completed grading Quiz 2, and will email you information about your grade on Quiz 2 as soon as possible, including the points you received on each item.
 
 ---------------
 
