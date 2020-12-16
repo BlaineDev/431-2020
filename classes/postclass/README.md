@@ -1,8 +1,8 @@
 # Post-Class 431 Web Page
 
-On or around 2020-12-15, I will edit this post-class page to include information on 431 grades, and detailed suggestions for the break.
+This page is now as complete as it's likely to be. Look in your email for two notes from me, one pointing you to this page, and another providing a PDF report (about 3 pages long) on (a) our reactions to your Project B, (b) your performance on Quiz 2, and (c) the elements that went into your grade in the course. 
 
-- I’ll email a link to everyone in the 431 class when this page is fully revised, regardless of whether they've signed up for 432. 
+I will answer email about 431 or other things through 2020-12-18, and then expect to go pretty quiet until [my office hours on 2021-01-19](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love). 
 
 # Table of Contents
 
@@ -21,32 +21,34 @@ On or around 2020-12-15, I will edit this post-class page to include information
 
 # Information on 431 Close-Out and Grades
 
-Your grade in this course is determined by Dr. Love once all elements are in, using the process described [in Section 13 of the Syllabus](https://thomaselove.github.io/431-2020-syllabus/determining-course-grades.html). 
+Your grade in this course was determined by Dr. Love using the process described [in Section 13 of the Syllabus](https://thomaselove.github.io/431-2020-syllabus/determining-course-grades.html). 
 
-- Your **class participation grade** is determined in large part by your completion of Minute Papers. Your Minute Paper grade is available [in the grades roster](http://bit.ly/431-2020-grades). 
-    - Your class participation grade cannot be lower than your Minute Paper grade. Dr. Love won't make final decisions about class participation adjustments until all other grades are complete.
-    - Dr. Love can add up to 15 points for completed bonus activities, helpful Piazza comments/answers/questions, helpful in-class participation and TA feedback. Most students will gain between 0 and 5 points. 
-        - As of 4:15 PM on 2020-12-15, 67 of 70 students had completed the evaluation at https://webapps.case.edu/courseevals/. If you're one of the 3 holdouts, please do it.
+- You should receive an email from Dr. Love late in the evening on 2020-12-15 specifying (among other things) your grades on each of the four main elements of the course.
+- Your **class participation grade** was determined in large part by your completion of Minute Papers. Your Minute Paper grade is available [in the grades roster](http://bit.ly/431-2020-grades). 
+    - Your class participation grade cannot be lower than your Minute Paper grade. 
+    - Dr. Love could have added up to 15 points for completed bonus activities, helpful Piazza comments/answers/questions, helpful in-class participation and TA feedback. Most students gained between 0 and 5 points. 
+        - As of 10 PM on 2020-12-15, 67 of 70 students had completed the evaluation at https://webapps.case.edu/courseevals/. If you're one of the 3 holdouts, please do it.
 - Your **labs grade** is available now [in the grades roster](http://bit.ly/431-2020-grades). This includes your grade (and TA feedback) on Lab 8.
-    - Dr. Love is now reviewing the regrade requests. You will receive an email if your regrade request resulted in any changes to your labs grade.
+    - Dr. Love has reviewed all requests. You have already received an email in response to your request if you made one.
 - Your **projects grade**. You should know your grade on Project A already. Information regarding Project B is available below.
 - Your **quiz grade**. You should know your grade on Quiz 1 already. Information regarding Quiz 2 is available below.
 
 ## Project B
 
-1. Project B grading is now complete.
-2. Dr. Love will email you information about your grade on Project B as soon as possible. This will include more extensive comments than he'd originally thought, pulled together from feedback on the reports, the video/zoom meeting, and your self-evaluation.
+Project B grading is now complete. Dr. Love's PDF email on 2020-12-15 provides full details on our response to your Project B. This will include more extensive comments than he'd originally thought, pulled together from feedback on the reports, the video/zoom meeting, and your self-evaluation.
 
 ## Quiz 2
 
 1. The [answer sketch for Quiz 2](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz2/431_2020_quiz2_with_sketch.pdf) is now available. It includes some information on grades class-wide. The best score was 95 out of 100 on the Quiz.
-2. Dr. Love has completed grading Quiz 2, and will email you information about your grade on Quiz 2 as soon as possible, including the points you received on each item.
+2. Dr. Love has completed grading Quiz 2, and his PDF email on 2020-12-15 contains detailed information about your grade on Quiz 2, including the points you received on each item.
 
 ---------------
 
 # Meeting with Professor Love
 
-Dr. Love will hold eight hours of open Zoom calls for students at the following times.
+I will answer email through 2020-12-18, and then expect to go pretty quiet for approximately four weeks, at least until my office hours on 2021-01-19. 
+
+Dr. Love will hold eight hours of open Zoom calls for students at the following times. **To join a call, send an email to Dr. Love with subject "January Zoom meetings" and he'll send you the Zoom information shortly before the hours**.
 
 - Tuesday 2021-01-19 from 1:00 PM to 3:00 PM Eastern Time.
 - Wednesday 2021-01-20 from 4:00 PM to 6:00 PM Eastern Time.
@@ -56,8 +58,7 @@ Dr. Love will hold eight hours of open Zoom calls for students at the following 
 Join a call at any time that is convenient to you to talk with Dr. Love about anything at all, including 432, 500, or 431, of course. 
 
 - No appointment is required, and I am happy to talk during those times to any student who is interested. 
-- **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**. 
-- I'll provide the Zoom information just before the first meeting to avoid Zoom-bombing.**
+- Again, **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**. I'll provide the Zoom information just before the first meeting to avoid Zoom-bombing.
 
 ---------------
 
@@ -77,7 +78,7 @@ Join a call at any time that is convenient to you to talk with Dr. Love about an
     - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) is another great source developed by Yihui Xie, Amber Thomas and Alison Presmanes Hill.
 8. Update your version of Zoom, as will be required by CWRU as of early January. To update your desktop Zoom application, click on the profile icon in the top right corner of the application and select “check for updates” from the list. You can also download the latest version from https://zoom.us/download. 
 9. If you want to help with [the R Community Survey](https://github.com/rstudio/r-community-survey), they'd love to hear about how you've learned and how you use R. Take the survey at https://rstd.io/r-survey-en, and [review previous years' data here](https://github.com/rstudio/r-community-survey).
-10. Come visit me during my [open office hours on January 19-22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love) if you have any questions. Email is fine, too, but I'll be slower than usual to respond to it before February 1.
+10. Come visit me during my [open office hours on January 19-22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/postclass#meeting-with-professor-love) if you have any questions. Email is fine, too, but I'll be slower than usual to respond to it before February 1. **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**.
 
 ---------------
 
