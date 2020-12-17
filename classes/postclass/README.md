@@ -48,17 +48,22 @@ Project B grading is now complete. Dr. Love's PDF email on 2020-12-15 provides f
 
 I will answer email through 2020-12-18, and then expect to go pretty quiet for approximately four weeks, at least until my office hours on 2021-01-19. 
 
-Dr. Love will hold eight hours of open Zoom calls for students at the following times. **To join a call, send an email to Dr. Love with subject "January Zoom meetings" and he'll send you the Zoom information shortly before the hours**.
+Dr. Love will hold eight hours of open Zoom calls for students at the following times. 
 
 - Tuesday 2021-01-19 from 1:00 PM to 3:00 PM Eastern Time.
 - Wednesday 2021-01-20 from 4:00 PM to 6:00 PM Eastern Time.
 - Thursday 2021-01-21 from 8:00 AM to 10:00 AM Eastern Time.
-- Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time
+- Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time.
+
+Dr. Love will send the Zoom information a day or two in advance to:
+
+- all students who have registered for 432 or 500 in Spring 2021, or who are in the MS program in Health Care Analytics, or who will be serving as a TA for 432 or 500. 
+- plus anyone else who sends him an email with the subject **January Zoom meetings**.
 
 Join a call at any time that is convenient to you to talk with Dr. Love about anything at all, including 432, 500, or 431, of course. 
 
 - No appointment is required, and I am happy to talk during those times to any student who is interested. 
-- Again, **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**. I'll provide the Zoom information just before the first meeting to avoid Zoom-bombing.
+- Again, **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**. 
 
 ---------------
 
