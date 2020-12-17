@@ -64,7 +64,6 @@ Dr. Love will send the Zoom information a day or two in advance to:
 Join a call at any time that is convenient to you to talk with Dr. Love about anything at all, including 432, 500, or 431, of course. 
 
 - No appointment is required, and I am happy to talk during those times to any student who is interested. 
-- Again, **To join a call, send an email to Dr. Love with subject "January Zoom meetings"**. 
 
 ---------------
 
