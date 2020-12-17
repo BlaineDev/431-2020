@@ -48,11 +48,12 @@ Project B grading is now complete. Dr. Love's PDF email on 2020-12-15 provides f
 
 I will answer email through 2020-12-18, and then expect to go pretty quiet for approximately four weeks, at least until my office hours on 2021-01-19. 
 
-Dr. Love will hold eight hours of open Zoom calls for students at the following times. Note that 2020-01-21 is the day of [rstudio::global(2021)](https://global.rstudio.com/student/catalog).
+Dr. Love will hold eight hours of open Zoom calls for students at the following times.
 
 - Tuesday 2021-01-19 from 1:00 PM to 3:00 PM Eastern Time.
-- Wednesday 2021-01-20 from 8:00 AM to 10:00 AM Eastern Time. (note new date)
+- Wednesday 2021-01-20 from 8:00 AM to 10:00 AM Eastern Time. (**note new date for this session**)
 - Wednesday 2021-01-20 from 4:00 PM to 6:00 PM Eastern Time.
+- Thursday 2021-01-21 is the day of [rstudio::global(2021)](https://global.rstudio.com/student/catalog), if you're interested. It's free!
 - Friday 2021-01-22 from 11:00 AM to 1:00 PM Eastern Time.
 
 Dr. Love will send the Zoom information a day or two in advance to:
